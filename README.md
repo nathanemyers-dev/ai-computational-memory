@@ -20,4 +20,4 @@ white-paper/use-cases.md
 white-paper/FAQ.md  
 
 Outcome  
-This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non advisory boundaries and supports enterprise-grade AI.
+This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non-advisory boundaries and supports enterprise-grade AI.
