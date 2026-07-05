@@ -1,6 +1,23 @@
-# ai-computational-memory
-AI systems cannot retain user‑provided financial or analytical models because current guardrails interpret any persistent structure as regulated advice, forcing the system to wipe state between sessions. This creates a daily rebuild cycle where users must reconstruct static models, inputs, and calculations that should be safely maintained without crossing advisory boundaries. The absence of a defined regulatory category for non‑advisory computational memory prevents enterprises, vendors, and regulators from enabling continuity, predictability, and safe dynamic modeling. 
+AI Computational Memory
 
-Computational memory is the set of mechanisms through which AI systems store, retain, transform, and reuse information across interactions in ways that influence future outputs. It operates as a functional layer distinct from model weights, prompts, and traditional data stores, requiring its own taxonomy, controls, and supervisory expectations. Establishing this category enables consistent governance, measurable risk treatment, and industry‑wide alignment.  
+AI computational memory is a governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. It provides a formal category for safe persistence that supports enterprise scale modeling and predictable behavior.
 
-White paper coming soon.
+Problem Statement
+AI systems today operate without a defined persistence layer. Guardrails force full resets between sessions, preventing continuity and breaking repeatability. Enterprises require stable analytical surfaces that support predictable behavior and structured reuse. Computational memory provides a governed substrate that allows models to retain and reuse information safely under explicit constraints.
+
+Category Definition
+Computational memory is a functional layer that separates non advisory continuity from advisory activity. It defines what can be retained, how it can be transformed, and where supervisory controls apply. It provides a formal boundary between safe persistence and regulated guidance.
+
+White Paper
+The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment.
+
+white-paper/index.md
+white-paper/governance-architecture.md
+white-paper/operating-model.md
+white-paper/implementation-path.md
+white-paper/regulatory-alignment.md
+white-paper/use-cases.md
+white-paper/faq.md
+
+Outcome
+This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non advisory boundaries and supports enterprise grade AI.
