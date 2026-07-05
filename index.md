@@ -6,7 +6,7 @@ White Paper
 
 The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
 
-[governance-architecture](white-paper/governance-architecture.md)
+[governance-architecture](white-paper/governance-architecture.md)  
 [operating-model](white-paper/operating-model.md)  
 [implementation-path](white-paper/implementation-path.md)  
 [regulatory-alignment](white-paper/regulatory-alignment.md)  
