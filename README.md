@@ -11,13 +11,13 @@ Computational memory is a functional layer that separates non advisory continuit
 White Paper  
 The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment.
 
-white-paper/index.md
-white-paper/governance-architecture.md
-white-paper/operating-model.md
-white-paper/implementation-path.md
-white-paper/regulatory-alignment.md
-white-paper/use-cases.md
-white-paper/faq.md
+white-paper/index.md  
+white-paper/governance-architecture.md  
+white-paper/operating-model.md  
+white-paper/implementation-path.md  
+white-paper/regulatory-alignment.md  
+white-paper/use-cases.md  
+white-paper/faq.md  
 
 Outcome  
 This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non advisory boundaries and supports enterprise grade AI.
