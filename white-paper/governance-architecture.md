@@ -1,10 +1,11 @@
 Governance Architecture
+
 The governance architecture defines the rules, constraints, and supervisory mechanisms that allow computational memory to operate safely. It establishes the boundaries that prevent continuity from becoming advice and ensures that all retained structures remain within non advisory domains.
 
-Purpose
+Purpose  
 The purpose of the governance architecture is to create a controlled persistence layer that supports continuity without enabling prediction, recommendation, or personalized guidance. It provides the formal structure that separates safe retention from regulated activity.
 
-Retention Rules
+Retention Rules  
 Retention rules define what information can be stored, how long it can be kept, and under what conditions it must be removed. These rules ensure that computational memory maintains only non advisory content and does not accumulate data that could be interpreted as guidance.
 
 Transformation Controls
