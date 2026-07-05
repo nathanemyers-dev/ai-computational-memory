@@ -5,8 +5,8 @@ Computational memory is the missing layer in modern AI systems. It is the safe, 
 This site defines the category. It establishes the problem statement, the taxonomy, and the governance architecture required for non‑advisory persistence. It provides the foundation for the upcoming white paper and the safe‑layer definitions that enterprises, vendors, and regulators can align on.
 
 Sections:
-Problem statement
-Category definition
-White paper
+Problem statement  
+Category definition  
+White paper  
 
 More sections coming soon.
