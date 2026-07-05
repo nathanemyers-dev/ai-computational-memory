@@ -1,4 +1,6 @@
 # ai-computational-memory
 AI systems cannot retain user‑provided financial or analytical models because current guardrails interpret any persistent structure as regulated advice, forcing the system to wipe state between sessions. This creates a daily rebuild cycle where users must reconstruct static models, inputs, and calculations that should be safely maintained without crossing advisory boundaries. The absence of a defined regulatory category for non‑advisory computational memory prevents enterprises, vendors, and regulators from enabling continuity, predictability, and safe dynamic modeling. 
+
 Computational memory is the set of mechanisms through which AI systems store, retain, transform, and reuse information across interactions in ways that influence future outputs. It operates as a functional layer distinct from model weights, prompts, and traditional data stores, requiring its own taxonomy, controls, and supervisory expectations. Establishing this category enables consistent governance, measurable risk treatment, and industry‑wide alignment.  
+
 White paper coming soon.
