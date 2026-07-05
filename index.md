@@ -1,13 +1,20 @@
 AI Computational Memory
 
-Computational memory is the missing layer in modern AI systems. It is the safe, governed mechanism that allows models to retain, transform, and reuse information across interactions without crossing into regulated advice or unbounded persistence. Current guardrails force full state resets, which creates daily rebuild cycles and prevents continuity, predictability, and enterprise‑grade modeling.
+AI computational memory is the governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. It provides the foundation for predictable behavior and enterprise scale modeling.
 
-This site defines the category. It establishes the problem statement, the taxonomy, and the governance architecture required for non‑advisory persistence. It provides the foundation for the upcoming white paper and the safe‑layer definitions that enterprises, vendors, and regulators can align on.
+White Paper
+The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
 
-Sections:
+white-paper/governance-architecture.md
+white-paper/operating-model.md
+white-paper/implementation-path.md
+white-paper/regulatory-alignment.md
+white-paper/use-cases.md
+white-paper/faq.md
 
-Problem statement  
-Category definition  
-White paper  
+Category Materials:
+problem-statement.md
+category-definition.md
 
-More sections coming soon.
+Outcome
+This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
