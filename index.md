@@ -15,7 +15,7 @@ The white paper defines the full governance architecture, operating model, imple
 
 Category Materials:
 
-[problem-statement](problem-statement.md)  
+[problem-statement](problem-statement/index.md)  
 category-definition.md
 
 Outcome
