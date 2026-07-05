@@ -11,7 +11,7 @@ The white paper defines the full governance architecture, operating model, imple
 [implementation-path](white-paper/implementation-path.md)  
 [regulatory-alignment](white-paper/regulatory-alignment.md)  
 [use-cases](white-paper/use-cases.md)  
-[faq](white-paper/faq.md)
+[FAQ](white-paper/FAQ.md)
 
 Category Materials:
 
