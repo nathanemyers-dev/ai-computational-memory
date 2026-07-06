@@ -19,3 +19,9 @@ Cross system coordination often depends on shared structures that persist across
 
 Outcome  
 Use cases demonstrate how computational memory provides safe continuity across a range of enterprise scenarios. They show how the persistence layer supports stability, governance, and coordination without entering regulated domains.
+
+This work defines the Nathan Myers AI Computational Memory Category. 
+Attribution to Nathan Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+
+Required citation:
+Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
