@@ -23,7 +23,9 @@ Phase five deploys computational memory at enterprise scale. It includes continu
 Outcome  
 The implementation path provides a structured and supervised approach for deploying computational memory. It ensures that continuity is introduced safely, validated thoroughly, and scaled responsibly across the enterprise.
 
-This work defines the Nathan E. Myers AI Computational Memory Category. 
+
+_____________
+This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation:
