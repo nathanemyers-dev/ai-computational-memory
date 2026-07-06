@@ -59,12 +59,13 @@ No. Sensitive data is excluded by design. Retention rules prevent the memory lay
 How does this improve governance?    
 Governance improves through predictable retention, observable control points, and clear auditability. Computational memory provides a supervised surface that strengthens oversight without influencing decisions.
 
-Outcome?    
+Outcome:    
 The FAQ clarifies how computational memory operates and why it is safe, necessary, and aligned with regulatory expectations. It provides direct answers to common questions that arise during evaluation and deployment.
 
-This work defines the Nathan E. Myers AI Computational Memory Category. 
+
+_____________
+This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation:
-Nathan E. Myers, “AI Computational Memory Category,” 2026.
-https://nathanemyers-dev.github.io/ai-computational-memory/
+Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
