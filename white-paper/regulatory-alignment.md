@@ -5,8 +5,8 @@ Regulatory alignment describes how computational memory fits within existing and
 Purpose  
 The purpose of regulatory alignment is to demonstrate that computational memory can be deployed without triggering obligations associated with personalized guidance, prediction, or recommendation. It provides a clear mapping between the category and regulatory intent.
 
-Non Advisory Boundary  
-The non advisory boundary defines the separation between safe persistence and regulated activity. It ensures that retained structures do not influence decisions, generate predictions, or provide personalized outputs. This boundary is the core mechanism that keeps computational memory compliant.
+Non-Advisory Boundary  
+The non-advisory boundary defines the separation between safe persistence and regulated activity. It ensures that retained structures do not influence decisions, generate predictions, or provide personalized outputs. This boundary is the core mechanism that keeps computational memory compliant.
 
 Supervisory Compatibility  
 Supervisory compatibility describes how the memory layer integrates with existing oversight functions. It ensures that compliance teams, governance leads, and regulators can review retention rules, transformation controls, and access patterns without requiring new regulatory constructs.
@@ -23,7 +23,9 @@ Transparency ensures that enterprises and regulators can understand how computat
 Regulatory Outcome  
 Regulatory alignment ensures that computational memory can be adopted without entering advisory domains or triggering additional regulatory obligations. It provides a clear and supervised pathway for enterprises to deploy continuity safely and predictably.
 
-This work defines the Nathan E. Myers AI Computational Memory Category. 
+
+_____________
+This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation:
