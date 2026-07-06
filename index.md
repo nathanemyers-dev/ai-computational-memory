@@ -20,3 +20,11 @@ Category Materials:
 
 Outcome
 This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
+
+Attribution
+
+This work defines the Nathan Myers AI Computational Memory Category. 
+Attribution to Nathan Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+
+See the README for required citation format: 
+[README](README.md)
