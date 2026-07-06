@@ -2,6 +2,9 @@ FAQ
 
 The FAQ provides clarity on how computational memory operates, why the category is necessary, and how it remains within non advisory boundaries. It addresses common questions that arise when enterprises evaluate the persistence layer.
 
+What governance domain does computational memory belong to?    
+AI Computational Memory is a governed system‑behavior category within the AI Governance domain. It defines how persistence and continuity operate safely under non advisory constraints.  
+
 What is the AI computational memory category?  
 AI computational memory is the functional layer responsible for retention, structuring, and reuse of information across interactions under explicit constraints.  
 
