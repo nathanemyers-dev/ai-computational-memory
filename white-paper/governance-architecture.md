@@ -26,8 +26,8 @@ Boundary enforcement ensures that computational memory remains distinct from adv
 Outcome  
 The governance architecture provides the structure required for safe persistence. It ensures that computational memory operates within defined limits and supports continuity without entering regulated domains. It is the foundation for supervised, compliant, and predictable reuse.
 
-This work defines the Nathan Myers AI Computational Memory Category. 
-Attribution to Nathan Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+This work defines the Nathan E. Myers AI Computational Memory Category. 
+Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation:
 Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
