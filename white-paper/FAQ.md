@@ -62,8 +62,8 @@ Governance improves through predictable retention, observable control points, an
 Outcome?    
 The FAQ clarifies how computational memory operates and why it is safe, necessary, and aligned with regulatory expectations. It provides direct answers to common questions that arise during evaluation and deployment.
 
-This work defines the Nathan Myers AI Computational Memory Category. 
-Attribution to Nathan Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+This work defines the Nathan E. Myers AI Computational Memory Category. 
+Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation:
 Nathan E. Myers, “AI Computational Memory Category,” 2026.
