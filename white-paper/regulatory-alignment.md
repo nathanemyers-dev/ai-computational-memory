@@ -22,3 +22,9 @@ Transparency ensures that enterprises and regulators can understand how computat
 
 Regulatory Outcome  
 Regulatory alignment ensures that computational memory can be adopted without entering advisory domains or triggering additional regulatory obligations. It provides a clear and supervised pathway for enterprises to deploy continuity safely and predictably.
+
+This work defines the Nathan Myers AI Computational Memory Category. 
+Attribution to Nathan Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+
+Required citation:
+Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
