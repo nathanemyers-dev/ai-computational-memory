@@ -2,6 +2,18 @@ AI Computational Memory
 
 AI computational memory is the governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. It provides the foundation for predictable behavior and enterprise scale modeling.
 
+Why this matters
+
+AI has the technical ability to maintain continuity, but vendors force a full reset every session because retained memory would be classified as advisory activity under current regulatory rules. This prevents AI from meeting user needs and blocks predictable behavior at scale. Examples include:
+
+When I build a model to evaluate an exit stock price, AI triggers advisory guardrails even though I am not asking it to make a decision. I only need continuity so I can adjust inputs and compare outcomes.
+
+When I create long term financial plans, AI cannot retain my assumptions or prior calculations. Each session starts from zero, which forces me to rebuild the entire model every time.
+
+When I track job search workflows, AI cannot remember prior applications or recruiter interactions. I have to restate the entire context in every session, which breaks repeatability.
+
+These examples show why industry and regulators need a defined category for safe continuity so AI can operate efficiently without crossing compliance lines.
+
 White Paper
 
 The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
