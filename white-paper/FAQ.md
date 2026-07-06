@@ -41,9 +41,8 @@ Retrieval pulls information from external sources. Computational memory retains 
 Why is continuity needed?    
 Continuity is required for repeatability, stability, and predictable behavior. Without continuity, systems reset between interactions, creating friction and preventing enterprise scale modeling.
 
-How does this category relate to the model’s architecture?
+How does this category relate to the model’s architecture?  
 It defines a governed substrate beneath the model. It ensures that memory operations are safe, bounded, and non advisory, enabling predictable behavior across interactions.
-
 
 What prevents misuse?    
 Misuse is prevented through retention rules, transformation controls, access restrictions, and supervisory mechanisms. These controls ensure that retained structures cannot produce advisory outputs.
