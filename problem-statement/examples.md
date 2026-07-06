@@ -12,6 +12,7 @@ AI systems today have the technical ability to maintain continuity, but vendors 
 
 These examples show how the lack of governed persistence prevents AI from meeting user needs and blocks predictable behavior at scale.
 
+_____________
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
