@@ -23,7 +23,9 @@ The implementation path provides a phased approach for introducing computational
 Conclusion  
 Computational memory is a necessary layer for enterprise grade AI. It enables continuity, structured reuse, and governed persistence without entering advisory domains. This white paper provides the foundation for defining, supervising, and implementing this category across the industry.
 
-This work defines the Nathan E. Myers AI Computational Memory Category. 
+
+_____________
+This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation:
