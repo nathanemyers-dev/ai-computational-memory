@@ -26,7 +26,9 @@ The integration model describes how computational memory connects to existing en
 Outcome  
 The operating model provides the structure required for predictable and supervised use of computational memory. It ensures that continuity is maintained safely, consistently, and within defined boundaries across the enterprise.
 
-This work defines the Nathan E. Myers AI Computational Memory Category. 
+
+_____________
+This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation:
