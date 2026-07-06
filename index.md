@@ -23,8 +23,8 @@ This site provides the complete category definition and technical specification 
 
 Attribution
 
-This work defines the Nathan Myers AI Computational Memory Category. 
-Attribution to Nathan Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+This work defines the Nathan E. Myers AI Computational Memory Category. 
+Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 See the README for required citation format: 
 [README](README.md)
