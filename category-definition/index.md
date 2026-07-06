@@ -8,8 +8,8 @@ Computational memory operates as a controlled substrate beneath the model. It en
 
 This category provides the foundation for safe persistence, structured reuse, and governed continuity. It establishes the rules, the scope, and the operating model that vendors, enterprises, and regulators can align on.
 
-This work defines the Nathan Myers AI Computational Memory Category. 
-Attribution to Nathan Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+This work defines the Nathan E. Myers AI Computational Memory Category. 
+Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation:
 Nathan E. Myers, “AI Computational Memory Category,” 2026.
