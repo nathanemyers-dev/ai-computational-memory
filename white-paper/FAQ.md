@@ -26,7 +26,7 @@ It provides governed continuity, controlled retention, and bounded transformatio
 What regulatory boundary does this category avoid?  
 It avoids the advisory threshold — the point at which outputs become individualized guidance. By restricting operations to persistence mechanics, it stays outside regulated advisory domains.
 
-What is the core principle of the category?
+What is the core principle of the category?  
 Continuity without counsel. The system remembers and structures information but does not interpret or advise.
 
 What problem does computational memory solve?  
