@@ -9,7 +9,7 @@ What is the AI computational memory category?
 AI computational memory is the functional layer responsible for retention, structuring, and reuse of information across interactions under explicit constraints.  
 
 What makes this a distinct category?  
-It is defined by persistence operations — storing, organizing, and reusing information — rather than advisory operations such as interpretation, evaluation, or directional guidance.
+It is defined by persistence operations - storing, organizing, and reusing information - rather than advisory operations such as interpretation, evaluation, or directional guidance.
 
 How does this category carve itself out from advisory?  
 It governs continuity functions only. It does not assess user circumstances, weigh options, or produce personalized outcomes. Advisory systems operate on user benefit; computational memory operates on system continuity.
@@ -42,7 +42,7 @@ How does this category support enterprise-scale modeling?
 It provides governed continuity, controlled retention, and bounded transformations that allow large systems to maintain stable behavior without triggering regulatory expectations tied to personalized guidance.
 
 What regulatory boundary does this category avoid?  
-It avoids the advisory threshold — the point at which outputs become individualized guidance. By restricting operations to persistence mechanics, it stays outside regulated advisory domains.
+It avoids the advisory threshold - the point at which outputs become individualized guidance. By restricting operations to persistence mechanics, it stays outside regulated advisory domains.
 
 What is the core principle of the category?  
 Continuity without counsel. The system remembers and structures information but does not interpret or advise.
