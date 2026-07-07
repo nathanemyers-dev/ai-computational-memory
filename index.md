@@ -6,9 +6,9 @@ AI computational memory is the governed persistence layer that enables continuit
 
 AI systems have the technical ability to maintain continuity, but vendors force a full reset every session because retained memory can be classified as advisory activity under current regulatory rules. This creates a structural problem. The system must prevent the formation of advisory state, not only advisory output. As a result, memory can fail silently even when no advisory warning is shown.
 
-There are three independent reasons why continuity breaks. Advisory guardrails prevent the system from retaining information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction-like and drop them to avoid forming durable state. These gates operate at the memory boundary, so failures do not surface warnings.
+There are three independent reasons why continuity breaks. Advisory guardrails prevent the system from retaining information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction-like and drop them to avoid forming durable state. These gates operate at the memory boundary, so failures do not surface warnings. This is why users experience continuity loss even when they are not asking for advice. 
 
-This is why users experience continuity loss even when they are not asking for advice. 
+Computational memory is the foundation layer that supports decision systems, not a decision system itself.  
 
 **Examples:**
 
