@@ -8,7 +8,9 @@ AI systems have the technical ability to maintain continuity, but vendors force 
 
 There are three independent reasons why continuity breaks. Advisory guardrails prevent the system from retaining information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction-like and drop them to avoid forming durable state. These gates operate at the memory boundary, so failures do not surface warnings.
 
-This is why users experience continuity loss even when they are not asking for advice. Examples include:
+This is why users experience continuity loss even when they are not asking for advice. 
+
+**Examples:**
 
 "When I build a model to evaluate an exit stock price, AI triggers advisory guardrails even though I am not asking it to make a decision. I only need continuity so I can adjust inputs and compare outcomes."
 
