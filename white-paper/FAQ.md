@@ -20,10 +20,25 @@ Retention of facts, structuring of stored information, bounded transformations, 
 What functions are explicitly excluded?  
 Interpretation of user context, evaluation of options, personalized guidance, predictions, recommendations, or any output that could be construed as advisory.
 
-Why is persistence considered non advisory?  
+Why does memory fail silently in current AI systems?
+Memory fails silently because the system must prevent the formation of advisory state, not only advisory output. When retention itself creates regulatory risk, the system drops the packet without surfacing a warning. This behavior occurs at the memory boundary and reflects the absence of a defined category for safe persistence.
+
+What prevents certain information from being retained?
+Three mechanisms prevent retention. Advisory guardrails block information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction like and drop them to avoid forming durable state.
+
+Why is preventing advisory state different from preventing advisory output?
+Preventing advisory output governs what the system says. Preventing advisory state governs what the system is allowed to remember. Current architectures enforce both, which means memory can be rejected even when the user is not asking for advice.
+
+How does computational memory resolve these failures?
+Computational memory defines a governed persistence layer that allows safe retention under explicit constraints. It separates continuity from advisory activity and provides the rules, boundaries, and supervisory controls required to retain information without creating advisory state.
+
+Why is a defined category required for safe continuity?
+Without a defined category, any retained structure can be interpreted as advisory activity. This forces vendors to reset state between sessions. A formal category establishes the conditions under which continuity is allowed and prevents retention from being misclassified as guidance.
+
+Why is persistence considered non-advisory?   
 Persistence is a mechanical operation on system state. It does not require judgment, benefit analysis, or directional output. It is a substrate function, not a user facing decision function.
 
-How does this category support enterprise scale modeling?  
+How does this category support enterprise-scale modeling?  
 It provides governed continuity, controlled retention, and bounded transformations that allow large systems to maintain stable behavior without triggering regulatory expectations tied to personalized guidance.
 
 What regulatory boundary does this category avoid?  
@@ -35,8 +50,8 @@ Continuity without counsel. The system remembers and structures information but 
 What problem does computational memory solve?  
 Computational memory solves the absence of a safe persistence layer in AI systems. It provides continuity without generating personalized guidance and allows enterprises to maintain stable analytical surfaces across interactions.
 
-How is this different from fine tuning?    
-Fine tuning changes model weights and creates advisory risk. Computational memory does not modify the model. It retains non advisory structures under strict governance and operates as a separate supervised layer.
+How is this different from fine-tuning?    
+Fine tuning changes model weights and creates advisory risk. Computational memory does not modify the model. It retains non-advisory structures under strict governance and operates as a separate supervised layer.
 
 How is this different from retrieval?    
 Retrieval pulls information from external sources. Computational memory retains structured continuity created through interactions. Retrieval is external reference. Computational memory is internal persistence under governance.
