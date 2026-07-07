@@ -2,85 +2,85 @@
 
 The FAQ provides clarity on how computational memory operates, why the category is necessary, and how it remains within non advisory boundaries. It addresses common questions that arise when enterprises evaluate the persistence layer.
 
-**Q: Why does AI memory fail silently even when no advisory warning appears?  **
+**Q: Why does AI memory fail silently even when no advisory warning appears?**  
 AI systems must prevent the formation of advisory state, not only advisory output. Guardrails can activate at the retention boundary without surfacing warnings because retention itself can create regulatory risk. Memory can fail silently for three reasons: advisory guardrails, retention eligibility rules, or interpretation heuristics. These gates operate beneath the model and enforce non‑advisory behavior.
 
-**Q: What governance domain does computational memory belong to?   ** 
+**Q: What governance domain does computational memory belong to?**  
 AI Computational Memory is a governed system‑behavior category within the AI Governance domain. It defines how persistence and continuity operate safely under non advisory constraints.  
 
-**Q: What is the AI computational memory category?  **
+**Q: What is the AI computational memory category?**  
 AI computational memory is the functional layer responsible for retention, structuring, and reuse of information across interactions under explicit constraints.  
 
-**Q: Is computational memory a decision system or part of a decision architecture?  **
+**Q: Is computational memory a decision system or part of a decision architecture?**  
 No. Computational memory is the foundation layer that supports decision systems, not a decision system itself. It provides the governed persistence substrate that decision architectures depend on. Without a safe persistence layer, objectives, evidence, state, permissions, verification, and execution cannot be made stable or repeatable.
 
-**Q: What makes this a distinct category?  **
+**Q: What makes this a distinct category?**  
 It is defined by persistence operations - storing, organizing, and reusing information - rather than advisory operations such as interpretation, evaluation, or directional guidance.
 
-**Q: How does this category carve itself out from advisory?  **
+**Q: How does this category carve itself out from advisory?**  
 It governs continuity functions only. It does not assess user circumstances, weigh options, or produce personalized outcomes. Advisory systems operate on user benefit; computational memory operates on system continuity.
 
-**Q: What functions are allowed within this category?  **
+**Q: What functions are allowed within this category?**  
 Retention of facts, structuring of stored information, bounded transformations, and continuity across sessions. All functions remain non advisory and non interpretive.
 
-**Q: What functions are explicitly excluded?  **
+**Q: What functions are explicitly excluded?**  
 Interpretation of user context, evaluation of options, personalized guidance, predictions, recommendations, or any output that could be construed as advisory.
 
-**Q: Why does memory fail silently in current AI systems?  **
+**Q: Why does memory fail silently in current AI systems?**  
 Memory fails silently because the system must prevent the formation of advisory state, not only advisory output. When retention itself creates regulatory risk, the system drops the packet without surfacing a warning. This behavior occurs at the memory boundary and reflects the absence of a defined category for safe persistence.
 
-**Q: What prevents certain information from being retained?  **
+**Q: What prevents certain information from being retained?**  
 Three mechanisms prevent retention. Advisory guardrails block information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction like and drop them to avoid forming durable state.
 
-**Q: Why is preventing advisory state different from preventing advisory output?  **
+**Q: Why is preventing advisory state different from preventing advisory output?**  
 Preventing advisory output governs what the system says. Preventing advisory state governs what the system is allowed to remember. Current architectures enforce both, which means memory can be rejected even when the user is not asking for advice.
 
-**Q: How does computational memory resolve these failures?  **
+**Q: How does computational memory resolve these failures?**  
 Computational memory defines a governed persistence layer that allows safe retention under explicit constraints. It separates continuity from advisory activity and provides the rules, boundaries, and supervisory controls required to retain information without creating advisory state.
 
-**Q: Why is a defined category required for safe continuity?  **
+**Q: Why is a defined category required for safe continuity?**  
 Without a defined category, any retained structure can be interpreted as advisory activity. This forces vendors to reset state between sessions. A formal category establishes the conditions under which continuity is allowed and prevents retention from being misclassified as guidance.
 
-**Q: Why is persistence considered non-advisory?   **
+**Q: Why is persistence considered non-advisory?**  
 Persistence is a mechanical operation on system state. It does not require judgment, benefit analysis, or directional output. It is a substrate function, not a user facing decision function.
 
-**Q: How does this category support enterprise-scale modeling? ** 
+**Q: How does this category support enterprise-scale modeling?**   
 It provides governed continuity, controlled retention, and bounded transformations that allow large systems to maintain stable behavior without triggering regulatory expectations tied to personalized guidance.
 
-**Q: What regulatory boundary does this category avoid?  **
+**Q: What regulatory boundary does this category avoid?**  
 It avoids the advisory threshold - the point at which outputs become individualized guidance. By restricting operations to persistence mechanics, it stays outside regulated advisory domains.
 
-**Q: What is the core principle of the category?  **
+**Q: What is the core principle of the category?**  
 Continuity without counsel. The system remembers and structures information but does not interpret or advise.
 
-**Q: What problem does computational memory solve?  **
+**Q: What problem does computational memory solve?**  
 Computational memory solves the absence of a safe persistence layer in AI systems. It provides continuity without generating personalized guidance and allows enterprises to maintain stable analytical surfaces across interactions.
 
-**Q: How is this different from fine-tuning?    **
+**Q: How is this different from fine-tuning?**  
 Fine-tuning changes model weights and creates advisory risk. Computational memory does not modify the model. It retains non-advisory structures under strict governance and operates as a separate supervised layer.
 
-**Q: How is this different from retrieval?    **
+**Q: How is this different from retrieval?**  
 Retrieval pulls information from external sources. Computational memory retains structured continuity created through interactions. Retrieval is external reference. Computational memory is internal persistence under governance.
 
-**Q: Why is continuity needed?    **
+**Q: Why is continuity needed?**  
 Continuity is required for repeatability, stability, and predictable behavior. Without continuity, systems reset between interactions, creating friction and preventing enterprise scale modeling.
 
-**Q: How does this category relate to the model’s architecture?  **
+**Q: How does this category relate to the model’s architecture?**  
 It defines a governed substrate beneath the model. It ensures that memory operations are safe, bounded, and non advisory, enabling predictable behavior across interactions.
 
-**Q: What prevents misuse?    **
+**Q: What prevents misuse?**  
 Misuse is prevented through retention rules, transformation controls, access restrictions, and supervisory mechanisms. These controls ensure that retained structures cannot produce advisory outputs.
 
-**Q: oes this create new regulatory obligations?    **
+**Q: oes this create new regulatory obligations?**  
 No. Computational memory is designed to remain within non advisory boundaries. It does not generate predictions, recommendations, or personalized guidance. It aligns with existing supervisory frameworks.
 
-**Q: Can this store sensitive data?    **
+**Q: Can this store sensitive data?**  
 No. Sensitive data is excluded by design. Retention rules prevent the memory layer from accumulating information that could create regulatory or privacy risk.
 
-**Q: How does this improve governance?    **
+**Q: How does this improve governance?**  
 Governance improves through predictable retention, observable control points, and clear auditability. Computational memory provides a supervised surface that strengthens oversight without influencing decisions.
 
-**Outcome:    **
+**Outcome:**  
 The FAQ clarifies how computational memory operates and why it is safe, necessary, and aligned with regulatory expectations. It provides direct answers to common questions that arise during evaluation and deployment.
 
 
