@@ -71,7 +71,7 @@ It defines a governed substrate beneath the model. It ensures that memory operat
 **Q: What prevents misuse?**  
 Misuse is prevented through retention rules, transformation controls, access restrictions, and supervisory mechanisms. These controls ensure that retained structures cannot produce advisory outputs.
 
-**Q: oes this create new regulatory obligations?**  
+**Q: Does this create new regulatory obligations?**  
 No. Computational memory is designed to remain within non advisory boundaries. It does not generate predictions, recommendations, or personalized guidance. It aligns with existing supervisory frameworks.
 
 **Q: Can this store sensitive data?**  
