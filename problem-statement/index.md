@@ -10,7 +10,7 @@ Enterprises cannot deliver continuity, predictability, or governed dynamic model
 
 The absence of this category blocks enterprise scale adoption, breaks repeatability, and prevents AI systems from operating as stable analytical surfaces. Without a formal definition, a taxonomy, and a governance architecture, the industry cannot align on what can be retained, how it can be transformed, and where supervisory controls must apply.
 
-**Computational memory is the foundation layer that supports decision systems, not a decision system itself.**
+Computational memory is the foundation layer that supports decision systems, not a decision system itself.
 
 This problem statement establishes the need for computational memory as a distinct functional layer that enables safe retention, structured reuse, and governed continuity across interactions.
 
