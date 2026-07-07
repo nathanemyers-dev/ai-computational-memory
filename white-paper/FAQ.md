@@ -51,7 +51,7 @@ What problem does computational memory solve?
 Computational memory solves the absence of a safe persistence layer in AI systems. It provides continuity without generating personalized guidance and allows enterprises to maintain stable analytical surfaces across interactions.
 
 How is this different from fine-tuning?    
-Fine tuning changes model weights and creates advisory risk. Computational memory does not modify the model. It retains non-advisory structures under strict governance and operates as a separate supervised layer.
+Fine-tuning changes model weights and creates advisory risk. Computational memory does not modify the model. It retains non-advisory structures under strict governance and operates as a separate supervised layer.
 
 How is this different from retrieval?    
 Retrieval pulls information from external sources. Computational memory retains structured continuity created through interactions. Retrieval is external reference. Computational memory is internal persistence under governance.
