@@ -1,4 +1,4 @@
-**Operating Model**
+****Operating Model****
 
 The operating model describes how computational memory functions within an enterprise environment. It defines the roles, responsibilities, and control points required to maintain safe persistence and ensure that continuity remains within non-advisory boundaries.
 
