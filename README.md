@@ -12,7 +12,7 @@ Computational memory is a functional layer that separates non advisory continuit
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
 
-**White Paper ** 
+**White Paper**   
 The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment.
 
 white-paper/index.md  
