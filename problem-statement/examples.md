@@ -1,6 +1,10 @@
 Examples of user impact
 
-AI systems today have the technical ability to maintain continuity, but vendors force a full reset every session because retained memory would be classified as advisory activity under current regulatory rules. This creates real friction for users and prevents AI from operating at its potential. Examples include:
+AI systems today have the technical ability to maintain continuity, but vendors force a full reset every session because retained memory can be classified as advisory activity under current regulatory rules. The system must prevent the formation of advisory state, not only advisory output. When retention itself creates regulatory risk, the system drops the packet without surfacing a warning. This silent failure is structural and reflects the absence of a defined category for safe persistence.
+
+Continuity breaks for three independent reasons. Advisory guardrails prevent the system from retaining information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction-like and drop them to avoid forming durable state. These gates operate at the memory boundary, so failures do not surface warnings.
+
+Examples include:
 
 "When I build a model to help me evaluate an exit stock price, the system triggers advisory guardrails even though I am not asking AI to make a decision. I only want continuity so I can adjust inputs and compare outcomes."
 
