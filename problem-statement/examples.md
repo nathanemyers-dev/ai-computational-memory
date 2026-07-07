@@ -4,6 +4,8 @@ AI systems today have the technical ability to maintain continuity, but vendors 
 
 Continuity breaks for three independent reasons. Advisory guardrails prevent the system from retaining information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction-like and drop them to avoid forming durable state. These gates operate at the memory boundary, so failures do not surface warnings.
 
+Computational memory is the foundation layer that supports decision systems, not a decision system itself.
+
 Examples include:
 
 "When I build a model to help me evaluate an exit stock price, the system triggers advisory guardrails even though I am not asking AI to make a decision. I only want continuity so I can adjust inputs and compare outcomes."
