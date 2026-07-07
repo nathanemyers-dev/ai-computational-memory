@@ -20,19 +20,19 @@ Retention of facts, structuring of stored information, bounded transformations, 
 What functions are explicitly excluded?  
 Interpretation of user context, evaluation of options, personalized guidance, predictions, recommendations, or any output that could be construed as advisory.
 
-Why does memory fail silently in current AI systems?
+Why does memory fail silently in current AI systems?  
 Memory fails silently because the system must prevent the formation of advisory state, not only advisory output. When retention itself creates regulatory risk, the system drops the packet without surfacing a warning. This behavior occurs at the memory boundary and reflects the absence of a defined category for safe persistence.
 
-What prevents certain information from being retained?
+What prevents certain information from being retained?  
 Three mechanisms prevent retention. Advisory guardrails block information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction like and drop them to avoid forming durable state.
 
-Why is preventing advisory state different from preventing advisory output?
+Why is preventing advisory state different from preventing advisory output?  
 Preventing advisory output governs what the system says. Preventing advisory state governs what the system is allowed to remember. Current architectures enforce both, which means memory can be rejected even when the user is not asking for advice.
 
-How does computational memory resolve these failures?
+How does computational memory resolve these failures?  
 Computational memory defines a governed persistence layer that allows safe retention under explicit constraints. It separates continuity from advisory activity and provides the rules, boundaries, and supervisory controls required to retain information without creating advisory state.
 
-Why is a defined category required for safe continuity?
+Why is a defined category required for safe continuity?  
 Without a defined category, any retained structure can be interpreted as advisory activity. This forces vendors to reset state between sessions. A formal category establishes the conditions under which continuity is allowed and prevents retention from being misclassified as guidance.
 
 Why is persistence considered non-advisory?   
