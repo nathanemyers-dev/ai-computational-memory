@@ -1,4 +1,4 @@
-Examples of user impact
+**Examples of user impact**
 
 AI systems today have the technical ability to maintain continuity, but vendors force a full reset every session because retained memory can be classified as advisory activity under current regulatory rules. The system must prevent the formation of advisory state, not only advisory output. When retention itself creates regulatory risk, the system drops the packet without surfacing a warning. This silent failure is structural and reflects the absence of a defined category for safe persistence.
 
