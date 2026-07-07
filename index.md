@@ -1,8 +1,8 @@
-AI Computational Memory
+**AI Computational Memory**
 
 AI computational memory is the governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. It provides the foundation for predictable behavior and enterprise scale modeling.
 
-Why this matters
+**Why this matters**
 
 AI systems have the technical ability to maintain continuity, but vendors force a full reset every session because retained memory can be classified as advisory activity under current regulatory rules. This creates a structural problem. The system must prevent the formation of advisory state, not only advisory output. As a result, memory can fail silently even when no advisory warning is shown.
 
@@ -18,7 +18,7 @@ This is why users experience continuity loss even when they are not asking for a
 
 These examples show why industry and regulators need a defined category for safe continuity so AI can operate efficiently without crossing compliance lines. AI computational memory provides that category by separating safe persistence from advisory activity and defining the rules for supervised retention.
 
-White Paper
+**White Paper**
 
 The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
 
@@ -29,16 +29,16 @@ The white paper defines the full governance architecture, operating model, imple
 [use-cases](white-paper/use-cases.md)  
 [FAQ](white-paper/FAQ.md)
 
-Category Materials:
+**Category Materials:**
 
 [problem-statement](problem-statement/index.md)  
 [category-definition](category-definition/index.md)  
 
-Outcome
+**Outcome**
 This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
 
 _____________
-Attribution
+**Attribution**
 
 This work defines the Nathan E. Myers AI Computational Memory Category. 
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
