@@ -36,7 +36,7 @@ The white paper defines the full governance architecture, operating model, imple
 [problem-statement](problem-statement/index.md)  
 [category-definition](category-definition/index.md)  
 
-**Outcome**
+**Outcome**  
 This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
 
 _____________
