@@ -21,6 +21,8 @@ white-paper/operating-model.md
 white-paper/implementation-path.md  
 white-paper/regulatory-alignment.md  
 white-paper/use-cases.md  
+white-paper/api-surface.md  
+white-paper/supervised-persistence-contract.md  
 white-paper/FAQ.md  
 
 **Outcome**  
@@ -32,7 +34,7 @@ This repository establishes the category definition, problem statement, and full
 
 **Release Notes**  
 release-notes/v1.0.md
-
+release-notes/v1.0.md
 
 _____________
 This work defines the Nathan E. Myers AI Computational Memory Category.
