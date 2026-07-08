@@ -2,6 +2,12 @@
 
 The FAQ provides clarity on how computational memory operates, why the category is necessary, and how it remains within non advisory boundaries. It addresses common questions that arise when enterprises evaluate the persistence layer.
 
+**Q: What is the purpose of defining a computational memory category?**  
+The purpose is to create a formal regulatory and governance boundary for supervised AI persistence. Without a defined category, any retained structure is treated as advice, which forces vendors to drop memory and break continuity. By naming the functional layer and specifying its scope, the category provides a path for regulators, governance teams, practitioners, and engineers to classify safe persistence as non-advisory and allow AI systems to maintain structured state.
+
+**Q: Why isn’t this just an academic exercise?**  
+Because without a defined category, structured computations will continue to be bundled into the broader advisory domain. When no boundary exists, any retained model, input, or transformation is treated as potential advice, which forces vendors to drop memory and break continuity. This prevents regulators from supervising persistence, prevents governance teams from approving it, and prevents enterprises from relying on it. Defining the category is the practical step that enables regulatory treatment, governance controls, and implementation standards. It is the prerequisite for allowing AI systems to retain models, inputs, and structures the same way Excel does, without triggering advisory guardrails.  
+
 **Q: Why does AI memory fail silently even when no advisory warning appears?**  
 AI systems must prevent the formation of advisory state, not only advisory output. Guardrails can activate at the retention boundary without surfacing warnings because retention itself can create regulatory risk. Memory can fail silently for three reasons: advisory guardrails, retention eligibility rules, or interpretation heuristics. These gates operate beneath the model and enforce non‑advisory behavior.
 
