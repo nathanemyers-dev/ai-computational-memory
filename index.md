@@ -26,7 +26,7 @@ These examples show why industry and regulators need a defined category for safe
 
 The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
 
-[solution](white-paper/solution.md)
+[solution](white-paper/solution.md)  
 [governance-architecture](white-paper/governance-architecture.md)  
 [operating-model](white-paper/operating-model.md)  
 [implementation-path](white-paper/implementation-path.md)  
