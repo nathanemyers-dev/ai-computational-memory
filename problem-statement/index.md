@@ -21,7 +21,7 @@ Additional examples of user impact: [examples.md](examples.md)
 The aim of this work is to define a governed persistence layer that regulators, governance teams, practitioners, and engineers can agree is non-advisory. By carving out this functional layer, the category enables safe continuity and structured reuse without triggering advisory guardrails, so AI systems can operate as intended and users are not forced off platform to rebuild models or maintain state.
 
 **Solution**    
-The solution is to define a formal functional layer within AI decision infrastructure that receives distinct regulatory treatment. This layer is the computational memory surface that supports continuity, structured reuse, and supervised retention. It operates no differently than how Excel saves a model without producing advice. By establishing this layer as non advisory, the category provides a clear governance path for safe persistence.
+The solution is to define a formal functional layer within AI decision infrastructure that receives distinct regulatory treatment. This layer is the computational memory surface that supports continuity, structured reuse, and supervised retention. It operates no differently than how Excel saves a model without producing advice. By establishing this layer as non-advisory, the category provides a clear governance path for safe persistence.
 
 The solution has four parts:
 
