@@ -10,6 +10,8 @@ There are three independent reasons why continuity breaks. Advisory guardrails p
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.  
 
+The aim of this work is to establish a formal category for supervised AI persistence so regulators, governance teams, practitioners, and engineers can align on a safe continuity layer that does not fall under advisory guardrails. The goal is to create consensus and drive the regulatory carve out needed for AI systems to maintain structured state and operate as intended without forcing users off platform.  
+
 **Examples:**
 
 "When I build a model to evaluate an exit stock price, AI triggers advisory guardrails even though I am not asking it to make a decision. I only need continuity so I can adjust inputs and compare outcomes."
