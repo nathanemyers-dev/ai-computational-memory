@@ -35,6 +35,7 @@ Align regulators, governance teams, practitioners, and engineers on the category
 White Paper   
 The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment.
 
+white-paper/solution.md  
 white-paper/index.md  
 white-paper/governance-architecture.md  
 white-paper/operating-model.md  
