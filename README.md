@@ -53,7 +53,7 @@ This repository establishes the category definition, problem statement, and full
 1.0
 
 **Release Notes**  
-release-notes/v1.0.md
+release-notes/v1.0.md  
 release-notes/v1.1.md
 
 _____________
