@@ -37,6 +37,9 @@ The white paper provides the full technical and governance specification for com
 
 white-paper/solution.md  
 white-paper/index.md  
+white-paper/enterprise-deployment-pattern.md  
+white-paper/reference-architecture.md  
+white-paper/deployment-sequence.md  
 white-paper/governance-architecture.md  
 white-paper/operating-model.md  
 white-paper/implementation-path.md  
@@ -54,8 +57,14 @@ This repository establishes the category definition, problem statement, and full
 1.0
 
 **Release Notes**  
-release-notes/v1.0.md  
-release-notes/v1.1.md
+**release-notes/v1.0.md — White Paper Foundation**     
+Establishes the AI Computational Memory Category, including the conceptual spine: Introduction, Problem Context, Category Definition, Solution, Governance Architecture, Operating Model, and Implementation Path.
+
+**release-notes/v1.1.md — API Surface & Supervised Persistence Contract**    
+Defines the formal interface for supervised continuity, including write/read/transform/delete operations and the governance obligations required for any system interacting with computational memory.
+
+**release-notes/v1.2.md — Enterprise Deployment Pattern, Reference Architecture, Deployment Sequence**    
+Introduces the enterprise implementation layer, including the deployment pattern, supervised continuity reference architecture, and the governed rollout sequence.
 
 _____________
 This work defines the Nathan E. Myers AI Computational Memory Category.
