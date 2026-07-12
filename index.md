@@ -27,6 +27,9 @@ These examples show why industry and regulators need a defined category for safe
 The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
 
 [solution](white-paper/solution.md)  
+[enterprise-deployment-pattern](white-paper/enterprise-deployment-pattern.md)
+[reference-architecture](white-paper/reference-architecture.md)
+[deployment-sequence](white-paper/deployment-sequence.md)
 [governance-architecture](white-paper/governance-architecture.md)  
 [operating-model](white-paper/operating-model.md)  
 [implementation-path](white-paper/implementation-path.md)  
@@ -47,8 +50,14 @@ This site provides the complete category definition and technical specification 
 
 **Version History**  
 
-- **Version 1.0** established the complete conceptual and governance foundation for AI computational memory.  
-- **Version 1.1** introduced the computational memory API surface and the supervised persistence contract, moving the category from definition to implementation.
+**Version 1.0 — White Paper Foundation**    
+Establishes the AI Computational Memory Category, including the conceptual spine: Introduction, Problem Context, Category Definition, Solution, Governance Architecture, Operating Model, and Implementation Path.
+
+**Version 1.1 — API Surface & Supervised Persistence Contract**    
+Defines the formal interface for supervised continuity, including write/read/transform/delete operations and the governance obligations required for any system interacting with computational memory.
+
+**Version 1.2 — Enterprise Deployment Pattern, Reference Architecture, Deployment Sequence**    
+Introduces the enterprise implementation layer, including the deployment pattern, supervised continuity reference architecture, and the governed rollout sequence.
 
 
 _____________
