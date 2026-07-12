@@ -12,7 +12,7 @@ Enterprises require stable analytical surfaces that support repeatability, predi
 Computational memory is a functional layer that separates non advisory continuity from advisory activity. It defines what can be retained, how it can be transformed, and where supervisory controls apply. It provides a formal boundary between safe persistence and regulated guidance. Computational memory is not a decision architecture. It is the base layer that makes decision architectures possible. Without a governed persistence layer, objectives, evidence, state, permissions, verification, and execution cannot be made stable or repeatable. Decision systems depend on computational memory, not the other way around.
 
 **Solution**    
-The solution defines the formal path for establishing computational memory as a governed, non advisory functional layer. It outlines the structured approach required to classify the layer, demonstrate its equivalence to existing non advisory tools, establish regulatory treatment, and align stakeholders for safe deployment.
+The solution defines the formal path for establishing computational memory as a governed, non-advisory functional layer. It outlines the structured approach required to classify the layer, demonstrate its equivalence to existing non-advisory tools, establish regulatory treatment, and align stakeholders for safe deployment.
 
 **Governance Architecture**  
 The governance architecture establishes the rules, constraints, and supervisory mechanisms that allow computational memory to operate safely. It defines retention limits, transformation rules, access controls, and auditability requirements. It ensures that continuity does not cross into personalized prediction or recommendation.
@@ -23,9 +23,29 @@ The operating model describes how computational memory functions within an enter
 **Implementation Path**  
 The implementation path provides a phased approach for introducing computational memory into existing AI systems. It identifies the prerequisites, integration points, and validation steps required to deploy the safe layer at scale.
 
-**Conclusion**  
-Computational memory is a necessary layer for enterprise grade AI. It enables continuity, structured reuse, and governed persistence without entering advisory domains. This white paper provides the foundation for defining, supervising, and implementing this category across the industry.
+____________________
+**Version 1.2**  
 
+**Enterprise Deployment Pattern**  
+Defines the placement of computational memory within the enterprise stack, the interfaces it exposes, the guarantees it provides, the boundaries that govern it, and the control surfaces required for supervised continuity.
+
+**Reference Architecture for Supervised Continuity**  
+Defines the core components of the supervised continuity layer, the boundaries that prevent advisory state formation, the control surfaces that govern retention and transformation, the supervisory layer that enforces compliance, and the audit surface that provides enterprise visibility.
+
+**Deployment Sequence**  
+Defines the phased rollout path for installing, activating, validating, supervising, and deploying computational memory under governed constraints.
+
+____________________
+**Use Cases**  
+Non‑advisory continuity applications across enterprise domains.
+
+**FAQ**  
+Answers to common questions about computational memory, governance, and supervised continuity.
+
+**Conclusion**  
+Computational memory is a necessary layer for enterprise‑grade AI. It enables continuity, structured reuse, and governed persistence without entering advisory domains. This white paper provides the foundation for defining, supervising, and implementing this category across the industry.
+
+____________________
 **Version 1.1**
 
 **API Surface**  
@@ -34,7 +54,7 @@ Defines the formal interface for writing, reading, transforming, and deleting re
 **Supervised Persistence Contract**  
 Establishes the obligations, boundaries, and governance controls required for any system interacting with computational memory.
 
-_____________
+______________________
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
