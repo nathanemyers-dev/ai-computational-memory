@@ -57,6 +57,7 @@ This repository establishes the category definition, problem statement, and full
 1.0
 
 **Release Notes**  
+
 **release-notes/v1.0.md — White Paper Foundation**     
 Establishes the AI Computational Memory Category, including the conceptual spine: Introduction, Problem Context, Category Definition, Solution, Governance Architecture, Operating Model, and Implementation Path.
 
