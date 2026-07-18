@@ -18,6 +18,10 @@ The audit surface records all continuity actions, including retention, transform
 **Deployment Preconditions**  
 The reference architecture requires enterprises to define retention boundaries, transformation eligibility, access roles, supervisory responsibilities, and incident escalation paths before deployment. Vendors must provide the API surface, persistence contract, control mappings, and audit interfaces required for governed continuity. These preconditions ensure that computational memory can be deployed safely within existing enterprise controls.
 
+
+____________
+**Attribution**
+
 This work defines the Nathan E. Myers AI Computational Memory Category. Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation: Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
