@@ -37,10 +37,11 @@ The white paper provides the full technical and governance specification for com
 
 The white-paper directory contains the full technical and governance specification for computational memory. Release notes v1.0 through v1.3 are stored inside the white-paper corpus and govern versioning.
 
+white-paper/category-introduction.md      
+white-paper/category-definition.md    
+white-paper/executive-summary.md  
 white-paper/solution.md  
 white-paper/index.md  
-white-paper/category-introduction.md    
-white-paper/category-definition.md   
 white-paper/enterprise-deployment-pattern.md  
 white-paper/reference-architecture.md  
 white-paper/deployment-sequence.md  
@@ -50,7 +51,7 @@ white-paper/implementation-path.md
 white-paper/regulatory-alignment.md  
 white-paper/use-cases.md  
 white-paper/api-surface.md  
-white-paper/supervised-persistence-contract.md  
+white-paper/supervised-persistence-contract.md   
 white-paper/FAQ.md  
 
 **Outcome**  
