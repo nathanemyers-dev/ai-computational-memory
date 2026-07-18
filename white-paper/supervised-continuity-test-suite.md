@@ -1,4 +1,4 @@
-**Supervised Continuity Test Suite**  
+# Supervised Continuity Test Suite  
 
 The supervised continuity test suite defines the governed validation framework for ensuring that computational memory operates safely, predictably, and without entering advisory domains. It provides the formal testing structure required for enterprises, regulators, and governance teams to verify that continuity is preserved under supervised constraints and that no advisory state is formed at the retention boundary.
 
@@ -29,7 +29,7 @@ It applies to all systems interacting with computational memory, including model
 
 ________________________________________ 
 
-**Test Categories**  
+## Test Categories
 
 **1. Retention Eligibility Tests**  
 These tests validate that retained packets meet governed eligibility rules:
@@ -107,7 +107,7 @@ They ensure that all continuity failures surface correctly in logs and superviso
 
 ______________________________
 
-**Test Execution Requirements**  
+## Test Execution Requirements  
 The supervised continuity test suite must be:  
 
 • repeatable  
@@ -124,6 +124,7 @@ Execution requires:
 • retention‑boundary instrumentation  
 • guardrail‑activation telemetry  
 • classification‑heuristic reporting  
+_________________________________
 
 **Outcome**  
 Successful execution of the supervised continuity test suite demonstrates that computational memory:  
@@ -136,7 +137,7 @@ Successful execution of the supervised continuity test suite demonstrates that c
 
 This suite is required for regulated deployment of computational memory.  
 
-_____________
+_____________________________________
 **Attribution**  
 
 This work defines the Nathan E. Myers AI Computational Memory Category.
