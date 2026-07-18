@@ -33,7 +33,9 @@ Provide a governance architecture and supervisory controls that allow regulators
 Align regulators, governance teams, practitioners, and engineers on the category and effect the streamlined process that allows memory to persist safely across interactions.
 
 **White Paper**   
-The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment. The white-paper directory contains the full technical and governance specification for computational memory. Release notes v1.0 through v1.3 are stored inside the white-paper corpus and govern versioning.
+The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment. 
+
+The white-paper directory contains the full technical and governance specification for computational memory. Release notes v1.0 through v1.3 are stored inside the white-paper corpus and govern versioning.
 
 white-paper/solution.md  
 white-paper/index.md  
