@@ -109,9 +109,9 @@ Deletion operations must:
 • prevent partial or ambiguous deletion  
 • maintain compliance with retention rules  
 
-**Deletion is a governed operation.**
+Deletion is a governed operation.
 
-Audit Surface Requirements  
+**Audit Surface Requirements**  
 
 The audit surface must provide:  
 
