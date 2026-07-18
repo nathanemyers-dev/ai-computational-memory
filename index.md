@@ -26,13 +26,13 @@ These examples show why industry and regulators need a defined category for safe
 
 The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
 
-[category-introduction](white-paper/category-introduction.md)
-[category-definition](white-paper/category-definition.md)
-[solution](white-paper/solution.md)  
-[enterprise-deployment-pattern](white-paper/enterprise-deployment-pattern.md)
-[reference-architecture](white-paper/reference-architecture.md)
-[deployment-sequence](white-paper/deployment-sequence.md)
-[governance-architecture](white-paper/governance-architecture.md)  
+[category-introduction](white-paper/category-introduction.md)  
+[category-definition](white-paper/category-definition.md)  
+[solution](white-paper/solution.md)   
+[enterprise-deployment-pattern](white-paper/enterprise-deployment-pattern.md)  
+[reference-architecture](white-paper/reference-architecture.md)  
+[deployment-sequence](white-paper/deployment-sequence.md)  
+[governance-architecture](white-paper/governance-architecture.md)   
 [operating-model](white-paper/operating-model.md)  
 [implementation-path](white-paper/implementation-path.md)  
 [regulatory-alignment](white-paper/regulatory-alignment.md)  
@@ -44,7 +44,6 @@ The white paper defines the full governance architecture, operating model, imple
 **Category Materials:**
 
 [problem-statement](problem-statement/index.md)  
-[category-definition](category-definition/index.md)  
 
 **Outcome**  
 
@@ -61,6 +60,8 @@ Defines the formal interface for supervised continuity, including write/read/tra
 **Version 1.2 — Enterprise Deployment Pattern, Reference Architecture, Deployment Sequence**    
 Introduces the enterprise implementation layer, including the deployment pattern, supervised continuity reference architecture, and the governed rollout sequence.
 
+**Version 1.3 — Modular corpus, routing, attribution, and structural alignment**    
+Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.  
 
 _____________
 **Attribution**
