@@ -1,4 +1,5 @@
 **Supervised Continuity Test Suite**  
+
 The supervised continuity test suite defines the governed validation framework for ensuring that computational memory operates safely, predictably, and without entering advisory domains. It provides the formal testing structure required for enterprises, regulators, and governance teams to verify that continuity is preserved under supervised constraints and that no advisory state is formed at the retention boundary.
 
 **Purpose**  
