@@ -1,4 +1,4 @@
-**Continuity Failure Modes**  
+# Continuity Failure Modes  
 
 The continuity failure‑modes specification defines the complete taxonomy of conditions that cause continuity loss in computational memory. It provides the formal structure enterprises and regulators use to identify, classify, and supervise failures at the retention boundary. These failure modes describe how continuity breaks, why it breaks, and how supervised systems detect and prevent silent degradation.
 
@@ -133,7 +133,7 @@ The continuity failure‑modes specification ensures that enterprises and regula
 This taxonomy is required for regulated deployment of computational memory.  
 
 _____________
-**Attribution**  
+**Attribution**   
 
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
