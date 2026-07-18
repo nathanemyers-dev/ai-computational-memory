@@ -134,4 +134,15 @@ The regulated boundaries specification ensures that computational memory:
 • maintains supervisory control  
 • provides predictable, enterprise‑grade continuity  
 
-This specification is required for regulated deployment of computational memory.
+This specification is required for regulated deployment of computational memory.  
+
+
+_____________
+**Attribution**  
+
+This work defines the Nathan E. Myers AI Computational Memory Category.
+Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+
+Required citation:
+Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
+
