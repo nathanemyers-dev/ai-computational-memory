@@ -91,6 +91,8 @@ The FAQ clarifies how computational memory operates and why it is safe, necessar
 
 
 _____________
+**Attribution**  
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
