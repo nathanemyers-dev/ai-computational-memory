@@ -2,7 +2,7 @@
 
 AI systems today have the technical ability to maintain continuity, but vendors force a full reset every session because retained memory can be classified as advisory activity under current regulatory rules. The system must prevent the formation of advisory state, not only advisory output. When retention itself creates regulatory risk, the system drops the packet without surfacing a warning. This silent failure is structural and reflects the absence of a defined category for safe persistence.
 
-Continuity breaks for three independent reasons. Advisory guardrails prevent the system from retaining information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long term relevant. Interpretation heuristics classify some packets as conversational or instruction-like and drop them to avoid forming durable state. These gates operate at the memory boundary, so failures do not surface warnings.
+Continuity breaks for three independent reasons. Advisory guardrails prevent the system from retaining information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long-term relevant. Interpretation heuristics classify some packets as conversational or instruction-like and drop them to avoid forming durable state. These gates operate at the memory boundary, so failures do not surface warnings.
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
 
