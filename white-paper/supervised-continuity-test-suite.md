@@ -126,7 +126,7 @@ Execution requires:
 • classification‑heuristic reporting  
 _________________________________
 
-**Outcome**  
+## Outcome  
 Successful execution of the supervised continuity test suite demonstrates that computational memory:  
 
 • preserves continuity safely  
