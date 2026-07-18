@@ -1,4 +1,4 @@
-**Problem Statement**
+# Problem Statement
 
 AI systems cannot retain user provided financial or analytical models because current guardrails interpret any persistent structure as regulated advice. This forces full state resets between sessions and creates a daily rebuild cycle where users must reconstruct static models, inputs, and calculations that should be safely maintained without crossing advisory boundaries.
 
@@ -38,6 +38,8 @@ Provide a governance architecture and supervisory controls that allow regulators
 Align regulators, governance teams, practitioners, and engineers on the category and effect the streamlined process that allows memory to persist safely across interactions.
 
 _____________
+**Attribution**  
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
