@@ -1,4 +1,4 @@
-****Operating Model****
+# Operating Model
 
 The operating model describes how computational memory functions within an enterprise environment. It defines the roles, responsibilities, and control points required to maintain safe persistence and ensure that continuity remains within non-advisory boundaries.
 
@@ -30,6 +30,8 @@ The operating model provides the structure required for predictable and supervis
 
 
 _____________
+**Attribution**
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
