@@ -1,4 +1,4 @@
-**Use Cases**
+# Use Cases
 
 Use cases demonstrate how computational memory operates in real environments. They show how continuity can be applied safely without entering advisory domains and how enterprises benefit from predictable and governed persistence.
 
@@ -24,6 +24,8 @@ Use cases demonstrate how computational memory provides safe continuity across a
 
 
 _____________
+**Attribution**  
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
