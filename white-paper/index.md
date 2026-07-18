@@ -1,4 +1,4 @@
-**White Paper**
+# White Paper
 
 **Executive Summary**  
 See: executive-summary.md  
@@ -30,7 +30,7 @@ See: implementation-path.md
 See: enterprise-deployment-pattern.md  
 
 ____________________
-**Version 1.4**  
+## Version 1.4  
 
 **Supervised Continuity Test Suite**  
 See: supervised-continuity-test-suite.md
@@ -45,7 +45,7 @@ See: enterprise-controls-checklist.md
 See: continuity-failure-modes.md
 
 ____________________
-**Version 1.3**  
+## Version 1.3  
 
 **Modular Corpus, Routing, Attribution, Structural Alignment**  
 This release introduces the modular corpus structure, aligns internal routing, relocates release notes into the white‑paper directory, and finalizes attribution and structural consistency across the category.  
@@ -53,7 +53,7 @@ This release introduces the modular corpus structure, aligns internal routing, r
 There are no See: links because v1.3 did not introduce new standalone artifacts.  
 
 ____________________
-**Version 1.2**  
+## Version 1.2  
 
 **Reference Architecture for Supervised Continuity**  
 Defines the core components of the supervised continuity layer, the boundaries that prevent advisory state formation, the control surfaces that govern retention and transformation, the supervisory layer that enforces compliance, and the audit surface that provides enterprise visibility.
@@ -75,7 +75,7 @@ See: glossary.md
 Computational memory is a necessary layer for enterprise‑grade AI. It enables continuity, structured reuse, and governed persistence without entering advisory domains. This white paper provides the foundation for defining, supervising, and implementing this category across the industry.
 
 ____________________
-**Version 1.1**
+## Version 1.1
 
 **API Surface**  
 Defines the formal interface for writing, reading, transforming, and deleting retained structures under supervised constraints.
@@ -84,6 +84,8 @@ Defines the formal interface for writing, reading, transforming, and deleting re
 Establishes the obligations, boundaries, and governance controls required for any system interacting with computational memory.
 
 ______________________
+**Attribution**
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
