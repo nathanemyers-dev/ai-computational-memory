@@ -1,4 +1,4 @@
-**Version 1.1 Release Notes**  
+# Version 1.1 Release Notes  
 Version 1.1 moves the category from definition to implementation. It introduces the computational memory API surface and the supervised persistence contract, establishing the formal interface and governance boundaries required for safe, predictable, enterprise‑grade retention. These artifacts define how systems write, read, transform, and delete retained structures under supervised constraints, and they specify the obligations and controls required for any system interacting with computational memory. Version 1.1 operationalizes the category by providing the technical and supervisory scaffolding needed for compliant persistence.
 
 **Scope**  
