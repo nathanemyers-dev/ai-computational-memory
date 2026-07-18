@@ -28,6 +28,7 @@ The white paper defines the full governance architecture, operating model, imple
 
 [category-introduction](white-paper/category-introduction.md)  
 [category-definition](white-paper/category-definition.md)  
+[executive-summary](white-paper/executive-summary.md)  
 [solution](white-paper/solution.md)   
 [enterprise-deployment-pattern](white-paper/enterprise-deployment-pattern.md)  
 [reference-architecture](white-paper/reference-architecture.md)  
@@ -63,6 +64,8 @@ Introduces the enterprise implementation layer, including the deployment pattern
 **Version 1.3 — Modular corpus, routing, attribution, and structural alignment**    
 Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.  
 
+**Version 1.4 — Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes**    
+Defines the supervised continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy required for regulated deployment.    
 _____________
 **Attribution**
 
