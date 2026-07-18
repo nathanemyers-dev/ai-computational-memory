@@ -1,4 +1,4 @@
-**Enterprise Controls Checklist**  
+# Enterprise Controls Checklist  
 
 The enterprise controls checklist defines the mandatory supervisory, governance, and audit controls required for deploying computational memory in regulated environments. It provides the formal control structure enterprises must implement to ensure safe continuity, governed retention, and non‑advisory operation across all systems interacting with computational memory.
 
