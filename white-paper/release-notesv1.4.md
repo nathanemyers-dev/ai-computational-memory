@@ -25,6 +25,7 @@ Strengthens the mapping between computational memory and external regulatory fra
 **No Breaking Changes**    
 All v1.3, v1.2, and v1.1 artifacts remain intact. No API surfaces were modified. No backward compatibility issues were introduced.
 
+_______________
 **Attribution**    
 This work defines the Nathan E. Myers AI Computational Memory Category. Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
