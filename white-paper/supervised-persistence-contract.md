@@ -1,4 +1,4 @@
-**Supervised Persistence Contract**
+# Supervised Persistence Contract
 
 Version 1.1 introduces the supervised persistence contract. The contract defines the obligations, constraints, and supervisory checkpoints required for any system that interacts with computational memory.
 
@@ -21,8 +21,9 @@ The supervised persistence contract ensures that continuity is governed, predict
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
 
-
 _____________
+**Attribution**  
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
