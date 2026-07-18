@@ -30,12 +30,6 @@ See: implementation-path.md
 See: enterprise-deployment-pattern.md  
 
 ____________________
-**Version 1.5**  
-
-**Glossary**  
-See: glossary.md
-
-____________________
 **Version 1.4**  
 
 **Supervised Continuity Test Suite**  
@@ -73,6 +67,9 @@ Non‑advisory continuity applications across enterprise domains.
 
 **FAQ**  
 Answers to common questions about computational memory, governance, and supervised continuity.
+
+**Glossary**  
+See: glossary.md
 
 **Conclusion**  
 Computational memory is a necessary layer for enterprise‑grade AI. It enables continuity, structured reuse, and governed persistence without entering advisory domains. This white paper provides the foundation for defining, supervising, and implementing this category across the industry.
