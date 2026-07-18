@@ -28,6 +28,30 @@ See: implementation-path.md
 
 **Enterprise Deployment Pattern**  
 See: enterprise-deployment-pattern.md  
+
+____________________
+**Version 1.4**  
+
+**Supervised Continuity Test Suite**  
+See: supervised-continuity-test-suite.md
+
+**Regulated Boundaries Specification**  
+See: regulated-boundaries-spec.md  
+
+**Enterprise Controls Checklist**  
+See: enterprise-controls-checklist.md  
+
+**Continuity Failure Modes**  
+See: continuity-failure-modes.md
+
+____________________
+**Version 1.3**  
+
+**Modular Corpus, Routing, Attribution, Structural Alignment**
+This release introduces the modular corpus structure, aligns internal routing, relocates release notes into the white‑paper directory, and finalizes attribution and structural consistency across the category.
+
+There are no See: links because v1.3 did not introduce new standalone artifacts.
+
 ____________________
 **Version 1.2**  
 
