@@ -5,7 +5,7 @@ See: executive-summary.md
 
 This white paper establishes the formal definition, scope, and governance architecture for AI computational memory. It provides the foundation for a regulated safe layer that enables continuity, structured reuse, and governed persistence across interactions without entering advisory domains.
 
-**Introduction**  
+**Category Introduction**  
 See: category-introduction.md  
 
 **Problem Context**  
