@@ -33,10 +33,12 @@ Provide a governance architecture and supervisory controls that allow regulators
 Align regulators, governance teams, practitioners, and engineers on the category and effect the streamlined process that allows memory to persist safely across interactions.
 
 **White Paper**   
-The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment.
+The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment. The white-paper directory contains the full technical and governance specification for computational memory. Release notes v1.0 through v1.3 are stored inside the white-paper corpus and govern versioning.
 
 white-paper/solution.md  
 white-paper/index.md  
+white-paper/category-introduction.md    
+white-paper/category-definition.md   
 white-paper/enterprise-deployment-pattern.md  
 white-paper/reference-architecture.md  
 white-paper/deployment-sequence.md  
@@ -58,16 +60,20 @@ This repository establishes the category definition, problem statement, and full
 
 **Release Notes**  
 
-**release-notes/v1.0.md — White Paper Foundation**     
+**white-paper/release-notesv1.0.md — White Paper Foundation**     
 Establishes the AI Computational Memory Category, including the conceptual spine: Introduction, Problem Context, Category Definition, Solution, Governance Architecture, Operating Model, and Implementation Path.
 
-**release-notes/v1.1.md — API Surface & Supervised Persistence Contract**    
+**white-paper/release-notesv1.1.md — API Surface & Supervised Persistence Contract**    
 Defines the formal interface for supervised continuity, including write/read/transform/delete operations and the governance obligations required for any system interacting with computational memory.
 
-**release-notes/v1.2.md — Enterprise Deployment Pattern, Reference Architecture, Deployment Sequence**    
+**white-paper/release-notesv1.2.md — Enterprise Deployment Pattern, Reference Architecture, Deployment Sequence**    
 Introduces the enterprise implementation layer, including the deployment pattern, supervised continuity reference architecture, and the governed rollout sequence.
 
+**white-paper/release-notesv1.3.md — Modular corpus, routing, attribution, and structural alignment**    
+Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.  
+
 _____________
+**Attribution**  
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
