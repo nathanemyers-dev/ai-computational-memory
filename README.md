@@ -73,6 +73,8 @@ Introduces the enterprise implementation layer, including the deployment pattern
 white-paper/release-notesv1.3.md — Modular corpus, routing, attribution, and structural alignment  
 Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.
 
+______________________
+
 Attribution  
 This work defines the Nathan E. Myers AI Computational Memory Category. Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
