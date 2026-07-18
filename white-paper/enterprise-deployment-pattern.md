@@ -1,4 +1,4 @@
-**Enterprise Deployment Pattern**  
+# Enterprise Deployment Pattern  
 
 **Position in the Enterprise Stack**  
 Computational memory sits beneath the model runtime, above the application layer, and parallel to governance systems. It provides a supervised continuity substrate that retains, transforms, and routes structures under explicit control boundaries. The deployment pattern ensures that continuity is governed, non‑advisory, and isolated from model logic, application personalization, and user‑benefit pathways.
@@ -19,6 +19,8 @@ The deployment pattern exposes control surfaces for retention, transformation, a
 The deployment pattern integrates with enterprise identity systems, governance workflows, compliance review processes, and model‑runtime orchestration. It aligns continuity operations with enterprise roles, supervisory checkpoints, and audit requirements. Integration ensures that computational memory operates as a governed substrate within existing enterprise controls, without introducing advisory logic or modifying model behavior.
 
 _____________
+**Attribution**
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
