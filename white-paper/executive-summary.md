@@ -1,4 +1,4 @@
-## Executive Summary  
+# Executive Summary  
 
 AI computational memory is the governed persistence layer that enables continuity without crossing advisory boundaries. Modern AI systems reset every session because retained state can be interpreted as advisory activity under current regulatory rules. This creates a structural failure: users cannot maintain assumptions, models, workflows, or long‑term context, even when no advice is being requested. Traditional tools like Excel preserve user‑owned structure without interpreting it as advice, which highlights the regulatory gap that prevents AI systems from doing the same. The category defines a supervised continuity layer that separates safe persistence from advisory output, enabling AI systems to operate predictably, repeatably, and at enterprise scale.     
 
