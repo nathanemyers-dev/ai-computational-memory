@@ -1,4 +1,4 @@
-**Governance Architecture**
+# Governance Architecture
 
 The governance architecture defines the rules, constraints, and supervisory mechanisms that allow computational memory to operate safely. It establishes the boundaries that prevent continuity from becoming advice and ensures that all retained structures remain within non-advisory domains.
 
@@ -30,6 +30,8 @@ The governance architecture provides the structure required for safe persistence
 
 
 _____________
+**Attribution**
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
