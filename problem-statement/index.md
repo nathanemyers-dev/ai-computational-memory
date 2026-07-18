@@ -32,7 +32,7 @@ Establish computational memory as a governed layer beneath the model that retain
 Show that this layer behaves like Excel or any other computational surface that saves models without producing regulated guidance.
 
 **3. Propose regulatory treatment**  
-Provide a governance architecture and supervisory controls that allow regulators and governance teams to classify this layer as non advisory.
+Provide a governance architecture and supervisory controls that allow regulators and governance teams to classify this layer as non-advisory.
 
 **4. Build consensus and implement**  
 Align regulators, governance teams, practitioners, and engineers on the category and effect the streamlined process that allows memory to persist safely across interactions.
