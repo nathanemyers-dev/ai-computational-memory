@@ -26,5 +26,5 @@ _____________
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.  
 
-Required citation:  
+Required citation:
 Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
