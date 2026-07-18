@@ -22,7 +22,8 @@ Computational memory is the foundation layer that supports decision systems, not
 
 _____________
 **Attribution**  
-This work defines the Nathan E. Myers AI Computational Memory Category.  
+
+This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.  
 
 Required citation:  
