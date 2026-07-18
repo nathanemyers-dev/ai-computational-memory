@@ -50,6 +50,10 @@ white-paper/operating-model.md
 white-paper/implementation-path.md  
 white-paper/regulatory-alignment.md  
 white-paper/use-cases.md  
+white-paper/supervised-continuity-test-suite.md  
+white-paper/regulated-boundaries-specification.md  
+white-paper/enterprise-controls-checklist.md  
+white-paper/continuity-failure-modes.md  
 white-paper/api-surface.md  
 white-paper/supervised-persistence-contract.md     
 white-paper/FAQ.md  
@@ -73,6 +77,9 @@ Introduces the enterprise implementation layer, including the deployment pattern
 
 white-paper/release-notesv1.3.md — Modular corpus, routing, attribution, and structural alignment  
 Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.
+
+white-paper/release-notesv1.4.md — Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes
+Defines the supervised continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy required for regulated deployment of computational memory.
 
 ______________________
 
