@@ -1,4 +1,4 @@
-# Release Notes v1.3  
+# Version 1.3 Release Notes  
 
 **Overview**  
 Version 1.3 introduces the modular white paper corpus, formalizes the category introduction, and adds the missing definition layer required for supervised continuity. This release restructures the white paper into discrete artifacts, updates the internal index, and aligns the category with the enterprise deployment pattern.
