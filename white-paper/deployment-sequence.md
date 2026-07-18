@@ -22,6 +22,8 @@ Supervisory alignment integrates continuity operations with governance workflows
 Enterprise rollout introduces computational memory into production environments under governed constraints. Continuity operations become available to model runtimes and applications, with supervision and audit fully active. Rollout ensures that computational memory operates as a governed substrate within enterprise controls, without introducing advisory logic or modifying model behavior.
 
 ______________  
+**Attribution**  
+
 This work defines the Nathan E. Myers AI Computational Memory Category. Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation: Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
