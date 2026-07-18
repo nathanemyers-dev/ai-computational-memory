@@ -1,4 +1,4 @@
-**Deployment Sequence**  
+# Deployment Sequence  
 
 **Preconditions**  
 Enterprises must define retention boundaries, transformation eligibility, access roles, supervisory responsibilities, and incident escalation paths before deployment. These preconditions ensure that continuity operations can be governed under existing enterprise controls. Vendors must provide the API surface, persistence contract, control mappings, and audit interfaces required for supervised continuity. Preconditions establish the foundation for safe, predictable deployment.
