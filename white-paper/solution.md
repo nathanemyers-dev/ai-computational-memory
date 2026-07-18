@@ -1,4 +1,4 @@
-**Solution**  
+# Solution  
 Computational memory requires a formal solution path that regulators, governance teams, practitioners, and engineers can evaluate, classify, and implement. The solution must define the functional layer, demonstrate its equivalence to existing non advisory tools, establish regulatory treatment, and provide the alignment process required for safe deployment. This section outlines the structured approach that enables supervised continuity without entering advisory domains.
 
 The solution is to define a formal functional layer within AI decision infrastructure that receives distinct regulatory treatment. This layer is the computational memory surface that supports continuity, structured reuse, and supervised retention. It operates no differently than how Excel saves a model without producing advice. By establishing this layer as non-advisory, the category provides a clear governance path for safe persistence.
@@ -21,6 +21,8 @@ Align regulators, governance teams, practitioners, and engineers on the category
 The solution path establishes computational memory as a governed, non advisory layer that supports continuity, structured reuse, and supervised retention. By defining the layer, demonstrating its equivalence to existing non advisory tools, proposing regulatory treatment, and building consensus across stakeholders, the category provides a clear and actionable framework for safe persistence. This enables AI systems to operate as stable analytical surfaces and removes the structural barriers that prevent continuity today.
 
 ______________________
+**Attribution**  
+
 This work defines the Nathan E. Myers AI Computational Memory Category. Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation: Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
