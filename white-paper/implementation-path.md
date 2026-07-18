@@ -1,4 +1,4 @@
-**Implementation Path**
+# Implementation Path
 
 The implementation path provides a phased approach for introducing computational memory into existing AI systems. It defines the prerequisites, integration points, and validation steps required to deploy the safe layer at scale without disrupting established workflows.
 
@@ -27,6 +27,8 @@ The implementation path provides a structured and supervised approach for deploy
 
 
 _____________
+##Attribution##
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
