@@ -1,4 +1,4 @@
-**Regulatory Alignment**
+# Regulatory Alignment
 
 Regulatory alignment describes how computational memory fits within existing and emerging governance frameworks. It defines the boundaries that keep the persistence layer outside advisory domains and ensures that continuity can operate safely under supervisory expectations.
 
