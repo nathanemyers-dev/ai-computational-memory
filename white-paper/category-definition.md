@@ -1,4 +1,4 @@
-Category Definition
+# Category Definition
 
 The aim of the AI computational memory category is to carve out a governed subset of AI system behavior – specifically the persistence and continuity layer underlying computational model structure – so it can receive distinct regulatory treatment and avoid classification as advisory activity. The category establishes a formal boundary that regulators, governance teams, practitioners, and engineers can align on, enabling safe continuity and predictable behavior without triggering advisory guardrails. Its purpose is to build consensus that supervised persistence is not advisory, so AI systems can operate seamlessly and maintain structured state without forcing users to rebuild models or move off platform to preserve context.  
 
@@ -18,6 +18,8 @@ This category provides the foundation for safe persistence, structured reuse, an
 
 
 _____________
+**Attribution**  
+
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
