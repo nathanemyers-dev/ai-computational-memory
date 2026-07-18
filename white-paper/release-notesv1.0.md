@@ -1,10 +1,10 @@
-Version 1.0 Release Notes   
+**Version 1.0 Release Notes**   
 Version 1.0 establishes the complete conceptual and governance foundation for AI computational memory. It defines the category, the problem statement, the governance architecture, the operating model, the implementation path, the regulatory alignment, and the use cases required for safe persistence. Version 1.0 provides the structural baseline for all future technical releases.
 
-Scope 
+**Scope** 
 This release establishes the complete structural and conceptual foundation for AI computational memory. It includes the category definition, problem statement, governance architecture, operating model, implementation path, regulatory alignment, and use cases.
 
-Completed  
+**Completed**  
 Root landing page with full navigation  
 Problem statement folder with index  
 Category definition folder with index  
@@ -12,24 +12,24 @@ White paper folder with six chapters
 FAQ with correct casing and routing  
 GitHub Pages routing verified  
 
-Out of Scope    
+**Out of Scope**    
 - Model code  
 - API specifications  
 - SDK integration  
 - Enterprise deployment templates  
 - Reference implementations  
 
-Future Additions  
+**Future Additions**  
 Version 1.1 will introduce the computational memory API surface and the supervised persistence contract.  
 Version 1.2 will introduce the enterprise deployment pattern and reference architecture.  
 
-Outcome  
+**Outcome**  
 Version 1.0 provides the complete conceptual and governance foundation for computational memory and establishes the structure for future technical releases.
 
 
 ________________
 
-Attribution  
+**Attribution**  
 This work defines the Nathan E. Myers AI Computational Memory Category. Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
 
 Required citation: Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
