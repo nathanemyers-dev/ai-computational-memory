@@ -1,4 +1,4 @@
-**Computational Memory API Surface**
+# Computational Memory API Surface
 
 Version 1.1 introduces the formal API surface for computational memory. The API defines the allowed operations, the boundaries of each call, and the supervisory constraints that govern interaction with the persistence layer.
 
