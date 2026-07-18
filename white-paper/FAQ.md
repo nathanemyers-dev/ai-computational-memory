@@ -1,4 +1,4 @@
-****FAQ****
+# FAQ
 
 The FAQ provides clarity on how computational memory operates, why the category is necessary, and how it remains within non advisory boundaries. It addresses common questions that arise when enterprises evaluate the persistence layer.
 
