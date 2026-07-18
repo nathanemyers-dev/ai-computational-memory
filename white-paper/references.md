@@ -52,6 +52,6 @@
 
 - AI Computational Memory Category — Version 1.2
 
-AI Computational Memory Category — Version 1.3
+- AI Computational Memory Category — Version 1.3
 
-AI Computational Memory Category — Version 1.4
+- AI Computational Memory Category — Version 1.4
