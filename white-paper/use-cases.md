@@ -19,7 +19,7 @@ Cross system coordination often depends on shared structures that persist across
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
 
-**Outcome:**  
+## Outcome   
 Use cases demonstrate how computational memory provides safe continuity across a range of enterprise scenarios. They show how the persistence layer supports stability, governance, and coordination without entering regulated domains.
 
 
