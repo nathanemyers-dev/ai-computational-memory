@@ -30,6 +30,12 @@ See: implementation-path.md
 See: enterprise-deployment-pattern.md  
 
 ____________________
+**Version 1.5**  
+
+**Glossary**  
+See: glossary.md
+
+____________________
 **Version 1.4**  
 
 **Supervised Continuity Test Suite**  
