@@ -1,4 +1,4 @@
-**Reference Architecture for Supervised Continuity**  
+# Reference Architecture for Supervised Continuity  
 
 **Core Components**  
 The supervised continuity layer consists of six components: the retention engine, transformation gate, access controller, continuity router, supervisory layer, and audit surface. These components define how structures are retained, transformed, accessed, and supervised under governed constraints. Each component operates within explicit boundaries that prevent advisory state formation and ensure predictable continuity.
