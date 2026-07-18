@@ -1,4 +1,4 @@
-**Version 1.2 Release Notes**  
+# Version 1.2 Release Notes  
 Version 1.2 moves the category from operational interfaces to enterprise deployment. It introduces the enterprise deployment pattern and the reference architecture for supervised continuity, defining how computational memory is positioned within an enterprise stack and how supervisory controls govern its operation. These artifacts establish the architectural, supervisory, and control structures required for governed persistence at scale. Version 1.2 operationalizes deployability by providing the enterprise‑grade scaffolding needed for safe continuity in production environments.
 
 **Scope**  
