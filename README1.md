@@ -65,6 +65,7 @@ This repository establishes the category definition, problem statement, and full
 **Version**  
 1.0
 
+_____________________________
 **Release Notes**  
 
 **white-paper/release-notesv1.0.md — White Paper Foundation**     
