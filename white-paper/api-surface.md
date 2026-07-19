@@ -1,6 +1,6 @@
 # Computational Memory API Surface
 
-Version 1.1 introduces the formal API surface for computational memory. The API defines the allowed operations, the boundaries of each call, and the supervisory constraints that govern interaction with the persistence layer.
+The computational memory layer is accessed through a governed API surface. The API defines the allowed operations, the boundaries of each call, and the supervisory constraints that govern interaction with the persistence layer. All interactions with the memory layer must remain within non-advisory domains and must comply with retention, transformation, and access controls. The API surface consists of four calls that establish the only permitted interactions with the memory and persistence layers.
 
 **Write Operations**  
 Structured, bounded writes that store non advisory packets under explicit retention rules.
@@ -14,10 +14,9 @@ Controlled transformations that remain analytical, non directional, and fully su
 **Delete Operations**  
 Removal mechanisms governed by retention limits, supervisory controls, and compliance requirements.
 
-The API surface provides the first standardized interface for safe continuity. It ensures that all interactions remain within non advisory domains and that retained structures cannot be used to generate regulated outputs.
+The API surface provides the first standardized interface for safe continuity. It ensures that all interactions remain within non-advisory domains and that retained structures cannot be used to generate regulated outputs.
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
-
 
 _______________________
 
@@ -34,8 +33,6 @@ A diagram will be added here in v1.6 to illustrate the structure, boundaries, or
 [Enterprise Deployment Pattern](white-paper/enterprise-deployment-pattern.md)  
 [Glossary](white-paper/glossary.md)  
 [References](white-paper/references.md)  
-
-
 
 _____________
 **Attribution**  
