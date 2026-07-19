@@ -126,6 +126,12 @@ The enterprise controls checklist ensures that computational memory:
 
 These controls are required for regulated deployment of computational memory.  
 
+_______________________
+
+## Diagram Placeholder
+A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+
+
 _____________
 **Attribution**  
 
