@@ -1,6 +1,6 @@
 # Regulated Boundaries Specification  
 
-The regulated boundaries specification defines the formal constraints that separate non‑advisory computational memory from regulated advisory activity. It establishes the rules, limits, and supervisory controls required to ensure that continuity, structured reuse, and governed persistence operate entirely within non‑advisory domains. This specification provides the foundation regulators and governance teams use to classify computational memory as a safe functional layer.
+The regulated boundaries specification exists because computational memory cannot operate safely without a formally defined separation between non‑advisory continuity and regulated advisory activity. This specification establishes the constraints, limits, and supervisory controls that keep persistence within non‑advisory domains and prevent retained structures from forming advisory state. It provides the foundation regulators and governance teams use to classify computational memory as a safe functional layer.
 
 **Purpose**  
 
