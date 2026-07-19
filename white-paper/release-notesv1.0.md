@@ -5,12 +5,12 @@ Version 1.0 establishes the complete conceptual and governance foundation for AI
 This release establishes the complete structural and conceptual foundation for AI computational memory. It includes the category definition, problem statement, governance architecture, operating model, implementation path, regulatory alignment, and use cases.
 
 **Completed**  
-Root landing page with full navigation  
-Problem statement folder with index  
-Category definition folder with index  
-White paper folder with six chapters  
-FAQ with correct casing and routing  
-GitHub Pages routing verified  
+- Root landing page with full navigation  
+- Problem statement folder with index  
+- Category definition folder with index  
+- White paper folder with six chapters  
+- FAQ with correct casing and routing  
+- GitHub Pages routing verified  
 
 **Out of Scope**    
 - Model code  
