@@ -2,7 +2,7 @@
 
 AI computational memory is the governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. It provides the foundation for predictable behavior and enterprise scale modeling.
 
-**Why this matters**
+### Why this matters
 
 AI systems have the technical ability to maintain continuity, but vendors force a full reset every session because retained memory can be classified as advisory activity under current regulatory rules. This creates a structural problem. The system must prevent the formation of advisory state, not only advisory output. As a result, memory can fail silently even when no advisory warning is shown.
 
