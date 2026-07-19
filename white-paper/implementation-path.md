@@ -25,6 +25,12 @@ Computational memory is the foundation layer that supports decision systems, not
 **Outcome**  
 The implementation path provides a structured and supervised approach for deploying computational memory. It ensures that continuity is introduced safely, validated thoroughly, and scaled responsibly across the enterprise.
 
+_______________________
+
+## Diagram Placeholder
+A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+
+
 
 _____________
 **Attribution**
