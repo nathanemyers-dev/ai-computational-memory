@@ -5,22 +5,22 @@ Version 1.1 moves the category from definition to implementation. It introduces 
 Version 1.1 introduces the first operational interfaces for computational memory. It adds the API surface and the supervised persistence contract that define how systems interact with the persistence layer under governance.
 
 **Completed**  
-Computational memory API surface defined  (white-paper/api-surface.md)  
-Supervised persistence contract established  (white-paper/supervised-persistence-contract.md)  
-Operational boundaries formalized
-Interaction rules documented
-Governance checkpoints mapped to API operations
-Retention, transformation, and access constraints integrated into the contract
-Version routing updated
+- Computational memory API surface defined  (white-paper/api-surface.md)  
+- Supervised persistence contract established  (white-paper/supervised-persistence-contract.md)  
+- Operational boundaries formalized
+- Interaction rules documented
+- Governance checkpoints mapped to API operations
+- Retention, transformation, and access constraints integrated into the contract
+- Version routing updated
 
 **Out of Scope**  
-Model code
-SDK integration
-Enterprise deployment templates
-Reference implementations
-Cross system orchestration
-Runtime supervision engines
-Decision architecture components
+- Model code
+- SDK integration
+- Enterprise deployment templates
+- Reference implementations
+- Cross system orchestration
+- Runtime supervision engines
+- Decision architecture components
 
 **Additions**  
 Version 1.1 introduces the computational memory API surface. The API defines the allowed operations for writing, reading, transforming, and deleting retained structures under explicit governance. It provides the first standardized interface for safe continuity.
