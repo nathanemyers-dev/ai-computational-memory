@@ -1,6 +1,6 @@
 # Glossary
 
-Below is the governed terminology for the AI Computational Memory Category.  
+Below is the governed terminology for the AI Computational Memory Category.
 Each term defines a formal construct used across the white paper, regulatory artifacts, and deployment pattern.
 
 | Term | Definition |
