@@ -32,11 +32,12 @@ Version 1.5 corrects filename alignment and internal routing. All major artifact
 **Future Additions**  
 Version 1.6 will introduce the diagram layer for the reference architecture, supervised continuity, and the enterprise deployment pattern. It will also add visual elements to the operating model and governance architecture.
 
+**No Breaking Changes**    
+All v1.4, v1.3, v1.2, and v1.1 artifacts remain intact. No API surfaces were modified. No backward compatibility issues were introduced.  
+
 ## Outcome
 Version 1.5 provides the structural stability required for the white-paper corpus to scale. It establishes the navigation spine, corrects routing, and harmonizes conceptual artifacts. These changes prepare the corpus for the v1.6 visual layer and ensure consistent external presentation.
 
-**No Breaking Changes**    
-All v1.4, v1.3, v1.2, and v1.1 artifacts remain intact. No API surfaces were modified. No backward compatibility issues were introduced.  
 _____________________
 **Attribution**  
 
