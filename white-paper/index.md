@@ -30,6 +30,11 @@ See: implementation-path.md
 See: enterprise-deployment-pattern.md  
 
 ____________________
+## Version 1.5  
+
+Version 1.5 establishes the navigation spine for the white‑paper corpus, standardizes cross‑links across all major artifacts, positions diagram placeholders, verifies the external‑facing GitHub Pages structure, and harmonizes the conceptual modules for future diagram integration.
+
+____________________
 ## Version 1.4  
 
 **Supervised Continuity Test Suite**  
