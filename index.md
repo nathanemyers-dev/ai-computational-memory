@@ -22,6 +22,7 @@ The aim of this work is to establish a formal category for supervised AI persist
 
 These examples show why industry and regulators need a defined category for safe continuity so AI can operate efficiently without crossing compliance lines. AI computational memory provides that category by separating safe persistence from advisory activity and defining the rules for supervised retention.
 
+___________________________
 ## White Paper
 
 The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
@@ -45,6 +46,7 @@ The white paper defines the full governance architecture, operating model, imple
 [api-surface](white-paper/api-surface.md)  
 [supervised-persistence-contract](white-paper/supervised-persistence-contract.md)  
 [FAQ](white-paper/FAQ.md)  
+___________________________________________
 
 **Category Materials:**
 
@@ -54,6 +56,7 @@ The white paper defines the full governance architecture, operating model, imple
 
 This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
 
+___________________________
 **Version History**  
 
 **Version 1.0 — White Paper Foundation**    
