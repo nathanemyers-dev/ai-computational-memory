@@ -21,9 +21,19 @@ Computational memory is the foundation layer that supports decision systems, not
 
 _______________________
 
-## Diagram Placeholder
+## Diagram Placeholder  
 A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
 
+## Cross‑Links  
+[Executive Summary](executive-summary.md)  
+[Category Introduction](category-introduction.md)  
+[Category Definition](category-definition.md)  
+[Governance Architecture](governance-architecture.md)  
+[Operating Model](operating-model.md)  
+[Implementation Path](implementation-path.md)  
+[Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
+[Glossary](glossary.md)  
+[References](references.md)
 
 
 _____________
