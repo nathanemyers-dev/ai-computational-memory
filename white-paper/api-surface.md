@@ -19,6 +19,12 @@ The API surface provides the first standardized interface for safe continuity. I
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
 
 
+_______________________
+
+## Diagram Placeholder
+A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+
+
 
 _____________
 **Attribution**  
