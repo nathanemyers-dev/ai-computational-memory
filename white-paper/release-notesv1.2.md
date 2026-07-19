@@ -5,22 +5,23 @@ Version 1.2 moves the category from operational interfaces to enterprise deploym
 Version 1.2 introduces the enterprise deployment pattern and the reference architecture for supervised continuity. It defines how computational memory integrates with model runtimes, application layers, and governance systems under explicit supervisory constraints.
 
 **Completed**  
-Enterprise deployment pattern page created (white-paper/enterprise-deployment-pattern.md)  
-Reference architecture page created (white-paper/reference-architecture.md)   
-Deployment sequence page created (white-paper/deployment-sequence.md)  
-Supervisory control surfaces mapped  
-Retention, transformation, and access boundaries aligned to enterprise roles  
-Phased deployment sequence drafted  
+- Enterprise deployment pattern page created (white-paper/enterprise-deployment-pattern.md)  
+- Reference architecture page created (white-paper/reference-architecture.md)   
+- Deployment sequence page created (white-paper/deployment-sequence.md)  
+- Phased deployment sequence drafted  
+- Supervisory control surfaces mapped  
+- Retention, transformation, and access boundaries aligned to enterprise roles  
+ 
 Integration points with governance workflows outlined  
 
 **Out of Scope**  
-Model code  
-SDK integration  
-Runtime supervision engines  
-Cross‑system orchestration  
-Enterprise‑specific templates  
-Advisory logic  
-Model modification  
+- Model code  
+- SDK integration  
+- Runtime supervision engines  
+- Cross‑system orchestration  
+- Enterprise‑specific templates  
+- Advisory logic  
+- Model modification  
 
 **Additions**  
 Version 1.2 introduces the enterprise deployment pattern. The pattern defines where computational memory sits in the enterprise stack, how it interfaces with models and applications, and how supervisory controls govern retention and transformation.
