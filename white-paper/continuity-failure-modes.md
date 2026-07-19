@@ -14,7 +14,7 @@ The purpose of this specification is to:
 
 This taxonomy is required for regulated deployment.  
 
-**Failure‑Mode Categories**  
+## Failure‑Mode Categories  
 
 **1. Advisory Guardrail Failures**  
 
@@ -120,7 +120,7 @@ Silent boundary failures include:
 
 Silent failures require full diagnostic instrumentation.  
 
-**Outcome**  
+## Outcome  
 
 The continuity failure‑modes specification ensures that enterprises and regulators can:  
 
