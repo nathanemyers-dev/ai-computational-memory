@@ -124,7 +124,7 @@ The audit surface must provide:
 
 This surface enables regulatory review and enterprise governance.  
 
-**Outcome**  
+## Outcome  
 
 The regulated boundaries specification ensures that computational memory:  
 
@@ -135,7 +135,6 @@ The regulated boundaries specification ensures that computational memory:
 • provides predictable, enterprise‑grade continuity  
 
 This specification is required for regulated deployment of computational memory.  
-
 
 _______________________
 
