@@ -18,7 +18,22 @@ The audit surface records all continuity actions, including retention, transform
 **Deployment Preconditions**  
 The reference architecture requires enterprises to define retention boundaries, transformation eligibility, access roles, supervisory responsibilities, and incident escalation paths before deployment. Vendors must provide the API surface, persistence contract, control mappings, and audit interfaces required for governed continuity. These preconditions ensure that computational memory can be deployed safely within existing enterprise controls.
 
-
+## Cross‑Links
+[Executive Summary](executive-summary.md)  
+[Category Introduction](category-introduction.md)  
+[Category Definition](category-definition.md)  
+[Governance Architecture](governance-architecture.md)  
+[Operating Model](operating-model.md)  
+[Implementation Path](implementation-path.md)  
+[Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
+[Supervised Persistence Contract](supervised-persistence-contract.md)  
+[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
+[API Surface](api-surface.md)  
+[Continuity Failure Modes](continuity-failure-modes.md)  
+[Enterprise Controls Checklist](enterprise-controls-checklist.md)  
+[Use Cases](use-cases.md)  
+[Reference Architecture](reference-architecture.md)
 ____________
 **Attribution**
 
