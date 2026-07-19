@@ -7,17 +7,22 @@ AI computational memory exists because modern AI systems behave like stateless t
 AI systems today are technically capable of maintaining structured state, but vendors disable continuity because retained memory has not been formally carved out with prescribed governance. Without a clear category definition that distinguishes safe persistence from advisory activity, the default is to treat any retained state as advisory activity, and vendors disable continuity entirely. This creates a structural failure that no other computational tool exhibits. Traditional tools like Excel preserve whatever the user builds, including models, assumptions, and multi‑sheet workflows, without interpreting the saved content as advice. Excel assumes the user owns the structure and is responsible for how it is used. AI systems, by contrast, must assume that retained state could later be interpreted as guidance, which forces a full reset every session. The absence of a governed persistence layer prevents AI systems from maintaining identity, preferences, or long‑term relevant information, even when the user is only preserving their own work. This gap is the core reason continuity breaks and the core reason the category must exist.  
 
 
-## Cross‑Links  
-[Executive Summary](white-paper/executive-summary.md)  
-[Category Introduction](white-paper/category-introduction.md)  
-[Category Definition](white-paper/category-definition.md)  
-[Governance Architecture](white-paper/governance-architecture.md)  
-[Operating Model](white-paper/operating-model.md)  
-[Implementation Path](white-paper/implementation-path.md)  
-[Enterprise Deployment Pattern](white-paper/enterprise-deployment-pattern.md)  
-[Glossary](white-paper/glossary.md)  
-[References](white-paper/references.md)  
-
+## Cross‑Links
+[Executive Summary](executive-summary.md)  
+[Category Introduction](category-introduction.md)  
+[Category Definition](category-definition.md)  
+[Governance Architecture](governance-architecture.md)  
+[Operating Model](operating-model.md)  
+[Implementation Path](implementation-path.md)  
+[Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
+[Supervised Persistence Contract](supervised-persistence-contract.md)  
+[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
+[API Surface](api-surface.md)  
+[Continuity Failure Modes](continuity-failure-modes.md)  
+[Enterprise Controls Checklist](enterprise-controls-checklist.md)  
+[Use Cases](use-cases.md)  
+[Reference Architecture](reference-architecture.md)
 ______________  
 **Attribution**  
 
