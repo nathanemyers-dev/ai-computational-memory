@@ -31,7 +31,7 @@ The white paper defines the full governance architecture, operating model, imple
 [category definition](white-paper/category-definition.md)  
 [executive summary](white-paper/executive-summary.md)  
 [solution](white-paper/solution.md)   
-[enterprise deployment-pattern](white-paper/enterprise-deployment-pattern.md)  
+[enterprise deployment pattern](white-paper/enterprise-deployment-pattern.md)  
 [reference architecture](white-paper/reference-architecture.md)  
 [deployment sequence](white-paper/deployment-sequence.md)  
 [governance architecture](white-paper/governance-architecture.md)   
@@ -52,7 +52,7 @@ ___________________________________________
 
 [problem statement](problem-statement/index.md)  
 
-### Outcome  
+## Outcome  
 
 This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
 
@@ -72,7 +72,11 @@ Introduces the enterprise implementation layer, including the deployment pattern
 Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.  
 
 **Version 1.4 — Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes**    
-Defines the supervised continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy required for regulated deployment.    
+Defines the supervised continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy required for regulated deployment.  
+
+**Version 1.5 — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability**
+Establishes the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, positions diagram placeholders, verifies the external-facing GitHub Pages structure, and harmonizes the conceptual modules for future diagram integration.
+
 _____________
 **Attribution**
 
