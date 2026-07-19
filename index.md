@@ -1,4 +1,4 @@
-**AI Computational Memory**
+# AI Computational Memory
 
 AI computational memory is the governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. It provides the foundation for predictable behavior and enterprise scale modeling.
 
@@ -22,7 +22,7 @@ The aim of this work is to establish a formal category for supervised AI persist
 
 These examples show why industry and regulators need a defined category for safe continuity so AI can operate efficiently without crossing compliance lines. AI computational memory provides that category by separating safe persistence from advisory activity and defining the rules for supervised retention.
 
-**White Paper**
+## White Paper
 
 The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
 
