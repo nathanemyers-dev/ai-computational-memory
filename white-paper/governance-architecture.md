@@ -1,6 +1,6 @@
 # Governance Architecture
 
-The governance architecture defines the rules, constraints, and supervisory mechanisms that allow computational memory to operate safely. It establishes the boundaries that prevent continuity from becoming advice and ensures that all retained structures remain within non-advisory domains.
+The governance architecture exists because AI systems cannot safely retain state without a formal supervisory structure. Continuity fails when retained information can be interpreted as advisory activity, and vendors respond by disabling persistence entirely. The governance architecture defines the rules, constraints, and supervisory mechanisms that allow computational memory to operate safely. It establishes the boundaries that prevent continuity from becoming advice and ensures that all retained structures remain within non-advisory domains.
 
 **Purpose**  
 The purpose of the governance architecture is to create a controlled persistence layer that supports continuity without enabling prediction, recommendation, or personalized guidance. It provides the formal structure that separates safe retention from regulated activity. It also defines how the system prevents the formation of advisory state, which is the root cause of silent memory failures in current architectures.
