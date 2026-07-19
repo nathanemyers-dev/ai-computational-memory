@@ -71,6 +71,9 @@ Answers to common questions about computational memory, governance, and supervis
 **Glossary**  
 See: glossary.md
 
+**References**  
+See: referemces.md
+
 **Conclusion**  
 Computational memory is a necessary layer for enterprise‑grade AI. It enables continuity, structured reuse, and governed persistence without entering advisory domains. This white paper provides the foundation for defining, supervising, and implementing this category across the industry.
 
