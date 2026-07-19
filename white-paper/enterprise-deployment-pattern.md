@@ -1,5 +1,7 @@
 # Enterprise Deployment Pattern  
 
+The enterprise deployment pattern exists because AI systems cannot maintain safe continuity without a governed placement of computational memory inside the enterprise stack. Without a formal deployment pattern, retained state can drift into advisory domains or interfere with model logic, and vendors respond by disabling persistence entirely. The deployment pattern defines where computational memory sits, how it interfaces with the model runtime, application layer, and governance systems, and how continuity is supervised so it remains non‑advisory and predictable.
+
 **Position in the Enterprise Stack**  
 Computational memory sits beneath the model runtime, above the application layer, and parallel to governance systems. It provides a supervised continuity substrate that retains, transforms, and routes structures under explicit control boundaries. The deployment pattern ensures that continuity is governed, non‑advisory, and isolated from model logic, application personalization, and user‑benefit pathways.
 
