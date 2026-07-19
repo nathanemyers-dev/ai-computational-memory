@@ -39,18 +39,18 @@ The white paper defines the full governance architecture, operating model, imple
 [implementation path](white-paper/implementation-path.md)  
 [regulatory alignment](white-paper/regulatory-alignment.md)  
 [use cases](white-paper/use-cases.md)  
-[supervised continuity-test-suite](white-paper/supervised-continuity-test-suite.md)  
-[regulated boundaries-specification](white-paper/regulated-boundaries-specification.md)    
-[enterprise controls-checklist](white-paper/enterprise-controls-checklist.md)    
-[continuity failure-modes](white-paper/continuity-failure-modes.md)  
+[supervised continuity test suite](white-paper/supervised-continuity-test-suite.md)  
+[regulated boundaries specification](white-paper/regulated-boundaries-specification.md)    
+[enterprise controls checklist](white-paper/enterprise-controls-checklist.md)    
+[continuity failure modes](white-paper/continuity-failure-modes.md)  
 [api surface](white-paper/api-surface.md)  
-[supervised persistence-contract](white-paper/supervised-persistence-contract.md)  
+[supervised persistence contract](white-paper/supervised-persistence-contract.md)  
 [FAQ](white-paper/FAQ.md)  
 ___________________________________________
 
 ### Category Materials:
 
-[problem-statement](problem-statement/index.md)  
+[problem statement](problem-statement/index.md)  
 
 ### Outcome  
 
