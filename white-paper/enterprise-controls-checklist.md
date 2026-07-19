@@ -2,7 +2,7 @@
 
 The enterprise controls checklist defines the mandatory supervisory, governance, and audit controls required for deploying computational memory in regulated environments. It provides the formal control structure enterprises must implement to ensure safe continuity, governed retention, and non‑advisory operation across all systems interacting with computational memory.
 
-**Purpose**  
+### Purpose  
 
 The purpose of this checklist is to:  
 
@@ -14,7 +14,8 @@ The purpose of this checklist is to:
 
 These controls are mandatory for any production deployment.  
 
-**Control Categories**
+_____________________________
+### Control Categories
 
 **1. Retention Controls**   
 
@@ -112,8 +113,8 @@ Deployment controls must ensure:
 • phased rollout under governed constraints  
 
 Deployment controls ensure safe installation and activation.  
-
-**Outcome**  
+______________________________
+### Outcome  
 
 The enterprise controls checklist ensures that computational memory:  
 
