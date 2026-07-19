@@ -5,25 +5,22 @@ Version 1.5 stabilizes the white-paper corpus by introducing the unified navigat
 Version 1.5 introduces the navigation spine for the white-paper corpus. It defines the cross-links block, aligns filenames across all major artifacts, and standardizes internal routing for GitHub Pages. It also updates the supervised persistence contract introduction and removes version references from conceptual modules to ensure long-term stability.
 
 **Completed**  
-Cross-links block standardized across all major artifacts  
-Filename alignment corrected for supervised-persistence-contract, supervised-continuity-test-suite, and regulated-boundaries-specification  
-Navigation spine established for the fifteen conceptual modules  
-Diagram placeholders positioned above cross-links in all relevant artifacts  
-Supervised persistence contract introduction rewritten to remove version references  
-External-facing GitHub Pages structure verified  
-Internal routing stabilized with relative links inside the white-paper directory  
-Conceptual modules harmonized for future diagram integration  
+- Cross-links block standardized across all major artifacts  
+- Navigation spine established for the fifteen conceptual modules  
+- Diagram placeholders positioned above cross-links in all relevant artifacts  
+- External-facing GitHub Pages structure verified  
+- Conceptual modules harmonized for future diagram integration  
 
 **Out of Scope**   
-Model code  
-SDK integration  
-Runtime supervision engines  
-Cross-system orchestration  
-Enterprise-specific templates  
-Advisory logic  
-Model modification  
-Diagram creation  
-Reference architecture visuals  
+- Model code  
+- SDK integration  
+- Runtime supervision engines  
+- Cross-system orchestration  
+- Enterprise-specific templates  
+- Advisory logic  
+- Model modification  
+- Diagram creation  
+- Reference architecture visuals  
 
 **Additions**  
 Version 1.5 introduces the unified navigation spine. The spine defines the cross-links block used across all major artifacts and ensures consistent lateral navigation for external readers.
