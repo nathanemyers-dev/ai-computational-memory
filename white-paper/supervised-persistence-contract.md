@@ -1,6 +1,6 @@
 # Supervised Persistence Contract
 
-Version 1.1 introduces the supervised persistence contract. The contract defines the obligations, constraints, and supervisory checkpoints required for any system that interacts with computational memory.
+The supervised persistence contract exists because computational memory cannot operate safely without a formal set of obligations and controls governing how retained structures are created, transformed, and accessed. The contract defines the constraints, supervisory checkpoints, and interaction rules required for any system that touches the persistence layer. It ensures that continuity remains non‑advisory, that retained structures cannot form advisory state, and that all operations are governed under explicit supervisory boundaries.
 
 **Retention Eligibility Requirements**  
 Only identity, preference, and long-term relevant structures may be retained.
