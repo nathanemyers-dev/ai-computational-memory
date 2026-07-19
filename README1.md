@@ -1,4 +1,4 @@
-**AI Computational Memory**
+# AI Computational Memory
 
 AI computational memory is a governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. It provides a formal category for safe persistence that supports enterprise scale modeling and predictable behavior.
 
@@ -58,7 +58,7 @@ white-paper/api-surface.md
 white-paper/supervised-persistence-contract.md   
 white-paper/FAQ.md  
 
-**Outcome**  
+## Outcome  
 This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non-advisory boundaries and supports enterprise-grade AI.
 
 
@@ -79,8 +79,12 @@ Introduces the enterprise implementation layer, including the deployment pattern
 **white-paper/release-notesv1.3.md — Modular corpus, routing, attribution, and structural alignment**    
 Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.  
 
-**white-paper/release-notesv1.4.md — Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes**
+**white-paper/release-notesv1.4.md — Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes**  
 Defines the supervised continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy required for regulated deployment of computational memory.
+
+**white-paper/release-notesv1.5.md — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability**    
+Defines the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, positions diagram placeholders, verifies external-facing pages routing, and harmonizes conceptual modules for future diagram integration.
+
 _____________
 **Attribution**  
 This work defines the Nathan E. Myers AI Computational Memory Category.
