@@ -6,6 +6,18 @@ The aim of this white paper is to explain the cause of the continuity failure, s
 
 The first step is to formally define the category, AI Computational Memory, so regulators, governance teams, and engineers can align on what constitutes safe persistence, how it differs from advisory activity, and how it can be supervised without triggering regulatory boundaries. This definition provides the foundation for a compliant persistence layer that restores continuity and allows AI systems to operate as intended.  
 
+
+## Cross‑Links  
+[Executive Summary](white-paper/executive-summary.md)  
+[Category Introduction](white-paper/category-introduction.md)  
+[Category Definition](white-paper/category-definition.md)  
+[Governance Architecture](white-paper/governance-architecture.md)  
+[Operating Model](white-paper/operating-model.md)  
+[Implementation Path](white-paper/implementation-path.md)  
+[Enterprise Deployment Pattern](white-paper/enterprise-deployment-pattern.md)  
+[Glossary](white-paper/glossary.md)  
+[References](white-paper/references.md)  
+
 ______________  
 **Attribution**
 
