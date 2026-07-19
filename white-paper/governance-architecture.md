@@ -28,6 +28,11 @@ Computational memory is the foundation layer that supports decision systems, not
 **Outcome**  
 The governance architecture provides the structure required for safe persistence. It ensures that computational memory operates within defined limits and supports continuity without entering regulated domains. It is the foundation for supervised, compliant, and predictable reuse.
 
+_______________________
+
+## Diagram Placeholder
+A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+
 
 _____________
 **Attribution**
