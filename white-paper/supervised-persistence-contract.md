@@ -21,6 +21,12 @@ The supervised persistence contract ensures that continuity is governed, predict
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
 
+_______________________
+
+## Diagram Placeholder
+A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+
+
 _____________
 **Attribution**  
 
