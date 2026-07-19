@@ -17,6 +17,17 @@ Computational memory is the foundation layer that supports decision systems, not
 This category provides the foundation for safe persistence, structured reuse, and governed continuity. It establishes the rules, the scope, and the operating model that vendors, enterprises, and regulators can align on. By defining computational memory as a distinct functional layer, the category enables supervised retention without crossing advisory boundaries and allows AI systems to operate as stable analytical surfaces.
 
 
+## Cross‑Links  
+[Executive Summary](white-paper/executive-summary.md)  
+[Category Introduction](white-paper/category-introduction.md)  
+[Category Definition](white-paper/category-definition.md)  
+[Governance Architecture](white-paper/governance-architecture.md)  
+[Operating Model](white-paper/operating-model.md)  
+[Implementation Path](white-paper/implementation-path.md)  
+[Enterprise Deployment Pattern](white-paper/enterprise-deployment-pattern.md)  
+[Glossary](white-paper/glossary.md)  
+[References](white-paper/references.md)  
+
 _____________
 **Attribution**  
 
