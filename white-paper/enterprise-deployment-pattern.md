@@ -18,6 +18,13 @@ The deployment pattern exposes control surfaces for retention, transformation, a
 **Integration Points**  
 The deployment pattern integrates with enterprise identity systems, governance workflows, compliance review processes, and model‑runtime orchestration. It aligns continuity operations with enterprise roles, supervisory checkpoints, and audit requirements. Integration ensures that computational memory operates as a governed substrate within existing enterprise controls, without introducing advisory logic or modifying model behavior.
 
+
+_______________________
+
+## Diagram Placeholder
+A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+
+
 _____________
 **Attribution**
 
