@@ -29,6 +29,12 @@ Computational memory is the foundation layer that supports decision systems, not
 The operating model provides the structure required for predictable and supervised use of computational memory. It ensures that continuity is maintained safely, consistently, and within defined boundaries across the enterprise. It enables systems to retain and reuse information without entering regulated domains or forming advisory state.
 
 
+_______________________
+
+## Diagram Placeholder
+A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+
+
 _____________
 **Attribution**
 
