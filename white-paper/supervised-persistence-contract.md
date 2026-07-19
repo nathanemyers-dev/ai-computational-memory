@@ -27,6 +27,18 @@ _______________________
 A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
 
 
+## Cross‑Links  
+[Executive Summary](white-paper/executive-summary.md)  
+[Category Introduction](white-paper/category-introduction.md)  
+[Category Definition](white-paper/category-definition.md)  
+[Governance Architecture](white-paper/governance-architecture.md)  
+[Operating Model](white-paper/operating-model.md)  
+[Implementation Path](white-paper/implementation-path.md)  
+[Enterprise Deployment Pattern](white-paper/enterprise-deployment-pattern.md)  
+[Glossary](white-paper/glossary.md)  
+[References](white-paper/references.md)  
+
+
 _____________
 **Attribution**  
 
