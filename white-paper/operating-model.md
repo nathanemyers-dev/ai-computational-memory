@@ -1,6 +1,6 @@
 # Operating Model
 
-The operating model describes how computational memory functions within an enterprise environment. It defines the roles, responsibilities, and control points required to maintain safe persistence and ensure that continuity remains within non-advisory boundaries.
+The operating model exists because AI systems cannot maintain continuity without a governed process for how memory is created, updated, and supervised. Without a formal operating model, retained state can drift into advisory domains, and vendors respond by disabling persistence entirely. The operating model describes how computational memory functions within an enterprise environment. It defines the roles, responsibilities, and control points required to maintain safe persistence and ensure that continuity remains within non‑advisory boundaries.
 
 **Purpose**  
 The purpose of the operating model is to establish a predictable and supervised framework for how computational memory is created, updated, accessed, and governed. It ensures that the persistence layer behaves consistently across systems and interactions. It also defines how the system prevents the formation of advisory state, which is the underlying reason why current architectures drop memory silently when retention would create regulatory exposure.
