@@ -7,23 +7,26 @@ The aim of this white paper is to explain the cause of the continuity failure, s
 The first step is to formally define the category, AI Computational Memory, so regulators, governance teams, and engineers can align on what constitutes safe persistence, how it differs from advisory activity, and how it can be supervised without triggering regulatory boundaries. This definition provides the foundation for a compliant persistence layer that restores continuity and allows AI systems to operate as intended.  
 
 ## Cross‑Links
-[Executive Summary](executive-summary.md)  
-[Category Introduction](category-introduction.md)  
-[Category Definition](category-definition.md)  
-[Governance Architecture](governance-architecture.md)  
-[Operating Model](operating-model.md)  
-[Implementation Path](implementation-path.md)  
-[Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Supervised Persistence Contract](supervised-persistence-contract.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
-[Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
-[API Surface](api-surface.md)  
-[Continuity Failure Modes](continuity-failure-modes.md)  
-[Enterprise Controls Checklist](enterprise-controls-checklist.md)  
-[Use Cases](use-cases.md)  
+[Executive Summary](executive-summary.md)
+[Category Introduction](category-introduction.md)
+[Category Definition](category-definition.md)
+[Problem Context](problem-context.md)
+[Solution](solution.md)
+[Taxonomy](taxonomy.md)
 [Reference Architecture](reference-architecture.md)
-
-
+[Governance Architecture](governance-architecture.md)
+[Operating Model](operating-model.md)
+[Implementation Path](implementation-path.md)
+[Enterprise Deployment Pattern](enterprise-deployment-pattern.md)
+[Regulated Boundaries Specification](regulated-boundaries-specification.md)
+[Supervised Persistence Contract](supervised-persistence-contract.md)
+[Supervised Continuity Test Suite](supervised-continuity-test-suite.md)
+[API Surface](api-surface.md)
+[Continuity Failure Modes](continuity-failure-modes.md)
+[Enterprise Controls Checklist](enterprise-controls-checklist.md)
+[Use Cases](use-cases.md)
+[Examples](examples.md)
+[Vendor Implementation Architecture](vendor-implementation-architecture.md)  
 ______________  
 **Attribution**
 
