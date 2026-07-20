@@ -17,7 +17,7 @@ Each term defines a formal construct used across the white paper, regulatory art
 | compliant persistence layer | The governed persistence layer that satisfies regulatory requirements for non-advisory operation, ensuring that retained structures support continuity without being classified as guidance or advisory state. |
 | computational artifacts | Retained, non-advisory structures created through supervised continuity operations that support reuse and stability without forming advisory state. |
 | computational memory | The governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. |
-| computational memory surface | Tayer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains.he governed persistence l |
+| computational memory surface | The governed layer within AI decision infrastructure where continuity, structured reuse, and supervised retention occur. The computational memory surface provides the stable, non‑advisory foundation for maintaining analytical state across interactions and ensures that retained structures cannot produce guidance or advisory activity. |
 | conversational packets | Transient dialogue packets classified as non-durable and ineligible for retention because they do not contribute to safe, structured continuity. |
 | continuity | The ability of an AI system to maintain structured, non-advisory state across interactions under governed constraints. |
 | continuity failure modes | The defined set of conditions under which continuity breaks, including guardrail activation, retention-eligibility rejection, and heuristic misclassification. |
@@ -67,10 +67,12 @@ Each term defines a formal construct used across the white paper, regulatory art
 | supervised continuity layer | The governed continuity layer that explicitly separates safe persistence from advisory output, ensuring that retained structures support repeatable operation without forming advisory state or guidance. |
 | supervised persistence | The governed process of retaining structures under supervisory controls that enforce non-advisory boundaries. |
 | supervised retention | The controlled retention of packets under supervisory rules that prevent advisory state formation. |
+| supervisory checkpoints | Governed evaluation points within the continuity layer that validate retention events, enforce compliance constraints, and prevent advisory‑risk structures from persisting. Supervisory checkpoints operate beneath the model and ensure that continuity remains within regulated boundaries. |
 | supervisory controls | The governed mechanisms that enforce retention boundaries, compliance constraints, and advisory-risk prevention. |
 | supervisory gates | The checkpoints that evaluate packets for advisory-risk, eligibility, and compliance before retention. |
 | telemetry surface | The governed visibility layer that exposes continuity operations, supervisory actions, and retention events for audit. |
 | transform operations | Governed API operations that modify retained structures under supervisory constraints. |
+| transformation rules | The governed constraints that define how retained structures may be modified within the continuity layer. Transformation rules ensure that all modifications remain non‑advisory, compliant with regulatory boundaries, and consistent with the system’s supervised persistence model. |
 | unbounded retention | A prohibited condition in which retained structures exceed governed limits, bypass supervisory controls, or create advisory‑risk state. Unbounded retention violates the persistence boundary and must be prevented by the memory boundary and supervisory gates. |
 | use cases | The defined set of non-advisory continuity applications across enterprise domains. |
 | white paper | The foundational document defining the AI Computational Memory Category, its governance architecture, and deployment model. |
