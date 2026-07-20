@@ -17,6 +17,7 @@ Each term defines a formal construct used across the white paper, regulatory art
 | compliant persistence layer | The governed persistence layer that satisfies regulatory requirements for non-advisory operation, ensuring that retained structures support continuity without being classified as guidance or advisory state. |
 | computational artifacts | Retained, non-advisory structures created through supervised continuity operations that support reuse and stability without forming advisory state. |
 | computational memory | The governed persistence layer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains. |
+| computational memory surface | Tayer that enables continuity, structured reuse, and supervised retention across interactions without entering advisory domains.he governed persistence l |
 | conversational packets | Transient dialogue packets classified as non-durable and ineligible for retention because they do not contribute to safe, structured continuity. |
 | continuity | The ability of an AI system to maintain structured, non-advisory state across interactions under governed constraints. |
 | continuity failure modes | The defined set of conditions under which continuity breaks, including guardrail activation, retention-eligibility rejection, and heuristic misclassification. |
