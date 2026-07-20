@@ -46,7 +46,7 @@ Classification logic that determines whether packets are analytical, conversatio
 **Retention Eligibility Rules**    
 Governed criteria that determine whether packets may persist. These rules prevent non‑compliant structures from entering the continuity layer.
 
-## Conclusion  
+## Outcome  
 This taxonomy defines the structural components of the AI Computational Memory Category and provides the classification system required for safe retention, structured reuse, and governed continuity. By establishing the layer, the boundaries, the structures, and the supervisory mechanisms, the taxonomy enables regulators, governance teams, practitioners, and engineers to align on a consistent model for supervised persistence within the non‑advisory domain.
 
 _____________
