@@ -48,6 +48,31 @@ Examples include:
 
 "When I create a household financial model, AI cannot retain budgets, categories, or recurring expenses. I have to reconstruct the model before I can update a single number."
 
+## Cross-links
+
+
+
+[Executive Summary](/white-paper/executive-summary.md)  
+[Category Introduction](/white-paper/category-introduction.md)  
+[Category Definition](/white-paper/category-definition.md)  
+[Problem Context](problem-context.md)  
+[Solution](/white-paper/solution.md)  
+[Taxonomy](/white-paper/taxonomy.md)  
+[Reference Architecture](/white-paper/reference-architecture.md)  
+[Governance Architecture](/white-paper/governance-architecture.md)  
+[Operating Model](/white-paper/operating-model.md)  
+[Implementation Path](/white-paper/implementation-path.md)  
+[Enterprise Deployment Pattern](/white-paper/enterprise-deployment-pattern.md)  
+[Regulated Boundaries Specification](/white-paper/regulated-boundaries-specification.md)  
+[Supervised Persistence Contract](/white-paper/supervised-persistence-contract.md)  
+[Supervised Continuity Test Suite](/white-paper/supervised-continuity-test-suite.md)  
+[API Surface](/white-paper/api-surface.md)  
+[Continuity Failure Modes](/white-paper/continuity-failure-modes.md)  
+[Enterprise Controls Checklist](/white-paper/enterprise-controls-checklist.md)  
+[Use Cases](/white-paper/use-cases.md)  
+[Vendor Implementation Architecture](/white-paper/vendor-implementation-architecture.md)  
+
+
 _____________
 **Attribution**  
 
