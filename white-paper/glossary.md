@@ -8,6 +8,7 @@ Each term defines a formal construct used across the white paper, regulatory art
 | advisory activity | Activity in which an AI system generates, shapes, or influences a user’s decision, judgment, or course of action in a way that regulators classify as guidance. Advisory activity includes any output that interprets user intent, recommends actions, evaluates choices, or produces directionally suggestive conclusions. Computational memory must never form or enable advisory activity; it operates strictly as a continuity layer, not a decision or guidance surface. |
 | advisory guardrails | Regulatory controls that prevent AI systems from producing guidance, recommendations, evaluations, or directionally suggestive outputs. These guardrails operate at both the output layer and the memory boundary. |
 | advisory state | Any retained structure that could later produce advisory activity. Advisory state is prohibited; computational memory must enforce boundaries that prevent its formation. |
+| analytical persistence | The governed ability to maintain structured, non‑advisory analytical state across interactions. Analytical persistence supports modeling, workflows, and assumptions without entering advisory domains or triggering regulated guidance. |
 | analytical surface | The stable, repeatable interface through which users perform structured analysis. Computational memory supports the analytical surface without influencing decisions. |
 | audit surface | The governed visibility layer that exposes retention events, supervisory actions, and continuity operations for compliance review. |
 | boundary-layer activation | The moment when a retention or supervisory rule is triggered at the memory boundary, determining whether a packet is eligible for safe persistence. |
@@ -22,6 +23,7 @@ Each term defines a formal construct used across the white paper, regulatory art
 | continuity layer | The governed layer that provides safe, non-advisory persistence for analytical workflows, modeling, and structured reuse. |
 | continuity loss | A failure in which expected state is unavailable due to guardrail activation, packet rejection, or interpretation-heuristic filtering. |
 | control surfaces | The governed interfaces through which supervisory rules, retention boundaries, and compliance constraints are applied to computational memory. |
+| controlled substrate | The governed foundational layer beneath the model where continuity, retention, and structured reuse occur. The controlled substrate provides stable, predictable behavior across sessions while enforcing non‑advisory boundaries. |
 | decision systems | Systems that generate recommendations, evaluations, or directionally suggestive outputs; computational memory must remain separate from decision logic. |
 | delete operations | Governed API operations that remove retained structures under supervisory constraints to ensure no advisory state persists. |
 | deployment sequence | The phased rollout path for installing, validating, supervising, and activating computational memory within enterprise environments. |
@@ -29,12 +31,14 @@ Each term defines a formal construct used across the white paper, regulatory art
 | durable state | Retained, non-advisory structures that support continuity and reuse across interactions under supervised constraints. |
 | enterprise controls | The governed set of checks, validations, and supervisory mechanisms required for regulated deployment of computational memory. |
 | enterprise deployment pattern | The standardized model for deploying computational memory across enterprise systems, ensuring safe activation and compliance alignment. |
+| enterprise-scale modeling | The ability for AI systems to support large, repeatable, multi‑session analytical workflows under governed continuity. Enterprise‑scale modeling requires stable inputs, reusable structures, and predictable behavior without forming advisory state. |
 | equivalence demonstration | The formal process of showing that computational memory behaves like existing non-advisory tools and therefore qualifies for regulatory carve-out. |
 | FAQ | The structured set of clarifications addressing common questions about computational memory, governance, and supervised continuity. |
 | governed carve-out | The governed exemption that allows computational memory to retain non-advisory structures under supervisory controls, ensuring that persistence remains outside advisory classification while satisfying regulatory expectations. |
 | governed continuity | Continuity delivered under supervisory constraints that prevent advisory state formation and ensure safe persistence. |
 | governed dynamic modeling | Analytical modeling performed with continuity and reuse while remaining within non-advisory boundaries. |
 | governed persistence | Retention performed under supervisory controls that ensure stored structures cannot produce advisory activity. |
+| governed persistence surface | The formally constrained layer where inputs, transformations, and retained structures are persisted under supervisory controls. It provides a safe, non‑advisory perimeter for continuity operations and ensures that stored state cannot produce guidance or advisory activity. |
 | governance architecture | The formal structure of supervisory controls, boundaries, and compliance mechanisms that govern computational memory. |
 | guardrail activation | The triggering of regulatory controls that block advisory-risk outputs or retention events. |
 | identity packets | Packets containing stable user identity or preference information eligible for safe retention under governed rules. |
@@ -66,6 +70,7 @@ Each term defines a formal construct used across the white paper, regulatory art
 | supervisory gates | The checkpoints that evaluate packets for advisory-risk, eligibility, and compliance before retention. |
 | telemetry surface | The governed visibility layer that exposes continuity operations, supervisory actions, and retention events for audit. |
 | transform operations | Governed API operations that modify retained structures under supervisory constraints. |
+| unbounded retention | A prohibited condition in which retained structures exceed governed limits, bypass supervisory controls, or create advisory‑risk state. Unbounded retention violates the persistence boundary and must be prevented by the memory boundary and supervisory gates. |
 | use cases | The defined set of non-advisory continuity applications across enterprise domains. |
 | white paper | The foundational document defining the AI Computational Memory Category, its governance architecture, and deployment model. |
 | write operations | Governed API operations that create retained structures under supervisory constraints. |
