@@ -104,7 +104,7 @@ The vendor implementation architecture ensures that vendors implement the comput
 [Executive Summary](executive-summary.md)  
 [Category Introduction](category-introduction.md)  
 [Category Definition](category-definition.md)  
-[Problem Context](problem-statement/problem-context.md)  
+[Problem Context](/problem-statement/problem-context.md)  
 [Solution](solution.md)  
 [Taxonomy](taxonomy.md)  
 [Reference Architecture](reference-architecture.md)  
@@ -119,7 +119,7 @@ The vendor implementation architecture ensures that vendors implement the comput
 [Continuity Failure Modes](continuity-failure-modes.md)  
 [Enterprise Controls Checklist](enterprise-controls-checklist.md)  
 [Use Cases](use-cases.md)  
-[Examples](examples.md)  
+[Examples](/problem-statement/examples.md)  
 [Vendor Implementation Architecture](vendor-implementation-architecture.md)  
 
 __________________
