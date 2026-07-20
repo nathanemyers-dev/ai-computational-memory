@@ -104,7 +104,7 @@ The vendor implementation architecture ensures that vendors implement the comput
 [Executive Summary](executive-summary.md)  
 [Category Introduction](category-introduction.md)  
 [Category Definition](category-definition.md)  
-[Problem Context](problem-context.md)  
+[Problem Context](problem-statement/problem-context.md)  
 [Solution](solution.md)  
 [Taxonomy](taxonomy.md)  
 [Reference Architecture](reference-architecture.md)  
