@@ -58,8 +58,10 @@ Each term defines a formal construct used across the white paper, regulatory art
 | retention boundary | The governed limit determining whether a packet is eligible for safe persistence. |
 | retention eligibility rules | The criteria that determine whether packets qualify for retention based on identity, preference, or long-term relevance. |
 | safe retention | The governed process of storing non-advisory structures under supervisory constraints. |
+| safe persistence layer | The governed continuity layer that retains non‑advisory structures under supervisory controls. The safe persistence layer ensures that stored state cannot produce guidance, violate regulated boundaries, or form advisory state. |
 | silent failure | A continuity failure that occurs without a visible warning due to guardrail activation, packet rejection, or heuristic filtering. |
 | solution | The formal path for establishing computational memory as a governed, non-advisory functional layer. |
+| streamlined process | The governed implementation sequence that aligns regulators, governance teams, practitioners, and engineers on supervised continuity. The streamlined process applies supervisory controls, updates guardrails, and activates safe retention across interactions. |
 | structural failure | A systemic breakdown in continuity where users cannot maintain assumptions, models, workflows, or long-term context, even when no advice is requested, due to regulatory treatment of retained state as advisory activity. |
 | structured reuse | The ability to reuse retained, non-advisory structures across interactions under governed constraints. |
 | supervised AI persistence | The governed retention of non-advisory structures under supervisory controls that prevent advisory state formation. |
