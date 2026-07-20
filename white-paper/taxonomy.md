@@ -48,3 +48,12 @@ Governed criteria that determine whether packets may persist. These rules preven
 
 ## Conclusion  
 This taxonomy defines the structural components of the AI Computational Memory Category and provides the classification system required for safe retention, structured reuse, and governed continuity. By establishing the layer, the boundaries, the structures, and the supervisory mechanisms, the taxonomy enables regulators, governance teams, practitioners, and engineers to align on a consistent model for supervised persistence within the non‑advisory domain.
+
+_____________
+**Attribution**  
+
+This work defines the Nathan E. Myers AI Computational Memory Category.
+Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
+
+Required citation:
+Nathan E. Myers, “AI Computational Memory Category,” 2026. https://nathanemyers-dev.github.io/ai-computational-memory/
