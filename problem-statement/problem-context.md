@@ -39,9 +39,6 @@ Align regulators, governance teams, practitioners, and engineers on the category
 
 ## Cross-links
 
-[Problem Context](problem-context.md)  
-[Examples](examples.md)  
-
 [Executive Summary](/white-paper/executive-summary.md)  
 [Category Introduction](/white-paper/category-introduction.md)  
 [Category Definition](/white-paper/category-definition.md)  
@@ -59,7 +56,7 @@ Align regulators, governance teams, practitioners, and engineers on the category
 [Continuity Failure Modes](/white-paper/continuity-failure-modes.md)  
 [Enterprise Controls Checklist](/white-paper/enterprise-controls-checklist.md)  
 [Use Cases](/white-paper/use-cases.md)  
-[Examples](/white-paper/examples.md)  
+[Examples](examples.md)   
 [Vendor Implementation Architecture](/white-paper/vendor-implementation-architecture.md)  
 
 _____________
