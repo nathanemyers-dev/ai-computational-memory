@@ -99,7 +99,7 @@ Ensures that retained structures cannot influence model behavior.
 
 The vendor implementation architecture ensures that vendors implement the computational memory category correctly. It provides the engineering requirements, boundaries, controls, and supervisory mechanisms needed to prevent advisory state formation and support safe continuity. By implementing this architecture, vendors enable governed persistence, structured reuse, and predictable behavior at scale.
 
-## Cross‑Links  (UPDATE PENDING)
+## Cross‑Links
 
 [Executive Summary](executive-summary.md)  
 [Category Introduction](category-introduction.md)  
