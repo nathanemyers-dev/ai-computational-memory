@@ -50,6 +50,7 @@ white-paper/operating-model.md
 white-paper/implementation-path.md  
 white-paper/regulatory-alignment.md  
 white-paper/use-cases.md  
+white-paper/taxonomy.md 
 white-paper/supervised-continuity-test-suite.md  
 white-paper/regulated-boundaries-specification.md  
 white-paper/enterprise-controls-checklist.md  
@@ -57,6 +58,7 @@ white-paper/continuity-failure-modes.md
 white-paper/api-surface.md  
 white-paper/supervised-persistence-contract.md     
 white-paper/FAQ.md  
+white-paper/vendor-implementation-architecture.md  
 
 Outcome  
 This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non-advisory boundaries and supports enterprise-grade AI.
