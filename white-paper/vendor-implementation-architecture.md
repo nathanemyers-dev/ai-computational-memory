@@ -101,25 +101,25 @@ The vendor implementation architecture ensures that vendors implement the comput
 
 ## Cross‑Links  (UPDATE PENDING)
 
-Executive Summary
-Category Definition
-Problem Context
-Solution
-Taxonomy
-Reference Architecture
-Governance Architecture
-Operating Model
-Implementation Path
-Enterprise Deployment Pattern
-Regulated Boundaries Specification
-Supervised Persistence Contract
-Supervised Continuity Test Suite
-API Surface
-Continuity Failure Modes
-Enterprise Controls Checklist
-Use Cases
-Examples
-
+Executive Summary  
+Category Definition  
+Problem Context  
+Solution  
+Taxonomy  
+Reference Architecture  
+Governance Architecture  
+Operating Model  
+Implementation Path  
+Enterprise Deployment Pattern  
+Regulated Boundaries Specification  
+Supervised Persistence Contract  
+Supervised Continuity Test Suite  
+API Surface  
+Continuity Failure Modes  
+Enterprise Controls Checklist  
+Use Cases  
+Examples  
+Vendor Implementation Architecture  
 __________________
 **Attribution**
 
