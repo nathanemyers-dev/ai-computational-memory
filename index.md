@@ -50,7 +50,7 @@ ___________________________________________
 
 ### Category Materials:
 
-[problem statement](problem-statement/index.md)  
+[problem statement](problem-statement/problem-context.md)  
 
 ## Outcome  
 
