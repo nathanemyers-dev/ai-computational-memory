@@ -102,6 +102,7 @@ The vendor implementation architecture ensures that vendors implement the comput
 ## Cross‑Links  (UPDATE PENDING)
 
 Executive Summary  
+Category Introduction  
 Category Definition  
 Problem Context  
 Solution  
