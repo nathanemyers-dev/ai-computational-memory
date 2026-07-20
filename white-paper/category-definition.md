@@ -6,7 +6,7 @@ AI computational memory is a defined functional layer that allows models to reta
 
 The category separates advisory activity from non-advisory continuity. It defines what can be retained, how it can be transformed, and where supervisory controls must apply. It provides a formal boundary between analytical persistence and any activity that would constitute personalized guidance, prediction, or recommendation.
 
-Computational memory operates as a controlled substrate beneath the model. It enables stable inputs, reusable structures, and predictable behavior across sessions. It supports governed dynamic modeling by allowing systems to maintain state without violating regulatory expectations or creating retention boundary violation.
+Computational memory operates as a controlled substrate beneath the model. It enables stable inputs, reusable structures, and predictable behavior across sessions. It supports governed dynamic modeling by allowing systems to maintain state without violating regulatory expectations or causing a retention boundary violation.
 
 Memory failures in current systems are structural. The system must prevent the formation of advisory state, not only advisory output. When retention itself creates regulatory risk, the system drops the packet without surfacing a warning. This silent failure occurs at the memory boundary and reflects the absence of a defined category for safe persistence.
 
