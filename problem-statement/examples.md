@@ -9,63 +9,83 @@ Computational memory is the foundation layer that supports decision systems, not
 Examples include:
 
 "When I build a model to help me evaluate an exit stock price, the system triggers advisory guardrails even though I am not asking AI to make a decision. I only want continuity so I can adjust inputs and compare outcomes."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I create a long‑term financial plan, AI cannot retain my assumptions, constraints, or prior calculations. Each session starts from zero, which forces me to rebuild the entire model every time."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I track job search workflows, AI cannot remember prior applications, recruiter interactions, or role evaluations. I have to restate the entire context in every session, which breaks repeatability."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I maintain household planning models, AI cannot retain schedules, budgets, or recurring tasks. The system wipes all continuity, which makes basic planning inefficient."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I build a forecasting model for quarterly revenue, the system cannot retain my baseline assumptions, seasonality factors, or prior runs. I have to re‑enter the same parameters every time, which prevents stable analysis."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I maintain a risk‑assessment matrix for an enterprise project, AI cannot remember the categories, scoring rules, or prior evaluations. I have to rebuild the entire structure before I can update a single risk."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I create a compliance checklist for a regulatory filing, the system cannot retain the sections, requirements, or prior completion status. I have to recreate the checklist from scratch every session."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I track vendor performance metrics, AI cannot retain the scoring model, weightings, or historical evaluations. I have to rebuild the framework before I can add new data."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I maintain a BI dashboard structure, the system cannot retain the filters, groupings, or calculated fields. I have to reconstruct the dashboard logic every time I want to refresh the data."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I create a marketing attribution model, AI cannot retain the channels, weightings, or conversion assumptions. I have to rebuild the attribution logic before I can analyze new campaigns."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I maintain a hiring pipeline, the system cannot retain candidate stages, interview outcomes, or role‑specific criteria. I have to restate the entire pipeline before I can update a single candidate."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I build a legal research map, AI cannot retain the case structure, citations, or issue tree. I have to recreate the entire map before I can add new findings."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I maintain a procurement scoring model, the system cannot retain the criteria, thresholds, or vendor comparisons. I have to rebuild the scoring model every time I evaluate a new bid."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I create a customer‑support triage model, AI cannot retain the categories, escalation rules, or severity scoring. I have to reconstruct the triage logic before I can classify a new ticket."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I maintain a logistics routing model, the system cannot retain the constraints, capacities, or optimization rules. I have to rebuild the routing structure before I can update a single route."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I create a manufacturing quality‑control model, AI cannot retain the defect categories, thresholds, or sampling rules. I have to recreate the entire QC structure before I can log new defects."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I maintain a healthcare treatment‑pathway model, the system cannot retain the decision tree, contraindications, or prior patient pathways. I have to rebuild the entire structure before I can update a single case."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I create an academic research framework, AI cannot retain the hypotheses, variables, or prior findings. I have to reconstruct the research structure before I can add new data."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I maintain a personal productivity system, the system cannot retain tasks, priorities, or recurring workflows. I have to rebuild the entire structure every time I return."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 "When I create a household financial model, AI cannot retain budgets, categories, or recurring expenses. I have to reconstruct the model before I can update a single number."  
+
 Can Excel do this without triggering advisory gates: **Yes**
 
 ## Cross-links
