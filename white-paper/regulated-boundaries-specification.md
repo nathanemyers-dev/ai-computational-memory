@@ -1,6 +1,6 @@
 # Regulated Boundaries Specification  
 
-The regulated boundaries specification exists because computational memory cannot operate safely without a formally defined separation between non‑advisory continuity and regulated advisory activity. This specification establishes the constraints, limits, and supervisory controls that keep persistence within non‑advisory domains and prevent retained structures from forming advisory state. It provides the foundation regulators and governance teams use to classify computational memory as a safe functional layer.
+The regulated boundaries specification exists because computational memory cannot operate safely without a formally defined separation between non‑advisory continuity and advisory activity. This specification establishes the constraints, limits, and supervisory controls that keep persistence within non‑advisory domains and prevent retained packets from forming advisory state. It provides the foundation regulators and governance teams use to classify computational memory as a safe functional layer.
 
 **Purpose**  
 
@@ -18,9 +18,9 @@ These boundaries govern all retention, transformation, and deletion operations.
 
 The specification applies to:
 
-• all retained structures  
-• all transformations applied to retained structures  
-• all supervisory controls governing persistence  
+• all retained packets  
+• all transformations applied to retained packets  
+• all supervised controls governing persistence  
 • all interactions between models and computational memory  
 • all enterprise deployments operating under regulated constraints  
 
@@ -33,9 +33,9 @@ Computational memory operates within a non‑advisory boundary defined by four p
 • continuity is computational, not advisory  
 • retained structures are non‑directive  
 • transformations preserve non‑advisory intent  
-• supervisory controls prevent advisory state formation  
+• supervised controls prevent advisory state formation  
 
-These principles ensure that continuity behaves like any non‑advisory analytical tool.
+These principles ensure that continuity behaves like any non‑advisory analytical system.
 
 **Permitted Retention**  
 
@@ -52,7 +52,7 @@ These packets support continuity without producing regulated guidance.
 
 **Prohibited Retention**  
 
-The following packet classes must never be retained:
+The following packet types must never be retained:
 
 • advisory guidance  
 • recommendations  
@@ -65,7 +65,7 @@ These packets would form advisory state and are rejected at the retention bounda
 
 **Supervisory Controls**
 
-Supervisory controls enforce regulated boundaries through:  
+Supervised controls enforce regulated boundaries through:  
 
 • retention‑eligibility gates  
 • advisory‑state prevention gates  
@@ -89,23 +89,23 @@ These gates prevent advisory state formation even when no warning is surfaced.
 
 **Transformation Boundaries**  
 
-Transformations applied to retained structures must:
+Transformations applied to retained packets must:
 
 • preserve non‑advisory intent  
 • maintain structural integrity  
-• avoid generating directive outputs  
+• avoid generating directive packets  
 • remain fully auditable  
 • operate under supervisory constraints  
 
-Transformations cannot produce regulated guidance.  
+Transformations cannot produce advisory guidance.  
 
 **Deletion Requirements**  
 
 Deletion operations must:  
 
-• remove retained structures deterministically  
+• remove retained packets deterministically  
 • preserve audit visibility  
-• enforce supervisory controls  
+• enforce supervised controls  
 • prevent partial or ambiguous deletion  
 • maintain compliance with retention rules  
 
