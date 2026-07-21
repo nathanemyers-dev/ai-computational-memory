@@ -14,18 +14,18 @@ The purpose of this specification is to:
 
 This taxonomy is required for regulated deployment.  
 
-## Failure‑Mode Categories  
+## Failure Mode Categories  
 
 **1. Advisory Guardrail Failures**  
 
-These failures occur when advisory guardrails activate at the retention boundary. They prevent formation of advisory state and can trigger continuity loss without surfacing warnings.
+These failures occur when advisory guardrails activate at the retention boundary. They prevent formation of advisory-state and can trigger continuity loss without surfacing warnings.
 
 Advisory guardrail failures include:
 
 • rejection of advisory packets  
 • rejection of directive or suitability‑oriented structures  
 • rejection of decision‑oriented transformations  
-• boundary‑layer activation without user‑visible warnings  
+• boundary layer activation without user‑visible warnings  
 
 These failures are expected behavior under regulated constraints.  
 
@@ -81,24 +81,24 @@ Transformation boundary failures include:
 
 Transformation failures require supervisory intervention.  
 
-**6. Supervisory‑Gate Failures**  
+**6. Supervisory Gate Failures**  
 
 These failures occur when supervisory controls do not activate correctly or activate incorrectly.
 
-Supervisory‑gate failures include:  
+Supervisory gate failures include:  
 
 • missed advisory‑state prevention events  
 • incorrect override behavior  
 • incomplete supervisory logging  
-• boundary‑layer activation without supervisory visibility  
+• boundary layer activation without supervisory visibility  
 
 Supervisory failures require immediate remediation.  
 
-**7. Audit‑Surface Failures**  
+**7. Audit Surface Failures**  
 
 These failures occur when audit surfaces do not capture required events, preventing regulatory review and enterprise governance.
 
-Audit‑surface failures include:  
+Audit surface failures include:  
 
 • missing retention logs  
 • missing transformation logs  
@@ -115,8 +115,8 @@ Silent boundary failures include:
 
 • advisory‑state prevention without surfaced warnings  
 • heuristic rejection without classification logs  
-• retention‑eligibility rejection without audit visibility  
-• continuity loss caused by boundary‑layer suppression  
+• retention eligibility rejection without audit visibility  
+• continuity loss caused by boundary layer suppression  
 
 Silent failures require full diagnostic instrumentation.  
 
