@@ -1,6 +1,6 @@
 # Supervised Continuity Test Suite  
 
-The supervised continuity test suite exists because AI systems cannot maintain safe persistence without a governed method for validating continuity at the memory boundary. Continuity fails silently when retained state is classified as advisory activity, and vendors respond by disabling persistence entirely. The test suite defines the governed validation framework for ensuring that computational memory operates safely, predictably, and without entering advisory domains. It provides the formal testing structure required for enterprises, regulators, and governance teams to verify that continuity is preserved under supervised constraints and that no advisory state is formed at the retention boundary.
+The supervised continuity test suite exists because AI systems cannot maintain safe persistence without a governed method for validating continuity at the memory boundary. Continuity fails silently when retained state is classified as advisory activity, and vendors respond by disabling persistence entirely. The test suite defines the governed validation framework for ensuring that computational memory operates safely, predictably, and without entering advisory domains. It provides the formal testing structure required for enterprises, regulators, and governance teams to verify that continuity is preserved under supervised constraints and that no advisory-state is formed at the retention boundary.
 
 **Purpose**  
 The purpose of the test suite is to:
@@ -19,10 +19,10 @@ The test suite covers:
 • retention validation  
 • transformation validation  
 • deletion validation  
-• supervisory‑gate activation  
+• supervisory gate activation  
 • continuity failure detection  
-• audit‑surface completeness  
-• boundary‑condition behavior  
+• audit surface completeness  
+• boundary condition behavior  
 • non‑advisory equivalence checks  
 
 It applies to all systems interacting with computational memory, including model surfaces, orchestration layers, and supervisory controls.  
@@ -46,11 +46,11 @@ Tests confirm that advisory, instruction‑like, or decision‑oriented packets 
 These tests detect silent guardrail activation at the retention boundary:  
 
 • advisory‑state prevention  
-• advisory‑output prevention  
-• boundary‑layer activation without warnings  
+• advisory‑activity prevention  
+• boundary layer activation without warnings  
 • continuity loss caused by advisory gates  
 
-The suite verifies that guardrails operate correctly and do not allow advisory state formation.  
+The suite verifies that guardrails operate correctly and do not allow advisory-state formation.  
 
 **3. Interpretation Heuristic Tests**  
 These tests validate classification behavior:  
@@ -58,7 +58,7 @@ These tests validate classification behavior:
 • conversational packet detection  
 • instruction‑like packet detection  
 • computational packet classification  
-• transformation‑eligibility classification  
+• transformation boundary classification  
 
 They confirm that heuristics do not misclassify governed computational artifacts.  
 
@@ -87,8 +87,8 @@ Transformation behavior must remain deterministic and governed.
 These tests validate:  
 
 • governed deletion behavior  
-• supervisory‑gate enforcement  
-• audit‑surface completeness  
+• supervisory gate enforcement  
+• audit surface completeness  
 • retention‑rule compliance  
 • supervisory override correctness  
 
@@ -100,7 +100,7 @@ These tests validate detection of:
 • advisory guardrail failures  
 • retention eligibility failures  
 • interpretation heuristic failures  
-• packet‑classification failures  
+• packet classification failures  
 • silent boundary failures  
 
 They ensure that all continuity failures surface correctly in logs and supervisory layers.  
@@ -132,7 +132,7 @@ Successful execution of the supervised continuity test suite demonstrates that c
 • preserves continuity safely  
 • operates within non‑advisory boundaries  
 • enforces governed retention rules  
-• prevents advisory state formation  
+• prevents advisory-state formation  
 • provides predictable, enterprise‑grade behavior  
 
 This suite is required for regulated deployment of computational memory.  
