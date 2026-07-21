@@ -20,7 +20,7 @@ The aim of this work is to establish a formal category for supervised AI persist
 
 "When I track job search workflows, AI cannot remember prior applications or recruiter interactions. I have to restate the entire context in every session, which breaks repeatability."  
 
-“When I manage household planning — schedules, budgets, recurring tasks — AI cannot retain prior steps or assumptions. Every session resets, which forces me to rebuild the entire plan from scratch.”  
+“When I manage household planning - schedules, budgets, recurring tasks - AI cannot retain prior steps or assumptions. Every session resets, which forces me to rebuild the entire plan from scratch.”  
 
 These examples show why industry and regulators need a defined category for safe continuity so AI can operate efficiently without crossing compliance lines. AI computational memory provides that category by separating safe persistence from advisory activity and defining the rules for supervised retention.
 
