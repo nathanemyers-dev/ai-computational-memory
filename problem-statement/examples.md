@@ -8,9 +8,11 @@ Computational memory is the foundation layer that supports decision systems, not
 
 Examples include:
 
-"When I build a model to help me evaluate an exit stock price, the system triggers advisory guardrails even though I am not asking AI to make a decision. I only want continuity so I can adjust inputs and compare outcomes."
+"When I build a model to help me evaluate an exit stock price, the system triggers advisory guardrails even though I am not asking AI to make a decision. I only want continuity so I can adjust inputs and compare outcomes."  
+Can Excel do this without triggering advisory gates: Yes
 
-"When I create a long‑term financial plan, AI cannot retain my assumptions, constraints, or prior calculations. Each session starts from zero, which forces me to rebuild the entire model every time."
+"When I create a long‑term financial plan, AI cannot retain my assumptions, constraints, or prior calculations. Each session starts from zero, which forces me to rebuild the entire model every time."  
+Can Excel do this without triggering advisory gates: Yes
 
 "When I track job search workflows, AI cannot remember prior applications, recruiter interactions, or role evaluations. I have to restate the entire context in every session, which breaks repeatability."
 
