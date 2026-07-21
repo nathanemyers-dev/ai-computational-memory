@@ -74,7 +74,7 @@ Each term defines a formal construct used across the white paper, regulatory art
 | structural continuity | A packet type that preserves the structure of prior interactions without implying guidance. |
 | structural failure | A systemic breakdown in continuity where users cannot maintain assumptions, models, workflows, or long-term context, even when no advice is requested, due to regulatory treatment of retained state as advisory activity. |
 | structured reuse | The ability to reuse retained, non-advisory structures across interactions under governed constraints. |
-| suitability-oriented structured | A prohibited packet type that implies suitability, appropriateness, or personalized direction. |
+| suitability-oriented structure | A prohibited packet type that implies suitability, appropriateness, or personalized direction. |
 | supervised AI persistence | The governed retention of non-advisory structures under supervisory controls that prevent advisory state formation. |
 | supervised continuity | Continuity delivered under supervisory constraints that ensure safe, non-advisory persistence. |
 | supervised continuity layer | The governed continuity layer that explicitly separates safe persistence from advisory output, ensuring that retained structures support repeatable operation without forming advisory state or guidance. |
