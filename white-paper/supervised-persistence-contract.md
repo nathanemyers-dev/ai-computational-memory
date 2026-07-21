@@ -1,6 +1,6 @@
 # Supervised Persistence Contract
 
-The supervised persistence contract exists because computational memory cannot operate safely without a formal set of obligations and controls governing how retained structures are created, transformed, and accessed. The contract defines the constraints, supervisory checkpoints, and interaction rules required for any system that touches the persistence layer. It ensures that continuity remains non‑advisory, that retained structures cannot form advisory state, and that all operations are governed under explicit supervisory boundaries.
+The supervised persistence contract exists because computational memory cannot operate safely without a formal set of obligations and controls governing how retained packets are created, transformed, and accessed. The contract defines the constraints, supervisory checkpoints, and interaction rules required for any system that touches the persistence layer. It ensures that continuity remains non‑advisory, that retained structures cannot form advisory-state, and that all operations are governed under explicit supervisory boundaries.
 
 **Retention Eligibility Requirements**  
 Only identity, preference, and long-term relevant structures may be retained.
@@ -15,7 +15,7 @@ Only authorized systems and roles may read or write to the persistence layer.
 Every operation is subject to governance review, auditability requirements, and compliance validation.
 
 **State Formation Prevention**  
-The contract enforces the rule that computational memory cannot form advisory state. Any operation that would create advisory exposure is rejected automatically.
+The contract enforces the rule that computational memory cannot form advisory-state. Any operation that would create advisory exposure is rejected automatically.
 
 The supervised persistence contract ensures that continuity is governed, predictable, and compliant across all environments.
 
