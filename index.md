@@ -31,6 +31,7 @@ The white paper defines the full governance architecture, operating model, imple
 [category introduction](white-paper/category-introduction.md)  
 [category definition](white-paper/category-definition.md)  
 [solution](white-paper/solution.md)   
+[taxonomy](white-paper/taxonomy.md)  
 [enterprise deployment pattern](white-paper/enterprise-deployment-pattern.md)  
 [reference architecture](white-paper/reference-architecture.md)  
 [deployment sequence](white-paper/deployment-sequence.md)  
@@ -46,15 +47,21 @@ The white paper defines the full governance architecture, operating model, imple
 [api surface](white-paper/api-surface.md)  
 [supervised persistence contract](white-paper/supervised-persistence-contract.md)  
 [FAQ](white-paper/FAQ.md)  
+[vendor implementation architecture](white-paper/vendor-implementation-architecture.md)
+
 ___________________________________________
 
 ### Category Materials:
 
 [problem statement](problem-statement/problem-context.md)  
+[examples](problem-statement/examples.md) 
 
 ## Outcome  
 
 This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
+
+## Full Corpus  
+See: /white-paper/index.md
 
 ___________________________
 **Version History**  
