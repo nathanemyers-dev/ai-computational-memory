@@ -88,6 +88,10 @@ Defines the supervised continuity test suite, regulated boundaries specification
 **white-paper/release-notesv1.5.md — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability**    
 Defines the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, positions diagram placeholders, verifies external-facing pages routing, and harmonizes conceptual modules for future diagram integration.
 
+**white-paper/release-notesv1.6.md — Terminology Harmonization, Narrative Alignment, Corpus Coherence**    
+Completes the harmonization and coherence pass across the white-paper corpus. Unifies terminology, aligns narrative flow, finalizes cross-section transitions, stabilizes upstream and downstream references, and introduces the corpus index as the structural control surface for the category.
+
+______________________
 _____________
 **Attribution**  
 This work defines the Nathan E. Myers AI Computational Memory Category.
