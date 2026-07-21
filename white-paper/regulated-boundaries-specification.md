@@ -20,7 +20,7 @@ The specification applies to:
 
 • all retained packets  
 • all transformations applied to retained packets  
-• all supervised controls governing persistence  
+• all supervisory controls governing persistence  
 • all interactions between models and computational memory  
 • all enterprise deployments operating under regulated constraints  
 
@@ -33,7 +33,7 @@ Computational memory operates within a non‑advisory boundary defined by four p
 • continuity is computational, not advisory  
 • retained structures are non‑directive  
 • transformations preserve non‑advisory intent  
-• supervised controls prevent advisory state formation  
+• supervisory controls prevent advisory state formation  
 
 These principles ensure that continuity behaves like any non‑advisory analytical system.
 
@@ -65,7 +65,7 @@ These packets would form advisory state and are rejected at the retention bounda
 
 **Supervisory Controls**
 
-Supervised controls enforce regulated boundaries through:  
+Supervisory controls enforce regulated boundaries through:  
 
 • retention‑eligibility gates  
 • advisory‑state prevention gates  
@@ -105,7 +105,7 @@ Deletion operations must:
 
 • remove retained packets deterministically  
 • preserve audit visibility  
-• enforce supervised controls  
+• enforce supervisory controls  
 • prevent partial or ambiguous deletion  
 • maintain compliance with retention rules  
 
