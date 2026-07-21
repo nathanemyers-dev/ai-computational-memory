@@ -21,13 +21,13 @@ _____________________________
 
 Enterprises must implement controls that enforce:  
 
-• retention‑eligibility rules  
+• retention eligibility rules  
 • rejection of advisory, directive, or decision‑oriented packets  
 • classification of identity, preference, long‑term relevance, and structural continuity  
 • deterministic retention behavior under governed constraints  
 • full logging of retention decisions  
 
-Retention controls prevent advisory state formation.  
+Retention controls prevent advisory-state formation.  
 
 **2. Transformation Controls**  
 
@@ -69,10 +69,10 @@ Supervisory controls ensure safe operation under regulated constraints.
 
 Enterprises must implement guardrail controls that:  
 
-• prevent advisory state formation  
-• detect advisory‑output attempts  
+• prevent advisory-state formation  
+• detect advisory‑activity attempts  
 • reject directive transformations  
-• enforce advisory‑boundary constraints  
+• enforce advisory boundary constraints  
 • surface silent guardrail activation events  
 
 Guardrail controls protect regulated boundaries.  
@@ -85,7 +85,7 @@ Audit controls must provide:
 • classification outcomes  
 • guardrail activation events  
 • supervisory overrides  
-• boundary‑layer behavior  
+• boundary layer behavior  
 • continuity failure detection  
 
 Audit controls enable regulatory review and enterprise governance.  
