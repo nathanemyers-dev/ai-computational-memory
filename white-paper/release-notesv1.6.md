@@ -1,7 +1,7 @@
 # Version 1.6 Release Notes
 Version 1.6 completes the harmonization and coherence pass for the white-paper corpus. It unifies terminology across all artifacts, aligns narrative flow, and finalizes cross-section transitions to ensure the corpus reads as a single continuous document. Version 1.6 eliminates residual drift, stabilizes upstream and downstream references, and integrates regulatory artifacts consistently across older sections. Version 1.6 delivers full corpus coherence and prepares the category for the v1.7 visual and architectural expansion.
 
-**Scope**
+**Scope**  
 Version 1.6 harmonizes terminology across all major artifacts, aligns narrative stitching, and completes cross-section transitions required for full corpus coherence. It finalizes upstream and downstream alignment, removes residual drift, and integrates regulatory artifacts into older sections to ensure structural consistency across the category.
 
 ## Completed
@@ -24,7 +24,7 @@ Version 1.6 harmonizes terminology across all major artifacts, aligns narrative 
 - Diagram creation
 - Reference architecture visuals
 
-**Additions**
+**Additions**  
 Version 1.6 completes the terminology harmonization required for long-term stability. All major artifacts now use consistent terms of art aligned with the glossary and category definition.
 
 Version 1.6 finalizes narrative stitching across the corpus. Upstream sections now set up downstream mechanisms, and downstream sections reference upstream definitions to ensure continuity.
