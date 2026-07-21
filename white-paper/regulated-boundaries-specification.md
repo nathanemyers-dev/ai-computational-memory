@@ -67,11 +67,11 @@ These packets would form advisory state and are rejected at the retention bounda
 
 Supervisory controls enforce regulated boundaries through:  
 
-• retention‑eligibility gates  
+• retention eligibility gates  
 • advisory‑state prevention gates  
-• transformation‑boundary checks  
-• deletion‑governance enforcement  
-• audit‑surface completeness requirements  
+• transformation boundary checks  
+• deletion governance enforcement  
+• audit surface completeness requirements  
 • supervisory override mechanisms  
 
 These controls ensure that computational memory remains non‑advisory.  
