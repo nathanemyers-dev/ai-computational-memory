@@ -33,6 +33,17 @@ See: implementation-path.md
 See: enterprise-deployment-pattern.md  
 
 ____________________
+
+## Version 1.6  
+
+**Terminology Harmonization and Full Corpus Coherence**  
+This release completes the harmonization and coherence pass for the white‑paper corpus. It unifies terminology across all major artifacts, aligns narrative flow, finalizes cross‑section transitions, and stabilizes upstream and downstream references. Version 1.6 removes residual drift, integrates regulatory artifacts consistently across older sections, and delivers full corpus coherence required for the upcoming visual and architectural expansion.
+
+There are no See: links because v1.6 did not introduce new standalone artifacts.
+
+
+
+____________________
 ## Version 1.5  
 
 **Vendor Implementation Architecture**  
