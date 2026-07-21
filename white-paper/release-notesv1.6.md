@@ -4,7 +4,7 @@ Version 1.6 completes the harmonization and coherence pass for the white-paper c
 **Scope**  
 Version 1.6 harmonizes terminology across all major artifacts, aligns narrative stitching, and completes cross-section transitions required for full corpus coherence. It finalizes upstream and downstream alignment, removes residual drift, and integrates regulatory artifacts into older sections to ensure structural consistency across the category.
 
-## Completed
+**Completed**  
 - Terminology harmonized across all major artifacts
 - Narrative stitching completed for upstream and downstream sections
 - Cross-section transitions finalized for continuity across the corpus
@@ -13,7 +13,7 @@ Version 1.6 harmonizes terminology across all major artifacts, aligns narrative 
 - Regulatory artifacts integrated into older sections
 - Unified category arc established across all conceptual modules
 
-## Out of Scope
+**Out of Scope**  
 - Model code
 - SDK integration
 - Runtime supervision engines
