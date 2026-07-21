@@ -39,7 +39,6 @@ This category provides the foundation for safe persistence, structured reuse, an
 [Use Cases](use-cases.md)  
 [Examples](/problem-statement/examples.md)  
 [Vendor Implementation Architecture](vendor-implementation-architecture.md)  
-
 _____________
 **Attribution**  
 
