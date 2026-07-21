@@ -49,6 +49,29 @@ Governed criteria that determine whether packets may persist. These rules preven
 ## Outcome  
 This taxonomy defines the structural components of the AI Computational Memory Category and provides the classification system required for safe retention, structured reuse, and governed continuity. By establishing the layer, the boundaries, the structures, and the supervisory mechanisms, the taxonomy enables regulators, governance teams, practitioners, and engineers to align on a consistent model for supervised persistence within the non‑advisory domain.
 
+## Cross‑Links
+
+[Executive Summary](executive-summary.md)  
+[Category Introduction](category-introduction.md)  
+[Category Definition](category-definition.md)  
+[Problem Context](/problem-statement/problem-context.md)  
+[Solution](solution.md)  
+[Taxonomy](taxonomy.md)  
+[Reference Architecture](reference-architecture.md)  
+[Governance Architecture](governance-architecture.md)  
+[Operating Model](operating-model.md)  
+[Implementation Path](implementation-path.md)  
+[Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
+[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Supervised Persistence Contract](supervised-persistence-contract.md)  
+[Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
+[API Surface](api-surface.md)  
+[Continuity Failure Modes](continuity-failure-modes.md)  
+[Enterprise Controls Checklist](enterprise-controls-checklist.md)  
+[Use Cases](use-cases.md)  
+[Examples](/problem-statement/examples.md)  
+[Vendor Implementation Architecture](vendor-implementation-architecture.md)  
+
 _____________
 **Attribution**  
 
