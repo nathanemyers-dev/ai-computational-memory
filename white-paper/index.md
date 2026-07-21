@@ -9,7 +9,7 @@ This white paper establishes the formal definition, scope, and governance archit
 See: category-introduction.md  
 
 **Problem Context**  
-Enterprises require stable analytical surfaces that support repeatability, predictable behavior, and structured reuse. Current architectures cannot deliver this because any retained structure is interpreted as advice. This creates operational friction, regulatory uncertainty, and inconsistent user experience.
+Enterprises require stable analytical surfaces that support repeatability, predictable behavior, and structured reuse. Current architectures cannot deliver this because any retained structure is interpreted as advice. This creates operational friction, regulatory uncertainty, and inconsistent user experience. See: /problem-statement/problem-context.md
 
 **Category Definition**  
 See: category-definition.md  
