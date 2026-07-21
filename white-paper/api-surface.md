@@ -1,23 +1,73 @@
 # Computational Memory API Surface
 
-The computational memory layer is accessed through a governed API surface. The API defines the allowed operations, the boundaries of each call, and the supervisory constraints that govern interaction with the persistence layer. All interactions with the memory layer must remain within non-advisory domains and must comply with retention, transformation, and access controls. The API surface consists of four calls that establish the only permitted interactions with the memory and persistence layers.
+The computational memory layer is accessed through a governed API surface. The API defines the allowed operations, the boundaries of each call, and the supervisory constraints that govern interaction with the persistence layer. All interactions must remain within non‑advisory domains and must comply with governed retention, transformation, and deletion rules. The API surface consists of four calls that establish the only permitted interactions with the memory and persistence layers.
 
-**Write Operations**  
-Structured, bounded writes that store non advisory packets under explicit retention rules.
+**Write Operation (Retain)**  
+A structured, bounded write that stores non‑advisory packets under governed retention rules.
 
-**Read Operations**  
-Retrieval of previously retained structures without interpretation, evaluation, or personalized guidance.
+A write operation must:
 
-**Transform Operations**  
-Controlled transformations that remain analytical, non directional, and fully supervised.
+- accept only identity, preference, long‑term relevance, or structural‑continuity packets  
+- reject advisory‑state, directive, evaluative, or decision‑oriented content  
+- classify packets deterministically under retention‑eligibility rules  
+- log retention decisions to the audit surface  
+- operate under supervisory visibility  
 
-**Delete Operations**  
-Removal mechanisms governed by retention limits, supervisory controls, and compliance requirements.
+Write operations are the only mechanism for forming durable state.
 
-The API surface provides the first standardized interface for safe continuity. It ensures that all interactions remain within non-advisory domains and that retained structures cannot be used to generate regulated outputs.
+**Read Operation (Retrieve)**  
+Retrieval of previously retained structures without interpretation, evaluation, personalization, or guidance.
 
-Computational memory is the foundation layer that supports decision systems, not a decision system itself.
+A read operation must:
 
+- return retained structures exactly as stored  
+- avoid generating directional, suitability‑oriented, or advisory‑adjacent outputs  
+- preserve structural continuity  
+- operate deterministically across sessions  
+- surface all access events to the audit surface  
+
+Read operations provide continuity without advisory exposure.
+
+**Transform Operation (Modify)**  
+A controlled transformation that remains analytical, non‑directional, and fully supervised.  
+
+A transform operation must:  
+
+- preserve non‑advisory boundaries  
+- maintain structural integrity  
+- avoid altering packet intent  
+- avoid generating directive or suitability‑oriented outputs  
+- validate transformation boundaries through supervisory gates  
+- log all transformation events  
+
+Transform operations enable structured reuse without advisory‑state formation.    
+
+**Delete Operation (Remove)**  
+A governed removal mechanism subject to supervisory controls and compliance requirements.  
+
+A delete operation must:
+
+- enforce deterministic removal of retained structures  
+- prevent partial or ambiguous deletion  
+- maintain audit visibility  
+- require supervisory approval for override behavior  
+- validate compliance with retention rules  
+
+Delete operations ensure governed lifecycle management.  
+
+**API Boundary Conditions**
+
+All API calls must:  
+
+- operate within non‑advisory domains  
+- avoid generating advisory‑state or advisory‑activity outputs  
+- preserve continuity without forming regulated guidance  
+- surface guardrail‑activation telemetry  
+- maintain complete audit logging  
+- enforce supervisory‑gate constraints  
+- behave deterministically across sessions  
+
+The API surface is the first standardized interface for safe continuity. It ensures that retained structures cannot be used to generate regulated outputs and that computational memory remains a governed foundation layer supporting decision systems, not a decision system itself.  
 _______________________
 
 ## Diagram Placeholder  
