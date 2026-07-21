@@ -17,6 +17,9 @@ See: category-definition.md
 **Solution**    
 The solution defines the formal path for establishing computational memory as a governed, non-advisory functional layer. It outlines the structured approach required to classify the layer, demonstrate its equivalence to existing non-advisory tools, establish regulatory treatment, and align stakeholders for safe deployment.  
 
+**Taxonomy**    
+See: taxonomy.md  
+
 **Governance Architecture**  
 See: governance-architecture.md  
 
@@ -31,6 +34,9 @@ See: enterprise-deployment-pattern.md
 
 ____________________
 ## Version 1.5  
+
+**Vendor Implementation Architecture**  
+See: vendor-implementation-architecture.md  
 
 Version 1.5 establishes the navigation spine for the white‑paper corpus, standardizes cross‑links across all major artifacts, positions diagram placeholders, verifies the external‑facing GitHub Pages structure, and harmonizes the conceptual modules for future diagram integration.
 
