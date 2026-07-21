@@ -86,6 +86,8 @@ Defines the supervised continuity test suite, regulated boundaries specification
 **Version 1.5 — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability**
 Establishes the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, positions diagram placeholders, verifies the external-facing GitHub Pages structure, and harmonizes the conceptual modules for future diagram integration.
 
+**Version 1.6 — Terminology Harmonization, Narrative Alignment, Corpus Coherence**
+Completes the harmonization and coherence pass across the white-paper corpus. Unifies terminology, aligns narrative flow, finalizes cross-section transitions, stabilizes upstream and downstream references, and introduces the corpus index as the structural control surface for the category.
 _____________
 **Attribution**
 
