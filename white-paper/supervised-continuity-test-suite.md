@@ -29,6 +29,15 @@ It applies to all systems interacting with computational memory, including model
 
 ________________________________________ 
 
+
+
+## Continuity Layer Diagram
+This diagram illustrates the continuity layer that maintains supervised state across advisory interactions, including checkpoints, transformation rules, and retention‑boundary alignment.  
+
+![Continuity Layer](../assets/diagrams/v1.7/continuity-layer.png)
+
+
+
 ## Test Categories
 
 **1. Retention Eligibility Tests**  
@@ -136,13 +145,6 @@ Successful execution of the supervised continuity test suite demonstrates that c
 • provides predictable, enterprise‑grade behavior  
 
 This suite is required for regulated deployment of computational memory.  
-
-_______________________
-
-## Continuity Layer Diagram
-This diagram illustrates the continuity layer that maintains supervised state across advisory interactions, including checkpoints, transformation rules, and retention‑boundary alignment.  
-
-![Continuity Layer](../assets/diagrams/v1.7/continuity-layer.png)
 
 
 ## Cross‑Links
