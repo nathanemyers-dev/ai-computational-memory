@@ -1,0 +1,109 @@
+<svg width="1600" height="900" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1600" height="900" fill="#E9ECF2"/>
+
+  <!-- Top Banner (15px shorter, subtitle 26pt) -->
+  <rect x="0" y="0" width="1600" height="105" fill="#0A2A66"/>
+  <text x="735" y="50" font-family="Inter" font-size="42" fill="#FFFFFF" text-anchor="middle" font-weight="600">CONTINUITY LAYER</text>
+  <text x="735" y="80" font-family="Inter" font-size="26" fill="#D9E2F2" text-anchor="middle">Supervised Continuity Architecture</text>
+
+  <!-- Thin divider below Top Banner -->
+  <rect x="0" y="112" width="1600" height="8" fill="#D9E2F2"/>
+
+  <!-- Thin divider Above 3 Column Header boxes -->
+  <rect x="0" y="150" width="1600" height="8" fill="#D9E2F2"/>
+
+  <!-- Left Column Header (wider) -->
+  <rect x="30" y="160" width="500" height="70" rx="10" fill="#0A2A66"/>
+  <text x="273" y="195" font-family="Inter" font-size="24" fill="#FFFFFF" text-anchor="middle" font-weight="600">GOVERNED VALIDATION FRAMEWORK</text>
+  <text x="282" y="218" font-family="Inter" font-size="18" fill="#D9E2F2" text-anchor="middle">Gate‑Based Eligibility Controls</text>
+ 
+
+
+ <!-- Thin divider under left header -->
+  <rect x="30" y="235" width="500" height="5" fill="#D9E2F2"/>
+
+  <!-- Tier 1 Label -->
+  <text x="100" y="260" font-family="Inter" font-size="18" fill="#0A2A66" text-anchor="start" font-weight="1150">TIER 1:</text>
+
+  <!-- Left Column Tier 1 -->
+  <rect x="50" y="280" width="420" height="80" rx="10" fill="#1E4FA8"/>
+  <text x="260" y="327" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Retention Eligibility Gate</text>
+
+  <rect x="50" y="368" width="420" height="80" rx="10" fill="#1E4FA8"/>
+  <text x="260" y="415" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Advisory Guardrail Gate</text>
+
+  <rect x="50" y="456" width="420" height="80" rx="10" fill="#1E4FA8"/>
+  <text x="260" y="502" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Interpretation Heuristic Gate</text>
+
+  <!-- Thin divider under tier 1 -->
+  <rect x="50" y="542" width="420" height="5" fill="#D9E2F2"/>
+
+  <!-- Tier 2 Label -->
+  <text x="100" y="563" font-family="Inter" font-size="18" fill="#0A2A66" text-anchor="start" font-weight="1150">TIER 2:</text>
+
+
+
+  <!-- Left Column Tier 2 -->
+  <rect x="50" y="577" width="420" height="80" rx="10" fill="#1E4FA8"/>
+  <text x="260" y="623" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Transformation Integrity Gate</text>
+
+  <rect x="50" y="667" width="420" height="80" rx="10" fill="#1E4FA8"/>
+  <text x="260" y="712" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Deletion &amp; Supervisory Gate</text>
+
+  <!-- Center Column Header -->
+  <rect x="560" y="160" width="330" height="70" rx="10" fill="#0A2A66"/>
+  <text x="721" y="195" font-family="Inter" font-size="24" fill="#FFFFFF" text-anchor="middle" font-weight="600">CONTINUITY FLOW</text>
+  <text x="721" y="218" font-family="Inter" font-size="18" fill="#D9E2F2" text-anchor="middle">Validated State Progression</text>
+
+ 
+
+ <!-- Thin divider under center header -->
+  <rect x="560" y="235" width="340" height="5" fill="#D9E2F2"/>
+
+  <!-- Center Flow Boxes -->
+  <rect x="570" y="260" width="310" height="90" rx="10" fill="#1E4FA8"/>
+  <text x="721" y="313" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">State Capture</text>
+
+  <polygon points="735,350 755,380 735,410 715,380" fill="#FFFFFF"/>
+
+  <rect x="570" y="420" width="310" height="90" rx="10" fill="#1E4FA8"/>
+  <text x="721" y="475" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">State Validation</text>
+
+  <polygon points="735,510 755,540 735,570 715,540" fill="#FFFFFF"/>
+
+  <rect x="570" y="580" width="310" height="90" rx="10" fill="#1E4FA8"/>
+  <text x="721" y="632" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">State Reuse</text>
+
+  <!-- Vertical Boundary Bar (20% thinner) -->
+  <rect x="932" y="160" width="40" height="600" fill="#C00000"/>
+  <text x="950" y="460" font-family="Inter" font-size="24" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" transform="rotate(90 950 460)">BOUNDARY</text>
+
+  <!-- Right Column Header (wider) -->
+  <rect x="995" y="160" width="585" height="70" rx="10" fill="#0A2A66"/>
+  <text x="1290" y="195" font-family="Inter" font-size="24" fill="#FFFFFF" text-anchor="middle" font-weight="600">SUPERVISORY CONTROLS &amp; AUDIT TELEMETRY</text>
+  <text x="1290" y="218" font-family="Inter" font-size="18" fill="#D9E2F2" text-anchor="middle">Oversight, Detection, and Reporting</text>
+  <!-- Thin divider under right header -->
+  <rect x="1010" y="235" width="540" height="5" fill="#D9E2F2"/>
+
+  <!-- Right Column Boxes -->
+  <rect x="1030" y="260" width="500" height="90" rx="10" fill="#1E4FA8"/>
+  <text x="1280" y="315" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Supervisory Control Layer</text>
+
+  <rect x="1030" y="370" width="500" height="90" rx="10" fill="#1E4FA8"/>
+  <text x="1280" y="425" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Guardrail Activation Telemetry</text>
+
+  <rect x="1030" y="480" width="500" height="90" rx="10" fill="#1E4FA8"/>
+  <text x="1280" y="535" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Classification Reporting</text>
+
+  <rect x="1030" y="590" width="500" height="90" rx="10" fill="#1E4FA8"/>
+  <text x="1280" y="645" font-family="Inter" font-size="23" fill="#FFFFFF" text-anchor="middle">Failure-Mode Detection</text>
+
+  <!-- Thin divider above Bottom Bar -->
+  <rect x="0" y="800" width="1600" height="8" fill="#D9E2F2"/>
+  <!-- Bottom Bar -->
+  <rect x="0" y="820" width="1600" height="80" fill="#0A2A66"/>
+  <text x="750" y="865" font-family="Inter" font-size="28" fill="#FFFFFF" text-anchor="middle">CONTINUITY PRESERVED UNDER SUPERVISED CONSTRAINTS</text>
+
+</svg>
