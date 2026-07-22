@@ -12,7 +12,7 @@ This diagram illustrates the separation between the advisory zone and the superv
 ## Retention Boundary Diagram
 This diagram illustrates the retention boundary separating the advisory zone from the supervised‑retention zone, including temporary cache flow, long‑term storage, retention‑policy enforcement, and supervisory‑control alignment.
 
-![Retention Boundary](../assets/diagrams/v1.7/retemtipm-boundary.png)
+![Retention Boundary](../assets/diagrams/v1.7/retentipm-boundary.png)
 
 **Purpose**  
 
