@@ -139,8 +139,10 @@ This suite is required for regulated deployment of computational memory.
 
 _______________________
 
-## Diagram Placeholder
-A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+## Continuity Layer Diagram
+This diagram illustrates the continuity layer that maintains supervised state across advisory interactions, including checkpoints, transformation rules, and retention‑boundary alignment.  
+
+![Continuity Layer](../assets/diagrams/v1.7/continuity-layer.png)
 
 
 ## Cross‑Links
