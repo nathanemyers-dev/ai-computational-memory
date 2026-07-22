@@ -27,6 +27,14 @@ The specification applies to:
 
 It defines what is permitted, what is prohibited, and what requires supervisory oversight.  
 
+
+## Regulated Boundary Diagram
+This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the regulated boundary line, supervisory‑control layer, and the storage/state layer.  
+
+![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
+
+
+
 **Non‑Advisory Boundary**  
 
 Computational memory operates within a non‑advisory boundary defined by four principles:
@@ -49,11 +57,6 @@ The following packet classes may be retained:
 • computational artifacts  
 • non‑directive analytical structures  
 
-
-## Regulated Boundary Diagram
-This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the regulated boundary line, supervisory‑control layer, and the storage/state layer.  
-
-![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
 
 These packets support continuity without producing regulated guidance.  
 
@@ -87,18 +90,18 @@ These controls ensure that computational memory remains non‑advisory.
 
 Advisory state prevention operates at the boundary layer and enforces:
 
-
-
-
-## Retention Boundary Diagram
-This diagram illustrates the retention boundary separating the advisory zone from the supervised‑retention zone, including temporary cache flow, long‑term storage, retention‑policy enforcement, and supervisory‑control alignment.
-
 • rejection of advisory packets  
 • rejection of directive transformations  
 • rejection of suitability‑oriented structures  
 • rejection of decision‑oriented computational artifacts  
 
 These gates prevent advisory state formation even when no warning is surfaced.  
+
+## Retention Boundary Diagram
+This diagram illustrates the retention boundary separating the advisory zone from the supervised‑retention zone, including temporary cache flow, long‑term storage, retention‑policy enforcement, and supervisory‑control alignment.
+
+
+![Retention Boundary](../assets/diagrams/v1.7/retention-boundary.png)
 
 **Transformation Boundaries**  
 
