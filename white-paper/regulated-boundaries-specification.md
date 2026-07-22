@@ -138,8 +138,9 @@ This specification is required for regulated deployment of computational memory.
 
 _______________________
 
-## Diagram Placeholder
-A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.  
+## Regulated Boundary Diagram
+This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the regulated boundary line, supervisory‑control layer, and the storage/state layer.  
+
 ![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
 
 
