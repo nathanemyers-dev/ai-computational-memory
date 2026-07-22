@@ -134,6 +134,8 @@ This diagram illustrates the enterprise‑control layer that governs supervised 
 
 ![Enterprise Controls]{../assets/diagrams/v1.7/enterprise-controls-layer.png)
 
+
+
 ## Cross‑Links
 
 [Executive Summary](executive-summary.md)  
