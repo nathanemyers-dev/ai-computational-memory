@@ -130,7 +130,7 @@ _______________________
 
 ## Enterprise Controls Diagram
 
-This diagram illustrates the enterprise‑control layer that governs supervised AI operation, including governance, risk, compliance, control quadrants, and the system/user/data/audit control stack.
+This diagram illustrates the enterprise control layer that governs supervised AI operation, including governance, risk, compliance, control quadrants, and the system/user/data/audit control stack.
 
 ![Enterprise Controls](../assets/diagrams/v1.7/enterprise-controls-layer.png)
 
