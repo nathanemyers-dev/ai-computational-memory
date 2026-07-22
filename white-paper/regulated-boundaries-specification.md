@@ -3,17 +3,6 @@
 The regulated boundaries specification exists because computational memory cannot operate safely without a formally defined separation between non‑advisory continuity and advisory activity. This specification establishes the constraints, limits, and supervisory controls that keep persistence within non‑advisory domains and prevent retained packets from forming advisory state. It provides the foundation regulators and governance teams use to classify computational memory as a safe functional layer.
 
 
-## Regulated Boundary Diagram
-This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the regulated boundary line, supervisory‑control layer, and the storage/state layer.  
-
-![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
-
-
-## Retention Boundary Diagram
-This diagram illustrates the retention boundary separating the advisory zone from the supervised‑retention zone, including temporary cache flow, long‑term storage, retention‑policy enforcement, and supervisory‑control alignment.
-
-
-
 **Purpose**  
 
 The purpose of the regulated boundaries specification is to:
@@ -91,6 +80,16 @@ These controls ensure that computational memory remains non‑advisory.
 **Advisory State Prevention**  
 
 Advisory state prevention operates at the boundary layer and enforces:
+
+
+## Regulated Boundary Diagram
+This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the regulated boundary line, supervisory‑control layer, and the storage/state layer.  
+
+![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
+
+
+## Retention Boundary Diagram
+This diagram illustrates the retention boundary separating the advisory zone from the supervised‑retention zone, including temporary cache flow, long‑term storage, retention‑policy enforcement, and supervisory‑control alignment.
 
 • rejection of advisory packets  
 • rejection of directive transformations  
