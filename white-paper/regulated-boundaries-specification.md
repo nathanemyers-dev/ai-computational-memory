@@ -49,6 +49,12 @@ The following packet classes may be retained:
 • computational artifacts  
 • non‑directive analytical structures  
 
+
+## Regulated Boundary Diagram
+This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the regulated boundary line, supervisory‑control layer, and the storage/state layer.  
+
+![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
+
 These packets support continuity without producing regulated guidance.  
 
 **Prohibited Retention**  
@@ -82,10 +88,6 @@ These controls ensure that computational memory remains non‑advisory.
 Advisory state prevention operates at the boundary layer and enforces:
 
 
-## Regulated Boundary Diagram
-This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the regulated boundary line, supervisory‑control layer, and the storage/state layer.  
-
-![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
 
 
 ## Retention Boundary Diagram
