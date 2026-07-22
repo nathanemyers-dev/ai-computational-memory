@@ -140,7 +140,7 @@ _______________________
 
 ## Diagram Placeholder
 A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.  
-![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundaries.png)
+![Regulated Boundaries](/assets/diagrams/v1.7/regulated-boundaries.png)
 
 
 ## Cross‑Links
