@@ -34,11 +34,7 @@ ________________________________________
 ## Continuity Layer Diagram
 This diagram illustrates the continuity layer that maintains supervised state across advisory interactions, including checkpoints, transformation rules, and retention‑boundary alignment.  
 
-![Continuity Layer](../assets/diagrams/v1.7/continuity-layer.svg)
-
-
 ![Continuity Layer](../assets/diagrams/v1.7/continuity-layer1.png)
-
 
 ## Test Categories
 
