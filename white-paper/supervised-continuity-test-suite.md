@@ -37,7 +37,7 @@ This diagram illustrates the continuity layer that maintains supervised state ac
 ![Continuity Layer](../assets/diagrams/v1.7/continuity-layer.svg)
 
 
-![Continuity Layer](../assets/diagrams/v1.7/continuity-layer.png)
+![Continuity Layer](../assets/diagrams/v1.7/continuity-layer1.png)
 
 
 ## Test Categories
