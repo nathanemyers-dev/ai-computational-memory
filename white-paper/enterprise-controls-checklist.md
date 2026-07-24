@@ -17,6 +17,14 @@ These controls are mandatory for any production deployment.
 _____________________________
 ### Control Categories
 
+The control categories define the governed surfaces that supervise AI operation across enterprise environments. They establish the governance, risk, compliance, and control‑layer structures required to ensure supervised, non‑advisory behavior at every system boundary
+
+## Enterprise Controls Diagram
+
+This diagram illustrates the enterprise control layer that governs supervised AI operation, including governance, risk, compliance, control quadrants, and the system/user/data/audit control stack.
+
+![Enterprise Controls](../assets/diagrams/v1.7/enterprise-controls-layer.png)
+
 **1. Retention Controls**   
 
 Enterprises must implement controls that enforce:  
@@ -126,16 +134,6 @@ The enterprise controls checklist ensures that computational memory:
 
 These controls are required for regulated deployment of computational memory.  
 
-_______________________
-
-## Enterprise Controls Diagram
-
-This diagram illustrates the enterprise control layer that governs supervised AI operation, including governance, risk, compliance, control quadrants, and the system/user/data/audit control stack.
-
-![Enterprise Controls](../assets/diagrams/v1.7/enterprise-controls-layer.png)
-
-
-
 ## Cross‑Links
 
 [Executive Summary](executive-summary.md)  
@@ -158,7 +156,6 @@ This diagram illustrates the enterprise control layer that governs supervised AI
 [Use Cases](use-cases.md)  
 [Examples](/problem-statement/examples.md)  
 [Vendor Implementation Architecture](vendor-implementation-architecture.md)  
-
 
 _____________
 **Attribution**  
