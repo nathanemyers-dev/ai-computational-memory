@@ -4,7 +4,7 @@ The AI Computational Memory Category requires a formal taxonomy so regulators, g
 
 The taxonomy has four parts: the layer, the boundaries, the structures, and the supervisory mechanisms.
 ____________________________
-## 1. The Layer
+## The Layer
 **Continuity Layer**    
 The governed layer beneath the model where computational memory operates. It retains structure, inputs, and transform operations without entering advisory domains. The continuity layer is explicitly separated from decision logic and cannot generate guidance.
 
@@ -12,7 +12,7 @@ The governed layer beneath the model where computational memory operates. It ret
 The analytical surface within the continuity layer where retained structures are stored, reused, and supervised. It provides stable inputs, predictable behavior, and governed continuity across interactions.
 _______________________
 
-## 2. The Boundaries
+## The Boundaries
 **Persistence Boundary**    
 The regulated perimeter that defines what can be retained. It prevents advisory‑risk structures from forming durable state and ensures that continuity remains non‑advisory.
 
@@ -23,7 +23,7 @@ The governed limit on how long and under what conditions structures may persist.
 The constraints that govern how retained structures may be modified. Transformation rules ensure that all changes remain non‑advisory and consistent with supervisory controls.
 _____________________
 
-## 3. The Structures
+## The Structures
 **Analytical Structures**    
 User‑provided models, inputs, parameters, and scaffolding that can be retained safely within the continuity layer. These structures support governed dynamic modeling without producing regulated guidance.
 
@@ -33,7 +33,7 @@ Discrete units of retained information evaluated against retention eligibility r
 **Reusable Scaffolding**    
 Non‑advisory analytical frameworks that support continuity across sessions. Scaffolding enables repeatability without forming advisory state.
 
-## 4. The Supervisory Mechanisms  
+## The Supervisory Mechanisms  
 **Supervisory Controls**    
 Governed mechanisms that enforce regulated boundaries, validate retention events, and prevent advisory‑risk structures from persisting.
 
