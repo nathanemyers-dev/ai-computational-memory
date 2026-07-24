@@ -15,6 +15,7 @@ The purpose of this specification is to:
 This taxonomy is required for regulated deployment.  
 
 **Scope**    
+
 The continuity failure‑modes specification applies to all systems, supervisory layers, and retention‑boundary interactions involved in computational memory. It covers:
 
 • advisory‑state prevention behavior  
