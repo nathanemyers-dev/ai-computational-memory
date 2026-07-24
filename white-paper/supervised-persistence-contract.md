@@ -21,6 +21,8 @@ The contract governs every retention, transformation, and access operation acros
 ## Supervised Persistence Contract Diagram  
 This diagram illustrates the supervised persistence contract governing retention eligibility, non‑advisory transformations, access restrictions, supervisory‑control enforcement, and advisory state prevention across the persistence layer.
 
+![Enterprise Controls](../assets/diagrams/v1.7/supervised-persistence-contract.png)
+
 **Supervisory Enforcement**  
 Supervisory enforcement ensures that every persistence‑layer operation is governed, auditable, and compliant. Enforcement includes:
 
