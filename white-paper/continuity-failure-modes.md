@@ -37,6 +37,28 @@ This diagram illustrates the governed taxonomy of continuity‑breaking conditio
 
 ![Continuity Failure Modes](../assets/diagrams/v1.7/continuity-failure-modes.png)
 
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                CONTINUITY FAILURE MODES — GOVERNED DIAGNOSTIC TAXONOMY       │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
+│  BOUNDARY & ELIGIBILITY      │  CLASSIFICATION &             │  SUPERVISORY & AUDIT         │
+│  FAILURES                    │  TRANSFORMATION FAILURES      │  FAILURES                    │
+├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
+│ • Advisory Guardrail         │ • Interpretation Heuristic    │ • Supervisory Gate           │
+│   Failures                   │   Failures                    │   Failures                   │
+│                              │                               │                              │
+│ • Retention Eligibility      │ • Packet‑Classification        │ • Audit Surface Failures     │
+│   Failures                   │   Failures                    │                              │
+│                              │                               │                              │
+│                              │ • Transformation Boundary      │ • Silent Boundary Failures   │
+│                              │   Failures                    │                              │
+└──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+
+                         CONTINUITY LOSS SURFACES UNDER SUPERVISED CONSTRAINTS
+
+
+
 **1. Advisory Guardrail Failures**  
 
 These failures occur when advisory guardrails activate at the retention boundary. They prevent formation of advisory-state and can trigger continuity loss without surfacing warnings.
