@@ -15,7 +15,7 @@ The purpose of this checklist is to:
 These controls are mandatory for any production deployment.  
 
 _____________________________
-### Control Categories
+## Control Categories
 
 The control categories define the governed surfaces that supervise AI operation across enterprise environments. They establish the governance, risk, compliance, and control‑layer structures required to ensure supervised, non‑advisory behavior at every system boundary
 
