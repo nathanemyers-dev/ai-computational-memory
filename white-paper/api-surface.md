@@ -2,6 +2,11 @@
 
 The computational memory layer is accessed through a governed API surface. The API defines the allowed operations, the boundaries of each call, and the supervisory constraints that govern interaction with the persistence layer. All interactions must remain within non‑advisory domains and must comply with governed retention, transformation, and deletion rules. The API surface consists of four calls that establish the only permitted interactions with the memory and persistence layers.
 
+## API Surface Diagram  
+The API surface defines the governed interfaces vendors must expose to support supervised persistence. It provides the contract points for retention, transformation, audit, and supervisory enforcement, ensuring that continuity operates safely within non‑advisory boundaries.
+
+![API Surface](../assets/diagrams/v1.7/api-surface.png)
+
 **Write Operation (Retain)**  
 A structured, bounded write that stores non‑advisory packets under governed retention rules.
 
@@ -68,12 +73,6 @@ All API calls must:
 - behave deterministically across sessions  
 
 The API surface is the first standardized interface for safe continuity. It ensures that retained structures cannot be used to generate regulated outputs and that computational memory remains a governed foundation layer supporting decision systems, not a decision system itself.  
-_______________________
-
-## API Surface Diagram  
-The API surface defines the governed interfaces vendors must expose to support supervised persistence. It provides the contract points for retention, transformation, audit, and supervisory enforcement, ensuring that continuity operates safely within non‑advisory boundaries.
-
-![API Surface](../assets/diagrams/v1.7/api-surface.png)
 
 ## Cross‑Links
 
