@@ -3,7 +3,12 @@
 Regulatory alignment describes how computational memory fits within existing and emerging governance frameworks. It defines the boundaries that keep the persistence layer outside advisory domains and ensures that continuity can operate safely under supervisory expectations.
 
 **Purpose**  
+
 The purpose of regulatory alignment is to demonstrate that computational memory can be deployed without triggering obligations associated with personalized guidance, prediction, or recommendation. It provides a clear mapping between the category and regulatory intent.
+
+**Scope**    
+
+The scope of regulatory alignment defines the operational boundaries within which computational memory can be safely deployed. It establishes the conditions, constraints, and supervisory expectations that govern the persistence layer, ensuring that retention, transformation, and access patterns remain within non advisory domains. Scope clarifies what computational memory is permitted to retain, how retained structures may be used, and the supervisory surfaces required to maintain compliance under existing regulatory frameworks.
 
 **Non-Advisory Boundary**  
 The non-advisory boundary defines the separation between safe persistence and regulated activity. It ensures that retained structures do not influence decisions, generate predictions, or provide personalized outputs. This boundary is the core mechanism that keeps computational memory compliant.
@@ -24,6 +29,10 @@ Transparency ensures that enterprises and regulators can understand how computat
 Regulatory alignment ensures that computational memory can be adopted without entering advisory domains or triggering additional regulatory obligations. It provides a clear and supervised pathway for enterprises to deploy continuity safely and predictably.
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
+
+## Outcome  
+The outcome of regulatory alignment is a persistence layer that operates predictably, transparently, and safely under supervisory oversight. It ensures that computational memory remains outside advisory obligations, maintains clear separation from decision systems, and supports enterprise governance without creating new regulatory risk. A fully aligned memory layer provides a stable foundation for continuity, enabling enterprises to adopt computational memory with confidence and without triggering additional regulatory requirements.
+
 _____________
 This work defines the Nathan E. Myers AI Computational Memory Category.
 Attribution to Nathan E. Myers is required for any use, adaptation, or derivative work under the CC BY 4.0 license.
