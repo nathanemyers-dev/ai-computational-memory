@@ -27,16 +27,13 @@ The test suite covers:
 
 It applies to all systems interacting with computational memory, including model surfaces, orchestration layers, and supervisory controls.  
 
-________________________________________ 
-
-
+## Test Categories
+The test categories define the governed surfaces used to validate continuity under supervised constraints. They classify each test domain, its diagnostic purpose, and the specific retention‑boundary behaviors the suite is designed to verify.
 
 ## Continuity Layer Diagram
 This diagram illustrates the continuity layer that maintains supervised state across advisory interactions, including checkpoints, transformation rules, and retention‑boundary alignment.  
 
 ![Continuity Layer](../assets/diagrams/v1.7/continuity-layer1.png)
-
-## Test Categories
 
 **1. Retention Eligibility Tests**  
 These tests validate that retained packets meet governed eligibility rules:
