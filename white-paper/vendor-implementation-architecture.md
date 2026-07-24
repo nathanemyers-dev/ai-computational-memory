@@ -1,10 +1,14 @@
 # Vendor Implementation Architecture
 
-The vendor implementation architecture defines how AI vendors must implement the computational memory category so continuity can operate safely under governed constraints. Vendors must prevent advisory state formation, enforce regulated boundaries, expose supervisory controls, and implement the persistence contract without allowing retained structures to influence inference. This architecture provides the engineering requirements that ensure computational memory remains non‑advisory and compliant across all interactions.
+The vendor implementation architecture defines how AI vendors must implement the computational memory category so continuity can operate safely under governed constraints. It establishes the engineering requirements and the structural, supervisory, and boundary‑enforcement mechanisms needed to prevent advisory state formation, maintain inference isolation, and ensure that retained structures operate strictly within non‑advisory domains. Vendors must enforce regulated boundaries, expose supervisory controls, and implement the persistence contract without allowing retained structures to influence inference. This architecture provides the formal implementation path that keeps continuity compliant across all interactions.
 
 **Purpose**
 
 The purpose of the vendor implementation architecture is to ensure that vendors implement the continuity layer correctly. Without explicit engineering requirements, vendors default to advisory treatment and disable persistence entirely. This architecture defines the components, boundaries, controls, and supervisory mechanisms vendors must implement so the continuity layer can operate safely within regulated domains.
+
+**Scope**  
+
+The scope of the vendor implementation architecture defines the engineering surfaces vendors must implement to support governed persistence. It establishes the retention, transformation, routing, supervisory, and audit mechanisms required to maintain compliance with regulated boundaries. Scope clarifies what vendors are responsible for, how components must interact, and the constraints that prevent advisory state formation during continuity operations.
 
 ## Required Components
 
