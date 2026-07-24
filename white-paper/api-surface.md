@@ -73,6 +73,8 @@ _______________________
 ## API Surface Diagram  
 The API surface defines the governed interfaces vendors must expose to support supervised persistence. It provides the contract points for retention, transformation, audit, and supervisory enforcement, ensuring that continuity operates safely within non‑advisory boundaries.
 
+![API Surface](../assets/diagrams/v1.7/api-surface.png)
+
 ## Cross‑Links
 
 [Executive Summary](executive-summary.md)  
