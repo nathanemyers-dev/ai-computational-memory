@@ -52,16 +52,16 @@ ____________________
 ## Version 1.4  
 
 **Supervised Continuity Test Suite**  
-See: supervised-continuity-test-suite.md
+See: supervised-continuity-test-suite.md — Diagram: Continuity Layer
 
 **Regulated Boundaries Specification**  
-See: regulated-boundaries-spec.md  
+See: regulated-boundaries-spec.md — Diagrams: Regulated Boundary, Retention Boundary 
 
 **Enterprise Controls Checklist**  
-See: enterprise-controls-checklist.md  
+See: enterprise-controls-checklist.md — Diagram: Enterprise Controls
 
 **Continuity Failure Modes**  
-See: continuity-failure-modes.md
+See: continuity-failure-modes.md — Diagram: Continuity Failure Modes
 
 ____________________
 ## Version 1.3  
@@ -101,10 +101,11 @@ ____________________
 
 **API Surface**  
 Defines the formal interface for writing, reading, transforming, and deleting retained structures under supervised constraints.
+See: api-surface.md — Diagram: API Surface
 
 **Supervised Persistence Contract**  
 Establishes the obligations, boundaries, and governance controls required for any system interacting with computational memory.
-
+See: supervised-persistence-contract.md — Diagram: Supervised Persistence Contract
 ______________________
 **Attribution**
 
