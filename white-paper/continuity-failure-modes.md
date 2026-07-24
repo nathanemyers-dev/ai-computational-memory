@@ -42,17 +42,17 @@ This diagram illustrates the governed taxonomy of continuity‑breaking conditio
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
-│  BOUNDARY & ELIGIBILITY      │  CLASSIFICATION &             │  SUPERVISORY & AUDIT         │
-│  FAILURES                    │  TRANSFORMATION FAILURES      │  FAILURES                    │
+│  BOUNDARY & ELIGIBILITY      │  CLASSIFICATION &            │  SUPERVISORY & AUDIT         │
+│  FAILURES                    │  TRANSFORMATION FAILURES     │  FAILURES                    │
 ├──────────────────────────────┼──────────────────────────────┼──────────────────────────────┤
-│ • Advisory Guardrail         │ • Interpretation Heuristic    │ • Supervisory Gate           │
-│   Failures                   │   Failures                    │   Failures                   │
-│                              │                               │                              │
-│ • Retention Eligibility      │ • Packet‑Classification        │ • Audit Surface Failures     │
-│   Failures                   │   Failures                    │                              │
-│                              │                               │                              │
-│                              │ • Transformation Boundary      │ • Silent Boundary Failures   │
-│                              │   Failures                    │                              │
+│ • Advisory Guardrail         │ • Interpretation Heuristic   │ • Supervisory Gate           │
+│   Failures                   │   Failures                   │   Failures                   │
+│                              │                              │                              │
+│ • Retention Eligibility      │ • Packet‑Classification      │ • Audit Surface Failures     │
+│   Failures                   │   Failures                   │                              │
+│                              │                              │                              │
+│                              │ • Transformation Boundary    │ • Silent Boundary Failures   │
+│                              │   Failures                   │                              │
 └──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
 
                          CONTINUITY LOSS SURFACES UNDER SUPERVISED CONSTRAINTS
