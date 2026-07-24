@@ -10,6 +10,8 @@ The purpose of regulatory alignment is to demonstrate that computational memory 
 
 The scope of regulatory alignment defines the operational boundaries within which computational memory can be safely deployed. It establishes the conditions, constraints, and supervisory expectations that govern the persistence layer, ensuring that retention, transformation, and access patterns remain within non advisory domains. Scope clarifies what computational memory is permitted to retain, how retained structures may be used, and the supervisory surfaces required to maintain compliance under existing regulatory frameworks.
 
+__________________________
+
 **Non-Advisory Boundary**  
 The non-advisory boundary defines the separation between safe persistence and regulated activity. It ensures that retained structures do not influence decisions, generate predictions, or provide personalized outputs. This boundary is the core mechanism that keeps computational memory compliant.
 
