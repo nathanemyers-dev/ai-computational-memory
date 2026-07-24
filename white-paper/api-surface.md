@@ -70,8 +70,8 @@ All API calls must:
 The API surface is the first standardized interface for safe continuity. It ensures that retained structures cannot be used to generate regulated outputs and that computational memory remains a governed foundation layer supporting decision systems, not a decision system itself.  
 _______________________
 
-## Diagram Placeholder  
-A diagram will be added here in v1.6 to illustrate the structure, boundaries, or flow described in this section.
+## API Surface Diagram  
+The API surface defines the governed interfaces vendors must expose to support supervised persistence. It provides the contract points for retention, transformation, audit, and supervisory enforcement, ensuring that continuity operates safely within non‑advisory boundaries.
 
 ## Cross‑Links
 
