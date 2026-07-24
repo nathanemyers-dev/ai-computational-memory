@@ -35,6 +35,7 @@ Continuity failure modes represent the governed taxonomy of all conditions that 
 ## Continuity Failure Modes Diagram  
 This diagram illustrates the governed taxonomy of continuity‑breaking conditions, including guardrail failures, retention‑eligibility failures, heuristic misclassification, packet‑classification failures, transformation‑boundary violations, supervisory‑gate failures, audit‑surface failures, and silent boundary failures.
 
+![Enterprise Controls](../assets/diagrams/v1.7/continuity-failure-modes.png)
 
 **1. Advisory Guardrail Failures**  
 
