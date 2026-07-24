@@ -14,6 +14,19 @@ The purpose of this specification is to:
 
 This taxonomy is required for regulated deployment.  
 
+**Scope**    
+The continuity failure‑modes specification applies to all systems, supervisory layers, and retention‑boundary interactions involved in computational memory. It covers:
+
+• advisory‑state prevention behavior  
+• retention‑eligibility classification  
+• heuristic and packet‑classification logic  
+• transformation‑boundary enforcement  
+• supervisory‑gate activation  
+• audit‑surface completeness  
+• detection of silent boundary events  
+
+This specification governs every failure condition that can break continuity, suppress state formation, or prevent supervised persistence from operating within non‑advisory constraints.
+
 ## Failure Mode Categories  
 
 **1. Advisory Guardrail Failures**  
