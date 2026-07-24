@@ -19,7 +19,7 @@ _____________________________
 
 The control categories define the governed surfaces that supervise AI operation across enterprise environments. They establish the governance, risk, compliance, and control‑layer structures required to ensure supervised, non‑advisory behavior at every system boundary
 
-## Enterprise Controls Diagram
+### Enterprise Controls Diagram
 
 This diagram illustrates the enterprise control layer that governs supervised AI operation, including governance, risk, compliance, control quadrants, and the system/user/data/audit control stack.
 
@@ -122,7 +122,7 @@ Deployment controls must ensure:
 
 Deployment controls ensure safe installation and activation.  
 ______________________________
-### Outcome  
+## Outcome  
 
 The enterprise controls checklist ensures that computational memory:  
 
