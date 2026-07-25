@@ -40,14 +40,11 @@ Version 1.7 finalizes the visual integration across the corpus. Each diagram now
 
 Version 1.7 stabilizes the external‑facing structure for GitHub Pages. All diagram‑bearing artifacts now render cleanly, link correctly, and present a unified visual architecture for enterprise readers.
 
-**Future Additions**  
-Version 1.8 will introduce the architectural refinement layer, including expanded visuals for deployment sequencing, supervisory engines, and enterprise operating‑model integration. It will also add optional enterprise templates and extended reference architecture visuals.
-
 **No Breaking Changes**  
 All v1.6, v1.5, v1.4, v1.3, v1.2, and v1.1 artifacts remain intact. No API surfaces were modified. No backward compatibility issues were introduced.
 
 ## Outcome
-Version 1.7 delivers the full visual layer for the computational‑memory category. It installs all diagrams, stabilizes placement, updates the white‑paper index, and completes the visual expansion planned in Version 1.6. These changes finalize the external‑facing architecture and prepare the corpus for the structural refinements planned in Version 1.8.
+Version 1.7 delivers the full visual layer for the computational‑memory category. It installs all diagrams, stabilizes placement, updates the white‑paper index, and completes the visual expansion planned in Version 1.6. These changes finalize the external‑facing architecture and complete the visual integration for the category.  
 
 ________________________
 
