@@ -2,6 +2,40 @@
 
 Version 1.3 introduces the modular white paper corpus, formalizes the category introduction, and adds the missing definition layer required for supervised continuity. This release restructures the white paper into discrete artifacts, updates the internal index, and aligns the category with the enterprise deployment pattern.
 
+**Scope**  
+Version 1.3 establishes the modular corpus structure, introduces the foundational definition layer for supervised continuity, and aligns the category with enterprise deployment patterns. It restructures the white paper into standalone artifacts and updates the internal index to support modular navigation.
+
+_____________
+
+**Completed**  
+
+- Modular corpus structure established
+- Executive Summary added
+- Category Introduction added
+- Category Definition added
+- Governance Architecture added
+- Operating Model added
+- Implementation Path added
+- Enterprise Deployment Pattern added
+- Internal index updated for modular routing
+- Continuity clarification added
+- Regulatory alignment strengthened
+- Legacy v1.2 and v1.1 sections preserved for backward compatibility
+
+**Out of Scope**  
+
+- Model code
+- SDK integration
+- Runtime supervision engines
+- Cross‑system orchestration
+- Enterprise‑specific templates
+- Advisory logic
+- Model modification
+- Diagram creation
+- Reference architecture visuals
+
+## Additions
+
 **New Artifacts**  
 
 **Executive Summary**  
