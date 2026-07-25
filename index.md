@@ -27,7 +27,7 @@ These examples show why industry and regulators need a defined category for safe
 ___________________________
 ## White Paper
 
-The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.
+The white paper defines the full governance architecture, operating model, implementation path, regulatory alignment, and use cases for computational memory.  The white paper now includes the full visual architecture for computational memory, with seven diagrams placed across six artifacts.
 
 [executive summary](white-paper/executive-summary.md)  
 [category introduction](white-paper/category-introduction.md)  
@@ -42,12 +42,12 @@ The white paper defines the full governance architecture, operating model, imple
 [implementation path](white-paper/implementation-path.md)  
 [regulatory alignment](white-paper/regulatory-alignment.md)  
 [use cases](white-paper/use-cases.md)  
-[supervised continuity test suite](white-paper/supervised-continuity-test-suite.md)  
-[regulated boundaries specification](white-paper/regulated-boundaries-specification.md)    
-[enterprise controls checklist](white-paper/enterprise-controls-checklist.md)    
-[continuity failure modes](white-paper/continuity-failure-modes.md)  
-[api surface](white-paper/api-surface.md)  
-[supervised persistence contract](white-paper/supervised-persistence-contract.md)  
+[supervised continuity test suite](white-paper/supervised-continuity-test-suite.md) (Continuity Layer diagram)  
+[regulated boundaries specification](white-paper/regulated-boundaries-specification.md)  (Regulated Boundary diagram, Retention Boundary diagram)    
+[enterprise controls checklist](white-paper/enterprise-controls-checklist.md) (Enterprise Controls diagram)    
+[continuity failure modes](white-paper/continuity-failure-modes.md) (Continuity Failure Modes diagram)  
+[api surface](white-paper/api-surface.md) (API Surface diagram)  
+[supervised persistence contract](white-paper/supervised-persistence-contract.md) (Supervised Persistence Contract diagram)  
 [FAQ](white-paper/FAQ.md)  
 [vendor implementation architecture](white-paper/vendor-implementation-architecture.md)
 
@@ -62,6 +62,8 @@ ___________________________________________
 ## Outcome  
 
 This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
+
+Version 1.7 installs the complete diagram layer for the category, including regulated boundaries, retention boundaries, supervised persistence contract, API surface, continuity layer, enterprise controls, and continuity failure modes.
 
 ## Full Corpus  
 See: /white-paper/index.md
@@ -88,7 +90,10 @@ Defines the supervised continuity test suite, regulated boundaries specification
 Establishes the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, positions diagram placeholders, verifies the external-facing GitHub Pages structure, and harmonizes the conceptual modules for future diagram integration.
 
 **Version 1.6 — Terminology Harmonization, Narrative Alignment, Corpus Coherence**
-Completes the harmonization and coherence pass across the white-paper corpus. Unifies terminology, aligns narrative flow, finalizes cross-section transitions, stabilizes upstream and downstream references, and introduces the corpus index as the structural control surface for the category.
+Completes the harmonization and coherence pass across the white-paper corpus. Unifies terminology, aligns narrative flow, finalizes cross-section transitions, stabilizes upstream and downstream references, and introduces the corpus index as the structural control surface for the category.  
+
+**Version 1.7 — Diagram Layer, Visual Integration, Index Updates**
+Introduces the full diagram layer, finalizes diagram placement, updates the white-paper index, stabilizes cross-links, and completes the visual architecture for the category.
 _____________
 **Attribution**
 
