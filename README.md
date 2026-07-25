@@ -51,17 +51,19 @@ white-paper/implementation-path.md
 white-paper/regulatory-alignment.md  
 white-paper/use-cases.md  
 white-paper/taxonomy.md 
-white-paper/supervised-continuity-test-suite.md  
-white-paper/regulated-boundaries-specification.md  
-white-paper/enterprise-controls-checklist.md  
-white-paper/continuity-failure-modes.md  
-white-paper/api-surface.md  
-white-paper/supervised-persistence-contract.md     
+white-paper/supervised-continuity-test-suite.md (Continuity Layer diagram)  
+white-paper/regulated-boundaries-specification.md (Regulated Boundary diagram, Retention Boundary diagram)  
+white-paper/enterprise-controls-checklist.md (Enterprise Controls diagram)  
+white-paper/continuity-failure-modes.md (Continuity Failure Modes diagram)  
+white-paper/api-surface.md (API Surface diagram)  
+white-paper/supervised-persistence-contract.md (Supervised Persistence Contract diagram     
 white-paper/FAQ.md  
 white-paper/vendor-implementation-architecture.md  
 
 Outcome  
 This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non-advisory boundaries and supports enterprise-grade AI.
+
+Version 1.7 installs the complete diagram layer for the category, including regulated boundaries, retention boundaries, supervised persistence contract, API surface, continuity layer, enterprise controls, and continuity failure modes.
 
 Version  
 1.0
@@ -84,10 +86,10 @@ white-paper/release-notesv1.4.md — Glossary, References, Publication Layer, Co
 Introduces the glossary and references sections, completes the publication layer, aligns routing, strengthens continuity terminology, updates regulatory alignment, and adds the continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy.
 
 white-paper/release-notesv1.5.md — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability  
-Defines the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, positions diagram placeholders, verifies external-facing pages routing, and harmonizes conceptual modules for future diagram integration.
+Defines the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, and verifies external-facing pages routing. Adds diagram placeholders, harmonizes conceptual models, and prepares corpus for future visual integration.
 
 white-paper/release-notesv1.6.md — Terminology Harmonization, Narrative Alignment, Corpus Coherence  
-Completes the harmonization and coherence pass across the white-paper corpus. Unifies terminology, aligns narrative flow, finalizes cross-section transitions, stabilizes upstream and downstream references, and introduces the corpus index as the structural control surface for the category.
+Completes terminology harmonization and coherence pass across the white-paper corpus ahead of v1.7 visual expansion. Unifies terminology, aligns narrative flow, finalizes cross-section transitions, stabilizes upstream and downstream references, and introduces the corpus index as the structural control surface for the category.
 
 white-paper/release-notesv1.7.md — Diagram Layer, Visual Integration, Index Updates    
 Introduces the full diagram layer, finalizes diagram placement, updates the white-paper index, stabilizes cross-links, and completes the visual architecture for the category.
