@@ -68,7 +68,7 @@ Adds the formal explanation of silent memory failure. Clarifies that non persist
 Strengthens the supervisory framing for retention, transformation, and access. Clarifies that computational memory is a non advisory functional layer and cannot produce personalized guidance.
 
 ### Future Additons  
-Version 1.4 will introduce the supervised continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure modes. It will also begin the alignment of regulatory artifacts with the modular corpus.
+Version 1.4 will introduce the glossary and references sections, complete the publication layer, and finalize routing alignment across the corpus. It will also strengthen continuity terminology, clarify boundary interactions, and align the category with external regulatory frameworks.  
 
 ### No Breaking Changes  
 All v1.2 and v1.1 artifacts remain intact. No API surfaces were modified. No backward compatibility issues were introduced.
