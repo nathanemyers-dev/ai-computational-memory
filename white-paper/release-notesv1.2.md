@@ -31,7 +31,7 @@ Version 1.2 also introduces the reference architecture for supervised continuity
 **Future Additions**  
 Version 1.3 will introduce the supervisory runtime and the enterprise validation framework for governed continuity.
 
-**Outcome**  
+## Outcome  
 Version 1.2 provides the deployment structures required for enterprises to implement computational memory safely at scale. It establishes the architectural, supervisory, and operational foundations needed for governed continuity without entering advisory domains.
 
 
