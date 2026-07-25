@@ -33,32 +33,31 @@ Provide a governance architecture and supervisory controls that allow regulators
 Align regulators, governance teams, practitioners, and engineers on the category and effect the streamlined process that allows memory to persist safely across interactions.
 
 ## White Paper   
-The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment. 
+The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment. The white paper now includes the full visual architecture for computational memory, with seven diagrams placed across six artifacts.
 
-The white-paper directory contains the full technical and governance specification for computational memory. Release notes v1.0 through v1.3 are stored inside the white-paper corpus and govern versioning.
+The white-paper directory contains the full technical and governance specification for computational memory. Release notes v1.0 through v1.7 are stored inside the white-paper corpus and govern versioning.
 
-white-paper/category-introduction.md  
-white-paper/category-definition.md   
-white-paper/executive-summary.md  
-white-paper/solution.md  
-white-paper/index.md  
-white-paper/enterprise-deployment-pattern.md  
-white-paper/reference-architecture.md  
-white-paper/deployment-sequence.md  
-white-paper/governance-architecture.md  
-white-paper/operating-model.md  
-white-paper/implementation-path.md  
-white-paper/regulatory-alignment.md  
-white-paper/use-cases.md  
-white-paper/taxonomy.md 
-white-paper/supervised-continuity-test-suite.md  
-white-paper/regulated-boundaries-specification.md  
-white-paper/enterprise-controls-checklist.md  
-white-paper/continuity-failure-modes.md  
-white-paper/api-surface.md  
-white-paper/supervised-persistence-contract.md     
-white-paper/FAQ.md  
-white-paper/vendor-implementation-architecture.md  
+white-paper/category-introduction.md
+white-paper/category-definition.md
+white-paper/executive-summary.md
+white-paper/solution.md
+white-paper/index.md
+white-paper/enterprise-deployment-pattern.md
+white-paper/reference-architecture.md
+white-paper/deployment-sequence.md
+white-paper/governance-architecture.md
+white-paper/operating-model.md
+white-paper/implementation-path.md
+white-paper/regulatory-alignment.md
+white-paper/use-cases.md
+white-paper/taxonomy.md white-paper/supervised-continuity-test-suite.md (Continuity Layer diagram)
+white-paper/regulated-boundaries-specification.md (Regulated Boundary diagram, Retention Boundary diagram)
+white-paper/enterprise-controls-checklist.md (Enterprise Controls diagram)
+white-paper/continuity-failure-modes.md (Continuity Failure Modes diagram)
+white-paper/api-surface.md (API Surface diagram)
+white-paper/supervised-persistence-contract.md (Supervised Persistence Contract diagram)
+white-paper/FAQ.md
+white-paper/vendor-implementation-architecture.md
 
 ## Outcome  
 This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non-advisory boundaries and supports enterprise-grade AI.
