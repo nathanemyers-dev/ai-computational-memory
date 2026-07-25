@@ -63,6 +63,7 @@ white-paper/vendor-implementation-architecture.md
 ## Outcome  
 This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non-advisory boundaries and supports enterprise-grade AI.
 
+Version 1.7 installs the complete diagram layer for the category, including regulated boundaries, retention boundaries, supervised persistence contract, API surface, continuity layer, enterprise controls, and continuity failure modes.
 
 **Version**  
 1.0
