@@ -73,25 +73,27 @@ _____________________________
 **white-paper/release-notesv1.0.md — White Paper Foundation**     
 Establishes the AI Computational Memory Category, including the conceptual spine: Introduction, Problem Context, Category Definition, Solution, Governance Architecture, Operating Model, and Implementation Path.
 
-**white-paper/release-notesv1.1.md — API Surface & Supervised Persistence Contract**    
+**white-paper/release-notesv1.1.md — API Surface & Supervised Persistence Contract**  
 Defines the formal interface for supervised continuity, including write/read/transform/delete operations and the governance obligations required for any system interacting with computational memory.
 
 **white-paper/release-notesv1.2.md — Enterprise Deployment Pattern, Reference Architecture, Deployment Sequence**    
 Introduces the enterprise implementation layer, including the deployment pattern, supervised continuity reference architecture, and the governed rollout sequence.
 
 **white-paper/release-notesv1.3.md — Modular corpus, routing, attribution, and structural alignment**    
-Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.  
+Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.
 
-**white-paper/release-notesv1.4.md — Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes**  
-Defines the supervised continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy required for regulated deployment of computational memory.
+**white-paper/release-notesv1.4.md — Glossary, References, Publication Layer, Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes**
+Introduces the glossary and references sections, completes the publication layer, aligns routing, strengthens continuity terminology, updates regulatory alignment, and adds the continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy.
 
-**white-paper/release-notesv1.5.md — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability**    
-Defines the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, positions diagram placeholders, verifies external-facing pages routing, and harmonizes conceptual modules for future diagram integration.
+**white-paper/release-notesv1.5.md — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability**  
+Defines the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, and verifies external-facing pages routing. Adds diagram placeholders, harmonizes conceptual models, and prepares corpus for future visual integration.
 
-**white-paper/release-notesv1.6.md — Terminology Harmonization, Narrative Alignment, Corpus Coherence**    
-Completes the harmonization and coherence pass across the white-paper corpus. Unifies terminology, aligns narrative flow, finalizes cross-section transitions, stabilizes upstream and downstream references, and introduces the corpus index as the structural control surface for the category.
+**white-paper/release-notesv1.6.md — Terminology Harmonization, Narrative Alignment, Corpus Coherence**  
+Completes terminology harmonization and coherence pass across the white-paper corpus ahead of v1.7 visual expansion. Unifies terminology, aligns narrative flow, finalizes cross-section transitions, stabilizes upstream and downstream references, and introduces the corpus index as the structural control surface for the category.
 
-______________________
+**white-paper/release-notesv1.7.md — Diagram Layer, Visual Integration, Index Updates**  
+Introduces the full diagram layer, finalizes diagram placement, updates the white-paper index, stabilizes cross-links, and completes the visual architecture for the category.
+
 _____________
 **Attribution**  
 This work defines the Nathan E. Myers AI Computational Memory Category.
