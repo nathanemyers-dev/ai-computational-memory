@@ -56,7 +56,7 @@ white-paper/regulated-boundaries-specification.md (Regulated Boundary diagram, R
 white-paper/enterprise-controls-checklist.md (Enterprise Controls diagram)  
 white-paper/continuity-failure-modes.md (Continuity Failure Modes diagram)  
 white-paper/api-surface.md (API Surface diagram)  
-white-paper/supervised-persistence-contract.md (Supervised Persistence Contract diagram     
+white-paper/supervised-persistence-contract.md (Supervised Persistence Contract diagram)     
 white-paper/FAQ.md  
 white-paper/vendor-implementation-architecture.md  
 
