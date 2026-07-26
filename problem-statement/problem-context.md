@@ -17,23 +17,6 @@ This problem statement establishes the need for computational memory as a distin
 
 Additional examples of user impact: [examples.md](examples.md)  
 
-**Solution**    
-The solution is to define a formal functional layer within AI decision infrastructure that receives distinct regulatory treatment. This layer is the computational memory surface that supports continuity, structured reuse, and supervised retention. It operates no differently than how Excel saves a model without producing advice. By establishing this layer as non-advisory, the category provides a clear governance path for safe retention.
-
-The solution has four parts:
-
-**1. Define the functional layer**  
-Establish computational memory as a governed layer beneath the model that retains structure, inputs, and transformations without entering advisory domains.
-
-**2. Demonstrate equivalence to existing non-advisory tools**  
-Show that this layer behaves like Excel or any other analytical surface that saves models without producing regulated guidance.
-
-**3. Propose regulatory treatment**  
-Provide a governance architecture and supervisory controls that allow regulators and governance teams to classify this layer as non-advisory.
-
-**4. Build consensus and implement**  
-Align regulators, governance teams, practitioners, and engineers on the category and effect the streamlined process that allows memory to persist safely across interactions.
-
 ## Cross-links
 
 [Executive Summary](/white-paper/executive-summary.md)  
