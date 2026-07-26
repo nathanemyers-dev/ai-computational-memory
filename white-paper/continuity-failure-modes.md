@@ -18,7 +18,7 @@ This taxonomy is required for regulated deployment.
 
 The continuity failure‑modes specification applies to all systems, supervisory layers, and retention‑boundary interactions involved in computational memory. It covers:
 
-• advisory‑state prevention behavior  
+• advisory state prevention behavior  
 • retention‑eligibility classification  
 • heuristic and packet‑classification logic  
 • transformation‑boundary enforcement  
@@ -40,7 +40,7 @@ This diagram illustrates the governed taxonomy of continuity‑breaking conditio
 
 **1. Advisory Guardrail Failures**  
 
-These failures occur when advisory guardrails activate at the retention boundary. They prevent formation of advisory-state and can trigger continuity loss without surfacing warnings.
+These failures occur when advisory guardrails activate at the retention boundary. They prevent formation of advisory state and can trigger continuity loss without surfacing warnings.
 
 Advisory guardrail failures include:
 
