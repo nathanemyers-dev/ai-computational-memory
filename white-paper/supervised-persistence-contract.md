@@ -14,7 +14,7 @@ The supervised persistence contract applies to all systems, roles, and operation
 - transformation of retained packets
 - access to stored structures
 - supervisory review and audit surfaces
-- enforcement of advisory‑state prevention gates
+- enforcement of advisory state prevention gates
 
 The contract governs every retention, transformation, and access operation across all enterprise deployments operating under regulated constraints. It defines what is permitted, what is prohibited, and what requires supervisory oversight.
 
