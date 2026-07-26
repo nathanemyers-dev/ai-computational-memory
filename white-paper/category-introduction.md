@@ -12,7 +12,7 @@ Traditional tools like Excel preserve whatever the user builds, including models
 
 The aim of this work is to define a governed persistence layer that regulators, governance teams, practitioners, and engineers can agree is non-advisory. By carving out this functional layer, the category enables safe continuity and structured reuse without triggering advisory guardrails, so AI systems can operate as intended and users are not forced off-platform to rebuild models or maintain state.
 
-## Aim
+## Purpose
 
 The aim of this work is to define a governed persistence layer that regulators, governance teams, practitioners, and engineers can agree is non-advisory. By carving out this functional layer, the category enables safe continuity and structured reuse without triggering advisory guardrails, so AI systems can operate as intended and users are not forced off-platform to rebuild models or maintain state.
 
