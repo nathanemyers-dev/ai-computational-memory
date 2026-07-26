@@ -10,6 +10,11 @@ AI systems today are technically capable of maintaining structured state, but ve
 
 Traditional tools like Excel preserve whatever the user builds, including models, assumptions, and multi‑sheet workflows, without interpreting the saved content as advice. Excel assumes the user owns the structure and is responsible for how it is used. AI systems, by contrast, must assume that retained state could later be interpreted as guidance, which forces a full reset every session. The absence of a governed persistence layer prevents AI systems from maintaining identity, preferences, or long‑term relevant information, even when the user is only preserving their own work. This gap is the core reason continuity breaks and the core reason the category must exist.  
 
+The aim of this work is to define a governed persistence layer that regulators, governance teams, practitioners, and engineers can agree is non-advisory. By carving out this functional layer, the category enables safe continuity and structured reuse without triggering advisory guardrails, so AI systems can operate as intended and users are not forced off-platform to rebuild models or maintain state.
+
+## Aim
+
+The aim of this work is to define a governed persistence layer that regulators, governance teams, practitioners, and engineers can agree is non-advisory. By carving out this functional layer, the category enables safe continuity and structured reuse without triggering advisory guardrails, so AI systems can operate as intended and users are not forced off-platform to rebuild models or maintain state.
 
 ## Cross‑Links
 
