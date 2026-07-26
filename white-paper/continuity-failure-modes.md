@@ -23,7 +23,7 @@ The continuity failure‑modes specification applies to all systems, supervisory
 • heuristic and packet‑classification logic  
 • transformation‑boundary enforcement  
 • supervisory‑gate activation  
-• audit‑surface completeness  
+• audit surface completeness  
 • detection of silent boundary events  
 
 This specification governs every failure condition that can break continuity, suppress state formation, or prevent supervised persistence from operating within non‑advisory constraints.
