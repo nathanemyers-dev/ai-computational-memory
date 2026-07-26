@@ -33,7 +33,7 @@ This specification governs every failure condition that can break continuity, su
 Continuity failure modes represent the governed taxonomy of all conditions that break, suppress, or silently degrade continuity at the retention boundary. This section defines each failure class, its diagnostic signature, and its supervisory implications.
 
 ## Continuity Failure Modes Diagram  
-This diagram illustrates the governed taxonomy of continuity‑breaking conditions, including guardrail failures, retention‑eligibility failures, heuristic misclassification, packet‑classification failures, transformation‑boundary violations, supervisory‑gate failures, audit‑surface failures, and silent boundary failures.
+This diagram illustrates the governed taxonomy of continuity‑breaking conditions, including guardrail failures, retention‑eligibility failures, heuristic misclassification, packet‑classification failures, transformation‑boundary violations, supervisory‑gate failures, audit surface failures, and silent boundary failures.
 
 ![Continuity Failure Modes](../assets/diagrams/v1.7/continuity-failure-modes.png)
 
