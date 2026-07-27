@@ -62,6 +62,8 @@ Delete operations ensure governed lifecycle management.
 
 **API Boundary Conditions**
 
+The API boundary conditions define the global constraints that govern every interaction with the persistence layer. These conditions apply uniformly across all calls and ensure that the API operates as a non‑advisory, supervised interface that cannot form advisory‑state or produce regulated outputs. 
+
 All API calls must:  
 
 - operate within non‑advisory domains  
