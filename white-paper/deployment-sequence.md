@@ -2,7 +2,7 @@
 
 **Purpose**
 
-The deployment sequence defines the governed path enterprises must follow to introduce computational memory safely into production environments. Continuity cannot be enabled through ad hoc configuration or vendor defaults; it requires a structured, supervised rollout that aligns technical installation with governance controls, supervisory responsibilities, and regulatory expectations. The deployment sequence provides this structure. It ensures that every component of the continuity layer is installed, validated, supervised, and aligned before any persistence operation becomes available to users or systems.
+The deployment sequence establishes the governed, supervised, and compliant path enterprises must follow to introduce computational memory into production environments. It defines the structured rollout required to ensure continuity is installed, activated, validated, and supervised under explicit governance controls and regulatory expectations.
 
 **Scope**
 
