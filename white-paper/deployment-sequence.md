@@ -4,6 +4,10 @@
 
 The deployment sequence defines the governed path enterprises must follow to introduce computational memory safely into production environments. Continuity cannot be enabled through ad hoc configuration or vendor defaults; it requires a structured, supervised rollout that aligns technical installation with governance controls, supervisory responsibilities, and regulatory expectations. The deployment sequence provides this structure. It ensures that every component of the continuity layer is installed, validated, supervised, and aligned before any persistence operation becomes available to users or systems.
 
+**Scope**
+
+The deployment sequence applies to all enterprise environments introducing computational memory under governed constraints. It governs the installation, activation, validation, supervision, and rollout of the continuity layer, including all retention, transformation, access, and supervisory‑control components. The sequence covers only continuity‑layer deployment and does not apply to model behavior, application logic, or advisory‑domain systems. Scope ensures that the deployment sequence is interpreted as a governed activation path for supervised persistence, not a general AI‑system rollout.
+
 ## Preconditions  
 
 Enterprises must define retention boundaries, transformation eligibility, access roles, supervisory responsibilities, and incident escalation paths before deployment. These preconditions ensure that continuity operations can be governed under existing enterprise controls. Vendors must provide the API surface, persistence contract, control mappings, and audit interfaces required for supervised continuity. Preconditions establish the foundation for safe, predictable deployment.
