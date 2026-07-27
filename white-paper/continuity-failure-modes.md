@@ -109,7 +109,7 @@ These failures occur when supervisory controls do not activate correctly or acti
 
 Supervisory gate failures include:  
 
-• missed advisory‑state prevention events  
+• missed advisory state prevention events  
 • incorrect override behavior  
 • incomplete supervisory logging  
 • boundary layer activation without supervisory visibility  
@@ -135,7 +135,7 @@ These failures occur without warnings, without visible guardrail activation, and
 
 Silent boundary failures include:  
 
-• advisory‑state prevention without surfaced warnings  
+• advisory state prevention without surfaced warnings  
 • heuristic rejection without classification logs  
 • retention eligibility rejection without audit visibility  
 • continuity loss caused by boundary layer suppression  
