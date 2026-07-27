@@ -1,6 +1,11 @@
 # Deployment Sequence  
 
-**Preconditions**  
+**Purpose**
+
+The deployment sequence defines the governed path enterprises must follow to introduce computational memory safely into production environments. Continuity cannot be enabled through ad hoc configuration or vendor defaults; it requires a structured, supervised rollout that aligns technical installation with governance controls, supervisory responsibilities, and regulatory expectations. The deployment sequence provides this structure. It ensures that every component of the continuity layer is installed, validated, supervised, and aligned before any persistence operation becomes available to users or systems.
+
+## Preconditions  
+
 Enterprises must define retention boundaries, transformation eligibility, access roles, supervisory responsibilities, and incident escalation paths before deployment. These preconditions ensure that continuity operations can be governed under existing enterprise controls. Vendors must provide the API surface, persistence contract, control mappings, and audit interfaces required for supervised continuity. Preconditions establish the foundation for safe, predictable deployment.
 
 **Phase 1: Environment Preparation**  
