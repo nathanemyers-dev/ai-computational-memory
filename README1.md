@@ -47,7 +47,7 @@ white-paper/reference-architecture.md
 white-paper/deployment-sequence.md  
 white-paper/governance-architecture.md  
 white-paper/operating-model.md  
-white-paper/implementation-path.md  
+white-paper/implementation-path.md (Continuity Layer diagram)    
 white-paper/regulatory-alignment.md  
 white-paper/use-cases.md  
 white-paper/taxonomy.md white-paper/supervised-continuity-test-suite.md (Continuity Layer diagram)  
