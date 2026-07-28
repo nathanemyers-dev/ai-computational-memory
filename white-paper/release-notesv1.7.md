@@ -34,7 +34,7 @@ Version 1.7 installs the diagram layer across all major artifacts, updates the w
 
 **Additions**  
 
-Version 1.7 introduces the complete diagram layer for the computational‑memory category. All diagrams referenced in prior releases are now fully built, placed, and cross‑linked. The white‑paper index has been updated to include authoritative diagram references for each artifact, ensuring stable navigation and eliminating future drift.
+Version 1.7 introduces the complete diagram layer for the computational‑memory category. All diagrams referenced in prior releases are now fully built, placed, and cross‑linked. The white paper index has been updated to include authoritative diagram references for each artifact, ensuring stable navigation.
 
 Version 1.7 finalizes the visual integration across the corpus. Each diagram now includes a consistent title, placement, and structural role aligned with the category definition, glossary, and regulatory spine.
 
@@ -44,7 +44,7 @@ Version 1.7 stabilizes the external‑facing structure for GitHub Pages. All dia
 All v1.6, v1.5, v1.4, v1.3, v1.2, and v1.1 artifacts remain intact. No API surfaces were modified. No backward compatibility issues were introduced.
 
 ## Outcome
-Version 1.7 delivers the full visual layer for the computational‑memory category. It installs all diagrams, stabilizes placement, updates the white‑paper index, and completes the visual expansion planned in Version 1.6. These changes finalize the external‑facing architecture and complete the visual integration for the category.  
+Version 1.7 delivers the full visual layer for the computational‑memory category. It installs all diagrams, stabilizes placement, updates the white paper index, and completes the visual expansion planned in Version 1.6. These changes finalize the external‑facing architecture and complete the visual integration for the category.  
 
 ________________________
 
