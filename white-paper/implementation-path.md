@@ -3,7 +3,7 @@
 The implementation path exists because AI systems cannot enable continuity without a governed method for introducing computational memory into existing architectures. Without a formal sequence for deployment, vendors disable persistence entirely to avoid creating retained state that could be interpreted as advisory activity. The implementation path provides a phased approach for introducing computational memory into existing AI systems. It defines the prerequisites, integration points, and validation steps required to deploy the safe layer at scale without disrupting established workflows.
 
 ### Implementation Path Diagram 
-This diagram illustrates the structured five‑phase path for deploying computational memory safely and predictably across an enterprise, with governance controls ensuring continuity and localized advisory‑state risk during adoption.
+This diagram illustrates the structured five‑phase path for deploying computational memory safely and predictably across an enterprise, with governance controls ensuring continuity and localized advisory state risk during adoption.
 
 ![Implementation Path](../assets/diagrams/v1.7/implementation-path.png)
 
