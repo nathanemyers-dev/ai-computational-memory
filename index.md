@@ -39,7 +39,7 @@ The white paper defines the full governance architecture, operating model, imple
 [deployment sequence](white-paper/deployment-sequence.md)  
 [governance architecture](white-paper/governance-architecture.md)   
 [operating model](white-paper/operating-model.md)  
-[implementation path](white-paper/implementation-path.md)  
+[implementation path](white-paper/implementation-path.md) (Implementation Path diagram)      
 [regulatory alignment](white-paper/regulatory-alignment.md)  
 [use cases](white-paper/use-cases.md)  
 [supervised continuity test suite](white-paper/supervised-continuity-test-suite.md) (Continuity Layer diagram)  
