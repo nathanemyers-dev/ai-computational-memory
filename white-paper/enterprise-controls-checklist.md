@@ -21,7 +21,7 @@ The control categories define the governed surfaces that supervise AI operation 
 
 ### Enterprise Controls Diagram
 
-This diagram illustrates the enterprise control layer that governs supervised AI operation, including governance, risk, compliance, control quadrants, and the system/user/data/audit control stack.
+This diagram illustrates the enterprise control categories required for supervised AI operation. It presents the eight mandatory control layers that govern retention, transformation, deletion, supervision, guardrails, audit, boundaries, and deployment across regulated environments.
 
 ![Enterprise Controls](../assets/diagrams/v1.7/enterprise-controls-layer.png)
 
