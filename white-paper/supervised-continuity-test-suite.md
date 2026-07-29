@@ -31,7 +31,7 @@ It applies to all systems interacting with computational memory, including model
 The test categories define the governed surfaces used to validate continuity under supervised constraints. They classify each test domain, its diagnostic purpose, and the specific retention‑boundary behaviors the suite is designed to verify.
 
 ## Continuity Layer Diagram
-This diagram illustrates the continuity layer that maintains supervised state across advisory interactions, including checkpoints, transformation rules, and retention‑boundary alignment.  
+This diagram illustrates the supervised continuity layer that governs how retained state is captured, validated, reused, and constrained under enterprise oversight to preserve continuity within regulated boundaries.   
 
 ![Continuity Layer](../assets/diagrams/v1.7/continuity-layer1.png)
 
