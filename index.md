@@ -43,7 +43,7 @@ The white paper defines the full governance architecture, operating model, imple
 [regulatory alignment](white-paper/regulatory-alignment.md)  
 [use cases](white-paper/use-cases.md)  
 [supervised continuity test suite](white-paper/supervised-continuity-test-suite.md) (Continuity Layer diagram)  
-[Governed Boundaries Specification](governed-boundaries-specification.md)  (Governed Boundary diagram, Retention Boundary diagram)    
+[governed boundaries specification](governed-boundaries-specification.md)  (Governed Boundary diagram, Retention Boundary diagram)    
 [enterprise controls checklist](white-paper/enterprise-controls-checklist.md) (Enterprise Controls diagram)    
 [continuity failure modes](white-paper/continuity-failure-modes.md) (Continuity Failure Modes diagram)  
 [api surface](white-paper/api-surface.md) (API Surface diagram)  
