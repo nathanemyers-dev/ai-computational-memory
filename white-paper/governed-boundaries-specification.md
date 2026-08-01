@@ -1,11 +1,11 @@
-# Regulated Boundaries Specification  
+# Governed Boundaries Specification  
 
-The regulated boundaries specification exists because computational memory cannot operate safely without a formally defined separation between non‑advisory continuity and advisory activity. This specification establishes the constraints, limits, and supervisory controls that keep persistence within non‑advisory domains and prevent retained packets from forming advisory state. It provides the foundation regulators and governance teams use to classify computational memory as a safe functional layer.
+The governed boundaries specification exists because computational memory cannot operate safely without a formally defined separation between non‑advisory continuity and advisory activity. This specification establishes the constraints, limits, and supervisory controls that keep persistence within non‑advisory domains and prevent retained packets from forming advisory state. It provides the foundation enterprises and governance teams use to classify computational memory as a safe functional layer.
 
 
 **Purpose**  
 
-The purpose of the regulated boundaries specification is to:
+The purpose of the governed boundaries specification is to:
 
 • define the limits of non‑advisory continuity  
 • prevent formation of advisory state at the retention boundary  
@@ -23,14 +23,14 @@ The specification applies to:
 • all transformations applied to retained packets  
 • all supervisory controls governing persistence  
 • all interactions between models and computational memory  
-• all enterprise deployments operating under regulated constraints  
+• all enterprise deployments operating under governed constraints  
 
 It defines what is permitted, what is prohibited, and what requires supervisory oversight.  
 
 ## Regulated Boundary Diagram
-This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the regulated boundary line, supervisory‑control layer, and the storage/state layer.  
+This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the governed boundary line, supervisory‑control layer, and the storage/state layer.  
 
-![Regulated Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
+![Governed Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
 
 **Non‑Advisory Boundary**  
 
@@ -54,8 +54,7 @@ The following packet classes may be retained:
 • computational artifacts  
 • non‑directive analytical structures  
 
-
-These packets support continuity without producing regulated guidance.  
+These packets support continuity without producing liability-bearing guidance.  
 
 **Prohibited Retention**  
 
@@ -63,7 +62,7 @@ The following packet types must never be retained:
 
 • advisory guidance  
 • recommendations  
-• predictions tied to regulated outcomes  
+• predictions tied to governed outcomes  
 • decision‑oriented instructions  
 • directive financial, legal, or medical content  
 • packets that imply suitability, risk, or personalized direction  
@@ -139,7 +138,7 @@ This surface enables regulatory review and enterprise governance.
 
 ## Outcome  
 
-The regulated boundaries specification ensures that computational memory:  
+The governed boundaries specification ensures that computational memory:  
 
 • operates entirely within non‑advisory domains  
 • prevents advisory state formation  
@@ -166,7 +165,7 @@ This specification is required for regulated deployment of computational memory.
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
