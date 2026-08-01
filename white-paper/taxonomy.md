@@ -1,6 +1,6 @@
 # Taxonomy
 
-The AI Computational Memory Category requires a formal taxonomy so regulators, governance teams, practitioners, and engineers can classify its components consistently. The taxonomy defines the structural elements of the category, the boundaries that govern retention, and the supervisory mechanisms that prevent advisory state formation. It provides the classification system that anchors continuity, structured reuse, and safe retention across interactions.
+The AI Computational Memory Category requires a formal taxonomy so practitioners, engineers, and governance teams can classify its components consistently. The taxonomy defines the structural elements of the category, the boundaries that govern retention, and the supervisory mechanisms that prevent advisory state formation. It provides the classification system that anchors continuity, structured reuse, and safe retention across interactions.
 
 The taxonomy has four parts: the layer, the boundaries, the structures, and the supervisory mechanisms.
 ____________________________
@@ -25,7 +25,7 @@ _____________________
 
 ## Structures
 **Analytical Structures**    
-User‑provided models, inputs, parameters, and scaffolding that can be retained safely within the continuity layer. These structures support governed dynamic modeling without producing regulated guidance.
+User‑provided models, inputs, parameters, and scaffolding that can be retained safely within the continuity layer. These structures support governed dynamic modeling without producing liability-bearing guidance.
 
 **State Packets**     
 Discrete units of retained information evaluated against retention eligibility rules. Packets may be accepted, rejected, or supervised depending on identity, preference, long‑term relevance, and advisory‑risk classification.
@@ -35,7 +35,7 @@ Non‑advisory analytical frameworks that support continuity across sessions. Sc
 
 ## Supervisory mechanisms  
 **Supervisory Controls**    
-Governed mechanisms that enforce regulated boundaries, validate retention events, and prevent advisory‑risk structures from persisting.
+Governed mechanisms that enforce supervisory boundaries, validate retention events, and prevent advisory‑risk structures from persisting.
 
 **Supervisory Checkpoints**    
 Evaluation points within the continuity layer that verify compliance, enforce transformation rules, and ensure that retained structures remain non‑advisory.
@@ -47,7 +47,7 @@ Classification logic that determines whether packets are analytical, conversatio
 Governed criteria that determine whether packets may persist. These rules prevent non‑compliant structures from entering the continuity layer.
 
 ## Outcome  
-This taxonomy defines the structural components of the AI Computational Memory Category and provides the classification system required for safe retention, structured reuse, and governed continuity. By establishing the layer, the boundaries, the structures, and the supervisory mechanisms, the taxonomy enables regulators, governance teams, practitioners, and engineers to align on a consistent model for supervised persistence within the non‑advisory domain.
+This taxonomy defines the structural components of the AI Computational Memory Category and provides the classification system required for safe retention, structured reuse, and governed continuity. By establishing the layer, the boundaries, the structures, and the supervisory mechanisms, the taxonomy enables practitioners, engineers, and governance teams to align on a consistent model for supervised persistence within the non‑advisory domain.
 
 ## Cross‑Links
 
@@ -62,7 +62,7 @@ This taxonomy defines the structural components of the AI Computational Memory C
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
