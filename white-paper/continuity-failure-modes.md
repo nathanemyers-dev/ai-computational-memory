@@ -7,7 +7,7 @@ The continuity failure‑modes specification defines the complete taxonomy of co
 The purpose of this specification is to:
 
 • define all known continuity failure modes  
-• establish a governed taxonomy for enterprise and regulatory use  
+• establish a governed taxonomy for enterprise and industry use  
 • surface silent failures that occur without warnings  
 • support supervisory controls and audit requirements  
 • provide the diagnostic foundation for the supervised continuity test suite  
@@ -144,7 +144,7 @@ Silent failures require full diagnostic instrumentation.
 
 ## Outcome  
 
-The continuity failure‑modes specification ensures that enterprises and regulators can:  
+The continuity failure‑modes specification ensures that enterprises, assurance teams, and governance teams can:  
 
 • identify all continuity‑breaking conditions  
 • classify failures consistently  
@@ -152,7 +152,7 @@ The continuity failure‑modes specification ensures that enterprises and regula
 • enforce supervisory controls  
 • maintain governed, non‑advisory continuity  
 
-This taxonomy is required for regulated deployment of computational memory.  
+This taxonomy is required for governed deployment of computational memory.  
 
 _______________________
 
@@ -169,7 +169,7 @@ _______________________
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
