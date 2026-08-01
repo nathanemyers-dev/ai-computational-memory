@@ -54,8 +54,8 @@ ____________________
 **Supervised Continuity Test Suite**  
 See: supervised-continuity-test-suite.md — Diagram: Continuity Layer
 
-**Regulated Boundaries Specification**  
-See: regulated-boundaries-specification.md — Diagrams: Regulated Boundary, Retention Boundary 
+**Governed Boundaries Specification**  
+See: governed-boundaries-specification.md — Diagrams: Governed Boundary, Retention Boundary 
 
 **Enterprise Controls Checklist**  
 See: enterprise-controls-checklist.md — Diagram: Enterprise Controls
