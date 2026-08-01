@@ -27,7 +27,7 @@ The specification applies to:
 
 It defines what is permitted, what is prohibited, and what requires supervisory oversight.  
 
-## Regulated Boundary Diagram
+## Governed Boundary Diagram
 This diagram illustrates the separation between the advisory zone and the supervised‑retention zone, including the governed boundary line, supervisory‑control layer, and the storage/state layer.  
 
 ![Governed Boundaries](../assets/diagrams/v1.7/regulated-boundary.png)
