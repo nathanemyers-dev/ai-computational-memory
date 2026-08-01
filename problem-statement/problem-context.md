@@ -6,7 +6,7 @@ Memory fails silently because the system must prevent the formation of advisory 
 
 There are three independent reasons why continuity breaks. Advisory guardrails prevent the system from retaining information that could later produce regulated guidance. Retention eligibility rules reject packets that are not identity, preference, or long-term relevant. Interpretation heuristics classify some packets as conversational or instruction-like and drop them to avoid forming durable state. These gates operate at the memory boundary, so failures do not surface warnings.
 
-Enterprises cannot deliver continuity, predictability, or governed dynamic modeling because there is no defined regulatory category for non-advisory computational memory. Vendors cannot implement safe persistence layers because any retained structure is treated as advice. Regulators cannot supervise the space because the functional layer itself is undefined.
+Enterprises cannot deliver continuity, predictability, or governed dynamic modeling because there is no defined regulatory category for non-advisory computational memory. Vendors cannot implement safe persistence layers because any retained structure is treated as advice. Governance and assurance teams cannot supervise the space because the functional layer itself is undefined.
 
 The absence of this category blocks enterprise scale adoption, breaks repeatability, and prevents AI systems from operating as stable analytical surfaces. Without a formal definition, a taxonomy, and a governance architecture, the industry cannot align on what can be retained, how it can be transformed, and where supervisory controls must apply.
 
@@ -29,7 +29,7 @@ Additional examples of user impact: [examples.md](examples.md)
 [Operating Model](/white-paper/operating-model.md)  
 [Implementation Path](/white-paper/implementation-path.md)  
 [Enterprise Deployment Pattern](/white-paper/enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](/white-paper/regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](/white-paper/supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](/white-paper/supervised-continuity-test-suite.md)  
 [API Surface](/white-paper/api-surface.md)  
