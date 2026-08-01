@@ -103,7 +103,7 @@ Excel can do this without triggering advisory gates: **Yes**
 [Operating Model](/white-paper/operating-model.md)  
 [Implementation Path](/white-paper/implementation-path.md)  
 [Enterprise Deployment Pattern](/white-paper/enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](/white-paper/regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](/white-paper/supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](/white-paper/supervised-continuity-test-suite.md)  
 [API Surface](/white-paper/api-surface.md)  
