@@ -20,7 +20,7 @@ Index.md has been updated to include glossary.md and references.md in the correc
 Adds the formal distinction between continuity, continuity layer, continuity failure modes, and continuity loss. Clarifies how supervisory gates, retention boundaries, and interpretation heuristics interact to prevent advisory state formation.
 
 **Regulatory Alignment**    
-Strengthens the mapping between computational memory and external regulatory frameworks. Aligns terminology with NIST AI RMF, ISO/IEC 42001, EU AI Act, OCC supervisory expectations, and UK AI Safety Institute publications.
+Strengthens the mapping between computational memory and external frameworks from standard-setting bodies and regulators. Aligns terminology with NIST AI RMF, ISO/IEC 42001, EU AI Act, OCC supervisory expectations, and UK AI Safety Institute publications.
 
 **No Breaking Changes**    
 All v1.3, v1.2, and v1.1 artifacts remain intact. No API surfaces were modified. No backward compatibility issues were introduced.
