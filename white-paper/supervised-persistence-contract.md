@@ -16,7 +16,7 @@ The supervised persistence contract applies to all systems, roles, and operation
 - supervisory review and audit surfaces
 - enforcement of advisory state prevention gates
 
-The contract governs every retention, transformation, and access operation across all enterprise deployments operating under regulated constraints. It defines what is permitted, what is prohibited, and what requires supervisory oversight.
+The contract governs every retention, transformation, and access operation across all enterprise deployments operating under governed constraints. It defines what is permitted, what is prohibited, and what requires supervisory oversight.
 
 ## Supervised Persistence Contract Diagram  
 This diagram illustrates the supervised persistence contract governing retention eligibility, non‑advisory transformations, access restrictions, supervisory‑control enforcement, and advisory state prevention across the persistence layer.
@@ -29,11 +29,11 @@ Supervisory enforcement ensures that every persistence‑layer operation is gove
 - validation of retention eligibility
 - verification of non‑advisory transformation behavior
 - access‑control enforcement for authorized systems and roles
-- audit‑surface completeness checks
+- audit surface completeness checks
 - supervisory overrides for boundary violations
 - automatic rejection of advisory‑state formation
 
-These enforcement mechanisms ensure that continuity remains predictable, controlled, and aligned with regulatory expectations.
+These enforcement mechanisms ensure that continuity remains predictable, controlled, and aligned with advisory state prevention expectations.
 
 **Retention Eligibility Requirements**  
 Only identity, preference, and long-term relevant structures may be retained.
@@ -48,7 +48,7 @@ Only authorized systems and roles may read or write to the persistence layer.
 Every operation is subject to governance review, auditability requirements, and compliance validation.
 
 **State Formation Prevention**  
-The contract enforces the rule that computational memory cannot form advisory-state. Any operation that would create advisory exposure is rejected automatically.
+The contract enforces the rule that computational memory cannot form advisory state. Any operation that would create advisory exposure is rejected automatically.
 
 The supervised persistence contract ensures that continuity is governed, predictable, and compliant across all environments.
 
@@ -78,7 +78,7 @@ Computational memory remains a foundation layer that supports decision systems w
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
