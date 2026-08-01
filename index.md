@@ -10,7 +10,7 @@ There are three independent reasons why continuity breaks. Advisory guardrails p
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.  
 
-The aim of this work is to establish a formal category for supervised AI persistence so regulators, governance teams, practitioners, and engineers can align on a safe continuity layer that does not fall under advisory guardrails. The goal is to create consensus and drive the regulatory carve out needed for AI systems to maintain structured state and operate as intended without forcing users off platform.  
+The aim of this work is to establish a formal category for supervised AI persistence so practitioners, engineers, and governance teams can align on a safe continuity layer that does not fall under advisory guardrails. The goal is to create consensus and drive the regulatory carve out needed for AI systems to maintain structured state and operate as intended without forcing users off platform.  
 
 ### Examples:
 
@@ -43,7 +43,7 @@ The white paper defines the full governance architecture, operating model, imple
 [regulatory alignment](white-paper/regulatory-alignment.md)  
 [use cases](white-paper/use-cases.md)  
 [supervised continuity test suite](white-paper/supervised-continuity-test-suite.md) (Continuity Layer diagram)  
-[regulated boundaries specification](white-paper/regulated-boundaries-specification.md)  (Regulated Boundary diagram, Retention Boundary diagram)    
+[Governed Boundaries Specification](governed-boundaries-specification.md)  (Governed Boundary diagram, Retention Boundary diagram)    
 [enterprise controls checklist](white-paper/enterprise-controls-checklist.md) (Enterprise Controls diagram)    
 [continuity failure modes](white-paper/continuity-failure-modes.md) (Continuity Failure Modes diagram)  
 [api surface](white-paper/api-surface.md) (API Surface diagram)  
@@ -63,7 +63,7 @@ ___________________________________________
 
 This site provides the complete category definition and technical specification for AI computational memory. It establishes the rules, boundaries, and supervisory controls required for safe persistence in enterprise AI systems.
 
-Version 1.7 installs the complete diagram layer for the category, including regulated boundaries, retention boundaries, supervised persistence contract, API surface, continuity layer, enterprise controls, and continuity failure modes.
+Version 1.7 installs the complete diagram layer for the category, including governed boundaries, retention boundaries, supervised persistence contract, API surface, continuity layer, enterprise controls, and continuity failure modes.
 
 ## Full Corpus  
 See: /white-paper/index.md
@@ -83,8 +83,8 @@ Introduces the enterprise implementation layer, including the deployment pattern
 **Version 1.3 — Modular corpus, routing, attribution, and structural alignment**    
 Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.  
 
-**Version 1.4 — Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes**    
-Defines the supervised continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy required for regulated deployment.  
+**Version 1.4 — Continuity Test Suite, Governed Boundaries, Enterprise Controls, Failure Modes**    
+Defines the supervised continuity test suite, governed boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy required for regulated deployment.  
 
 **Version 1.5 — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability**
 Defines the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, and verifies external-facing pages routing. Adds diagram placeholders, harmonizes conceptual models, and prepares corpus for future visual integration.
