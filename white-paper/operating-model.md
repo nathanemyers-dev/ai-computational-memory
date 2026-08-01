@@ -15,7 +15,7 @@ Control points are the checkpoints where the memory layer is validated, monitore
 The interaction model defines how systems and users engage with computational memory. It specifies how information is written, how it is retrieved, and how it is reused. It ensures that interactions remain analytical and do not produce personalized guidance. It also ensures that the system can maintain state without triggering advisory guardrails or creating unbounded retention.
 
 **Update Process**  
-The update process governs how retained structures are modified or replaced. It defines the conditions under which updates can occur and the validations required before changes are applied. This process ensures that updates do not introduce advisory content or unsafe transformations and that the memory layer remains compliant with regulatory expectations.
+The update process governs how retained structures are modified or replaced. It defines the conditions under which updates can occur and the validations required before changes are applied. This process ensures that updates do not introduce advisory content or unsafe transformations and that the memory layer remains compliant with supervisory expectations.
 
 **Incident Handling**  
 Incident handling defines how deviations, violations, or unexpected behaviors are managed. It includes detection, escalation, review, and remediation steps. This ensures that any misuse or malfunction of the memory layer is addressed quickly and transparently and that continuity remains within safe boundaries.
@@ -47,7 +47,7 @@ A diagram will be added here in v1.6 to illustrate the structure, boundaries, or
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
