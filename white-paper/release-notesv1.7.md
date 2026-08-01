@@ -13,7 +13,7 @@ Version 1.7 installs the diagram layer across all major artifacts, updates the w
 - Diagram references added to the white‑paper index
 - Naming drift removed across diagram titles and page mappings
 - Cross‑links stabilized for all diagram‑bearing artifacts
-- Regulated Boundaries Specification updated with dual‑diagram structure
+- Governed Boundaries Specification updated with dual‑diagram structure
 - Continuity Layer diagram integrated into the supervised continuity test suite
 - Enterprise Controls diagram finalized and placed in the checklist
 - API Surface and Persistence Contract visuals completed
@@ -36,7 +36,7 @@ Version 1.7 installs the diagram layer across all major artifacts, updates the w
 
 Version 1.7 introduces the complete diagram layer for the computational‑memory category. All diagrams referenced in prior releases are now fully built, placed, and cross‑linked. The white paper index has been updated to include authoritative diagram references for each artifact, ensuring stable navigation.
 
-Version 1.7 finalizes the visual integration across the corpus. Each diagram now includes a consistent title, placement, and structural role aligned with the category definition, glossary, and regulatory spine.
+Version 1.7 finalizes the visual integration across the corpus. Each diagram now includes a consistent title, placement, and structural role aligned with the category definition, glossary, and governance spine.
 
 Version 1.7 stabilizes the external‑facing structure for GitHub Pages. All diagram‑bearing artifacts now render cleanly, link correctly, and present a unified visual architecture for enterprise readers.
 
