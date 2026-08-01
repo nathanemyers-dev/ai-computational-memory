@@ -71,7 +71,7 @@ These packets would form advisory state and are rejected at the retention bounda
 
 **Supervisory Controls**
 
-Supervisory controls enforce regulated boundaries through:  
+Supervisory controls enforce governed boundaries through:  
 
 • retention eligibility gates  
 • advisory‑state prevention gates  
