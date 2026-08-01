@@ -1,6 +1,6 @@
 # Version 1.4 Release Notes  
 
-Version 1.4 strengthens the publication layer, introduces the glossary and references sections, and finalizes the structural alignment required for external consumption. This release completes the documentation spine, clarifies routing, and prepares the corpus for industry and regulatory review.
+Version 1.4 strengthens the publication layer, introduces the glossary and references sections, and finalizes the structural alignment required for external consumption. This release completes the documentation spine, clarifies routing, and prepares the corpus for industry and governance review.
 
 ## New Artifacts
 
