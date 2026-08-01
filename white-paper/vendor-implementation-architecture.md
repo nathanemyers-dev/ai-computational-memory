@@ -4,11 +4,11 @@ The vendor implementation architecture defines how AI vendors must implement the
 
 **Purpose**
 
-The purpose of the vendor implementation architecture is to ensure that vendors implement the continuity layer correctly. Without explicit engineering requirements, vendors default to advisory treatment and disable persistence entirely. This architecture defines the components, boundaries, controls, and supervisory mechanisms vendors must implement so the continuity layer can operate safely within regulated domains.
+The purpose of the vendor implementation architecture is to ensure that vendors implement the continuity layer correctly. Without explicit engineering requirements, vendors default to advisory treatment and disable persistence entirely. This architecture defines the components, boundaries, controls, and supervisory mechanisms vendors must implement so the continuity layer can operate safely within governed domains.
 
 **Scope**  
 
-The scope of the vendor implementation architecture defines the engineering surfaces vendors must implement to support governed persistence. It establishes the retention, transformation, routing, supervisory, and audit mechanisms required to maintain compliance with regulated boundaries. Scope clarifies what vendors are responsible for, how components must interact, and the constraints that prevent advisory state formation during continuity operations.
+The scope of the vendor implementation architecture defines the engineering surfaces vendors must implement to support governed persistence. It establishes the retention, transformation, routing, supervisory, and audit mechanisms required to maintain compliance with governed boundaries. Scope clarifies what vendors are responsible for, how components must interact, and the constraints that prevent advisory state formation during continuity operations.
 
 ## Required Components
 
@@ -24,7 +24,7 @@ Enforces transformation rules and prevents analytical transformations from becom
 Routes continuity operations through the governed persistence layer and isolates them from inference. It ensures that retained structures cannot influence model behavior.
 
 **Supervisory Layer**  
-Implements supervisory checkpoints, role‑based controls, and compliance enforcement. It validates retention, transformation, and access operations against regulated boundaries.
+Implements supervisory checkpoints, role‑based controls, and compliance enforcement. It validates retention, transformation, and access operations against governed boundaries.
 
 **Audit Surface**  
 Exposes audit events for all continuity operations. It provides traceability, accountability, and verification for enterprises and regulators.
@@ -62,7 +62,7 @@ Define which systems or roles may read, write, or supervise the continuity layer
 Enforce compliance with governance rules and prevent advisory state formation.
 
 **Audit Controls**  
-Provide visibility into all continuity operations and ensure compliance with regulatory requirements.
+Provide visibility into all continuity operations and ensure compliance with supervisory requirements.
 
 ## Required Engineering Steps
 
@@ -91,7 +91,7 @@ Vendors must provide the interfaces defined in the API surface:
 Implements retention rules, transformation rules, and supervisory requirements.
 
 **Audit Event Stream**  
-Exposes all continuity operations for enterprise and regulatory review.
+Exposes all continuity operations for enterprise and assurance review.
 
 **Supervisory Hooks**  
 Allow governance systems to validate, monitor, and enforce compliance.
@@ -116,7 +116,7 @@ The vendor implementation architecture ensures that vendors implement the comput
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
