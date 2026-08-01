@@ -1,7 +1,7 @@
 Computational Memory Corpus — Index of Record
 
-**1. regulated‑boundaries‑specification.md**
-   Defines the regulated boundaries, advisory‑state constraints, and the non‑advisory domain.
+**1. governed‑boundaries‑specification.md**
+   Defines the governed boundaries, advisory state constraints, and the non‑advisory domain.
 
 **2. supervised‑persistence‑contract.md**
    Establishes retention rules, transformation rules, supervisory gates, and audit requirements.
