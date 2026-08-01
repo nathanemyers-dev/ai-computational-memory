@@ -10,14 +10,14 @@ The purpose of this checklist is to:
 • ensure supervisory visibility across all retention, transformation, and deletion operations  
 • prevent advisory state formation at the memory boundary  
 • provide a repeatable, auditable control framework for enterprise governance teams  
-• align enterprise controls with regulatory expectations for non‑advisory continuity  
+• align enterprise controls with governance expectations for non‑advisory continuity  
 
 These controls are mandatory for any production deployment.  
 
 _____________________________
 ## Control Categories
 
-The control categories define the governed surfaces that supervise AI operation across enterprise environments. They establish the governance, risk, compliance, and control‑layer structures required to ensure supervised, non‑advisory behavior at every system boundary
+The control categories define the governed surfaces that supervise AI operation across enterprise environments. They establish the governance, risk, compliance, and control layer structures required to ensure supervised, non‑advisory behavior at every system boundary
 
 ### Enterprise Controls Diagram
 
@@ -35,7 +35,7 @@ Enterprises must implement controls that enforce:
 • deterministic retention behavior under governed constraints  
 • full logging of retention decisions  
 
-Retention controls prevent advisory-state formation.  
+Retention controls prevent advisory state formation.  
 
 **2. Transformation Controls**  
 
@@ -69,21 +69,21 @@ Supervisory controls must provide:
 • guardrail‑activation telemetry  
 • classification‑heuristic reporting  
 • supervisory override mechanisms  
-• enforcement of regulated boundaries  
+• enforcement of governed supervisory boundaries  
 
-Supervisory controls ensure safe operation under regulated constraints.  
+Supervisory controls ensure safe operation under governed constraints.  
 
 **5. Guardrail Controls**  
 
 Enterprises must implement guardrail controls that:  
 
-• prevent advisory-state formation  
+• prevent advisory state formation  
 • detect advisory‑activity attempts  
 • reject directive transformations  
 • enforce advisory boundary constraints  
 • surface silent guardrail activation events  
 
-Guardrail controls protect regulated boundaries.  
+Guardrail controls protect governed boundaries.  
 
 **6. Audit Controls**
 
@@ -96,7 +96,7 @@ Audit controls must provide:
 • boundary layer behavior  
 • continuity failure detection  
 
-Audit controls enable regulatory review and enterprise governance.  
+Audit controls enable supervisory review and enterprise governance.  
 
 **7. Boundary Controls**  
 
@@ -130,7 +130,7 @@ The enterprise controls checklist ensures that computational memory:
 • enforces governed retention, transformation, and deletion  
 • maintains supervisory visibility  
 • provides complete auditability  
-• supports regulated, enterprise‑grade continuity  
+• supports governed, enterprise‑grade continuity  
 
 These controls are required for regulated deployment of computational memory.  
 
@@ -147,7 +147,7 @@ These controls are required for regulated deployment of computational memory.
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
