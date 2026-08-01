@@ -15,15 +15,15 @@ Governance operations benefit from predictable and supervised retention. Computa
 Model behavior stability requires a controlled persistence layer that prevents resets from disrupting performance. Computational memory provides a safe mechanism for maintaining non‑advisory structures that support consistent behavior across sessions. It ensures that continuity does not influence inference, alter model logic, or create advisory‑adjacent outputs.
 
 **Cross-System Coordination**  
-Cross‑system coordination depends on shared structures that persist across environments. Computational memory enables these structures to exist without creating advisory outputs or directional guidance. It improves alignment across enterprise systems while maintaining regulated boundaries and preventing continuity from leaking into advisory domains.
+Cross‑system coordination depends on shared structures that persist across environments. Computational memory enables these structures to exist without creating advisory outputs or directional guidance. It improves alignment across enterprise systems while maintaining governed boundaries and preventing continuity from leaking into advisory domains.
 
 **Regulated Deployment Scenarios**  
-Regulated environments require continuity that is supervised, predictable, and non‑advisory. Computational memory supports regulated deployment by providing deterministic retention, bounded transformations, and complete audit visibility. It ensures that continuity can operate safely without generating regulated outputs or influencing model behavior.  
+Regulated environments require continuity that is supervised, predictable, and non‑advisory. Computational memory supports regulated deployment by providing deterministic retention, bounded transformations, and complete audit visibility. It ensures that continuity can operate safely without generating liability-bearing outputs or influencing model behavior.  
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.
 
 ## Outcome   
-Use cases demonstrate how computational memory provides safe continuity across a range of enterprise scenarios. They show how the persistence layer supports stability, governance, and coordination without entering regulated domains.
+Use cases demonstrate how computational memory provides safe continuity across a range of enterprise scenarios. They show how the persistence layer supports stability, governance, and coordination without entering advisory domains.
 
 ## Cross‑Links
 
@@ -38,7 +38,7 @@ Use cases demonstrate how computational memory provides safe continuity across a
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
