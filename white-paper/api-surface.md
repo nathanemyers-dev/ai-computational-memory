@@ -45,7 +45,7 @@ A transform operation must:
 - validate transformation boundaries through supervisory gates  
 - log all transformation events  
 
-Transform operations enable structured reuse without advisory‑state formation.    
+Transform operations enable structured reuse without advisory state formation.    
 
 **Delete Operation (Remove)**  
 A governed removal mechanism subject to supervisory controls and compliance requirements.  
@@ -62,7 +62,7 @@ Delete operations ensure governed lifecycle management.
 
 **API Boundary Conditions**
 
-The API boundary conditions define the global constraints that govern every interaction with the persistence layer. These conditions apply uniformly across all calls and ensure that the API operates as a non‑advisory, supervised interface that cannot form advisory‑state or produce regulated outputs. 
+The API boundary conditions define the global constraints that govern every interaction with the persistence layer. These conditions apply uniformly across all calls and ensure that the API operates as a non‑advisory, supervised interface that cannot form advisory state or produce liability-bearing outputs. 
 
 All API calls must:  
 
