@@ -30,7 +30,7 @@ Align practitioners, engineers, governance teams on the category and effect the 
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Gpverned Boundaries Specification](governed-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
