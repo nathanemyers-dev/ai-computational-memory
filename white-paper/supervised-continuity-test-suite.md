@@ -1,6 +1,6 @@
 # Supervised Continuity Test Suite  
 
-The supervised continuity test suite exists because AI systems cannot maintain safe persistence without a governed method for validating continuity at the memory boundary. Continuity fails silently when retained state is classified as advisory activity, and vendors respond by disabling persistence entirely. The test suite defines the governed validation framework for ensuring that computational memory operates safely, predictably, and without entering advisory domains. It provides the formal testing structure required for enterprises, regulators, and governance teams to verify that continuity is preserved under supervised constraints and that no advisory-state is formed at the retention boundary.
+The supervised continuity test suite exists because AI systems cannot maintain safe persistence without a governed method for validating continuity at the memory boundary. Continuity fails silently when retained state is classified as advisory activity, and vendors respond by disabling persistence entirely. The test suite defines the governed validation framework for ensuring that computational memory operates safely, predictably, and without entering advisory domains. It provides the formal testing structure required for enterprises, assurance teams, and governance teams to verify that continuity is preserved under supervised constraints and that no advisory-state is formed at the retention boundary.
 
 **Purpose**  
 The purpose of the test suite is to:
@@ -11,7 +11,7 @@ The purpose of the test suite is to:
 • confirm that supervised persistence operates within non‑advisory constraints  
 • provide a repeatable, auditable method for pre‑deployment verification  
 
-This suite is required for any enterprise deploying computational memory in regulated environments.  
+This suite is required for any enterprise deploying computational memory in governed environments.  
 
 **Scope**  
 The test suite covers:  
@@ -139,7 +139,7 @@ Successful execution of the supervised continuity test suite demonstrates that c
 • prevents advisory-state formation  
 • provides predictable, enterprise‑grade behavior  
 
-This suite is required for regulated deployment of computational memory.  
+This suite is required for governed deployment of computational memory.  
 
 
 ## Cross‑Links
@@ -155,7 +155,7 @@ This suite is required for regulated deployment of computational memory.
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Governed Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
