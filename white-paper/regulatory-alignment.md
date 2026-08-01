@@ -8,7 +8,7 @@ The purpose of regulatory alignment is to demonstrate that computational memory 
 
 **Scope**    
 
-The scope of regulatory alignment defines the operational boundaries within which computational memory can be safely deployed. It establishes the conditions, constraints, and supervisory expectations that govern the persistence layer, ensuring that retention, transformation, and access patterns remain within non advisory domains. Scope clarifies what computational memory is permitted to retain, how retained structures may be used, and the supervisory surfaces required to maintain compliance under existing regulatory frameworks.
+The scope of regulatory alignment defines the operational boundaries within which computational memory can be safely deployed. It establishes the conditions, constraints, and supervisory expectations that govern the persistence layer, ensuring that retention, transformation, and access patterns remain within non-advisory domains. Scope clarifies what computational memory is permitted to retain, how retained structures may be used, and the supervisory surfaces required to maintain compliance under existing regulatory frameworks.
 
 ## Governance Surfaces  
 Governance surfaces define the structural points where supervisory expectations interact with the persistence layer. They establish the reviewable, observable, and enforceable interfaces that allow regulators and governance teams to assess how computational memory operates within defined boundaries.
