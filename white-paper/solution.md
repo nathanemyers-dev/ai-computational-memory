@@ -9,13 +9,13 @@ The solution has four parts:
 Establish computational memory as a governed layer beneath the model that retains structure, inputs, and transform operations without entering advisory domains. This layer does not generate guidance. It preserves user provided models, parameters, and analytical scaffolding so the system can operate with continuity. The layer is supervised, constrained, and explicitly separated from decision logic. By defining this layer, the category establishes a boundary where retention is permitted and advisory activity is not.
 
 **2. Demonstrate equivalence to existing non-advisory tools**  
-Show that this layer behaves like Excel or any other analytical surface that saves models without producing regulated guidance. These tools save models, formulas, and inputs without producing regulated guidance. Computational memory performs the same function: it stores structure and state so users do not rebuild models each session. Demonstrating equivalence allows regulators and governance teams to classify the layer as non-advisory because it mirrors established tools already treated as non-advisory.
+Show that this layer behaves like Excel or any other analytical surface that saves models without producing liability-bearing guidance. These tools save models, formulas, and inputs without producing advisory guidance. Computational memory performs the same function: it stores structure and state so users do not rebuild models each session. Demonstrating equivalence allows regulators and governance teams to classify the layer as non-advisory because it mirrors established tools already treated as non-advisory.
 
 **3. Propose regulatory treatment**  
-Provide a governance architecture and supervisory controls that allow regulators and governance teams to classify this layer as non-advisory. This includes defining retention boundaries, transformation rules, supervisory checkpoints, and the separation between persistence and decision logic. Regulatory treatment focuses on the continuity layer, not the model. By carving out this layer, regulators can supervise continuity without treating retained structure as advice.
+Provide a governance architecture and supervisory controls that allow enterprises and governance teams to classify this layer as non-advisory. This includes defining retention boundaries, transformation rules, supervisory checkpoints, and the separation between persistence and decision logic. Regulatory treatment focuses on the continuity layer, not the model. By carving out this layer, governance and assurance teams can supervise continuity without treating retained structure as advice.
 
 **4. Build consensus and implement**  
-Align regulators, governance teams, practitioners, and engineers on the category and effect the streamlined process that allows memory to persist safely across interactions. This includes updating internal governance frameworks, adjusting vendor guardrails, and applying supervisory controls that allow safe persistence. Consensus enables the industry to treat computational memory as a standard layer within AI decision infrastructure. Implementation allows memory to persist safely across interactions without triggering advisory guardrails.
+Align practitioners, engineers, governance teams on the category and effect the streamlined process that allows memory to persist safely across interactions. This includes updating internal governance frameworks, adjusting vendor guardrails, and applying supervisory controls that allow safe persistence. Consensus enables the industry to treat computational memory as a standard layer within AI decision infrastructure. Implementation allows memory to persist safely across interactions without triggering advisory guardrails.
 
 ## Cross‑Links
 
@@ -30,7 +30,7 @@ Align regulators, governance teams, practitioners, and engineers on the category
 [Operating Model](operating-model.md)  
 [Implementation Path](implementation-path.md)  
 [Enterprise Deployment Pattern](enterprise-deployment-pattern.md)  
-[Regulated Boundaries Specification](regulated-boundaries-specification.md)  
+[Gpverned Boundaries Specification](governed-boundaries-specification.md)  
 [Supervised Persistence Contract](supervised-persistence-contract.md)  
 [Supervised Continuity Test Suite](supervised-continuity-test-suite.md)  
 [API Surface](api-surface.md)  
