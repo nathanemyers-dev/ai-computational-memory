@@ -62,19 +62,19 @@ Defines placement in the enterprise stack, interfaces, guarantees, boundaries, c
 The white paper corpus is now modular. Each major section is a standalone file. The internal index.md has been updated to reference the v1.3 artifacts. Legacy v1.2 and v1.1 sections remain available for backward compatibility.
 
 ### Continuity Clarification  
-Adds the formal explanation of silent memory failure. Clarifies that non persistence is not evidence of advisory guardrail activation, but advisory guardrail activation always produces non persistence. Documents the three causes of silent failure: advisory guardrails, retention eligibility rules, and interpretation heuristics.
+Adds the formal explanation of silent memory failure. Clarifies that non-persistence is not evidence of advisory guardrail activation, but advisory guardrail activation always produces non-persistence. Documents the three causes of silent failure: advisory guardrails, retention eligibility rules, and interpretation heuristics.
 
 ### Regulatory Alignment  
-Strengthens the supervisory framing for retention, transformation, and access. Clarifies that computational memory is a non advisory functional layer and cannot produce personalized guidance.
+Strengthens the supervisory framing for retention, transformation, and access. Clarifies that computational memory is a non-advisory functional layer and cannot produce personalized guidance.
 
 ### Future Additons  
-Version 1.4 will introduce the glossary and references sections, complete the publication layer, and finalize routing alignment across the corpus. It will also strengthen continuity terminology, clarify boundary interactions, and align the category with external regulatory frameworks.  
+Version 1.4 will introduce the glossary and references sections, complete the publication layer, and finalize routing alignment across the corpus. It will also strengthen continuity terminology, clarify boundary interactions, and align the category with external frameworks from standard-setting bodies.  
 
 ### No Breaking Changes  
 All v1.2 and v1.1 artifacts remain intact. No API surfaces were modified. No backward compatibility issues were introduced.
 
 ## Outcome  
-Version 1.3 establishes the modular corpus, introduces the foundational definition layer, and aligns the category with enterprise deployment patterns. These changes provide the structural base required for the regulatory and continuity expansions delivered in later releases.
+Version 1.3 establishes the modular corpus, introduces the foundational definition layer, and aligns the category with enterprise deployment patterns. These changes provide the structural base required for the governance and continuity expansions delivered in later releases.
 
 
 ________________
