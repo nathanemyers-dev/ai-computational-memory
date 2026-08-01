@@ -8,15 +8,15 @@ AI systems today operate without a defined persistence layer. Guardrails force f
 While non-persistence is not evidence of advisory guardrail activation, advisory guardrail activation always produces non-persistence. Guardrails can activate at the retention boundary without surfacing warnings because they prevent advisory state, not advisory output. Memory can fail silently for three reasons: advisory guardrails, retention eligibility rules, or interpretation heuristics.
 
 Category Definition  
-Computational memory is a functional layer that separates non-advisory continuity from advisory activity. It defines what can be retained, how it can be transformed, and where supervisory controls apply. It provides a formal boundary between safe persistence and regulated guidance.
+Computational memory is a functional layer that separates non-advisory continuity from advisory activity. It defines what can be retained, how it can be transformed, and where supervisory controls apply. It provides a formal boundary between safe persistence and supervisory guidance.
 
 Computational memory is the foundation layer that supports decision systems, not a decision system itself.  
 
 Aim  
-The aim of this work is to establish a governed persistence layer that regulators, governance teams, practitioners, and engineers can classify as non-advisory. By defining this functional layer, the category enables safe continuity and structured reuse without triggering advisory guardrails, so AI systems can operate as intended and users are not forced off platform to rebuild models or maintain state.
+The aim of this work is to establish a governed persistence layer that practitioners, engineers, and governance teams can classify as non-advisory. By defining this functional layer, the category enables safe continuity and structured reuse without triggering advisory guardrails, so AI systems can operate as intended and users are not forced off platform to rebuild models or maintain state.
 
 Solution  
-The solution is to define a formal functional layer within AI decision infrastructure that receives distinct regulatory treatment. This layer is the computational memory surface that supports continuity, structured reuse, and supervised retention. It operates no differently than how Excel saves a model without producing advice. By establishing this layer as non-advisory, the category provides a clear governance path for safe persistence.
+The solution is to define a formal functional layer within AI decision infrastructure that receives distinct governance treatment. This layer is the computational memory surface that supports continuity, structured reuse, and supervised retention. It operates no differently than how Excel saves a model without producing advice. By establishing this layer as non-advisory, the category provides a clear governance path for safe persistence.
 
 The solution has four parts:  
 
@@ -27,10 +27,10 @@ Establish computational memory as a governed layer beneath the model that retain
 Show that this layer behaves like Excel or any other computational surface that saves models without producing regulated guidance.
 
 3. Propose regulatory treatment  
-Provide a governance architecture and supervisory controls that allow regulators and governance teams to classify this layer as non-advisory.
+Provide a governance architecture and supervisory controls that allow enterprises, assurance teams, and governance teams to classify this layer as non-advisory.
 
 4. Build consensus and implement  
-Align regulators, governance teams, practitioners, and engineers on the category and effect the streamlined process that allows memory to persist safely across interactions.
+Align engineers, practitioners, and governance teams on the category and effect the streamlined process that allows memory to persist safely across interactions.
 
 White Paper  
 The white paper provides the full technical and governance specification for computational memory. It defines the rules, operating model, implementation path, regulatory alignment, and use cases required for safe deployment. The white paper now includes the full visual architecture for computational memory, with seven diagrams placed across six artifacts.
@@ -52,7 +52,7 @@ white-paper/regulatory-alignment.md
 white-paper/use-cases.md  
 white-paper/taxonomy.md 
 white-paper/supervised-continuity-test-suite.md (Continuity Layer diagram)  
-white-paper/regulated-boundaries-specification.md (Regulated Boundary diagram, Retention Boundary diagram)  
+white-paper/governed-boundaries-specification.md (Governed Boundary diagram, Retention Boundary diagram)  
 white-paper/enterprise-controls-checklist.md (Enterprise Controls diagram)  
 white-paper/continuity-failure-modes.md (Continuity Failure Modes diagram)  
 white-paper/api-surface.md (API Surface diagram)  
@@ -63,7 +63,7 @@ white-paper/vendor-implementation-architecture.md
 Outcome  
 This repository establishes the category definition, problem statement, and full governance architecture for AI computational memory. It provides the foundation for supervised continuity that remains within non-advisory boundaries and supports enterprise-grade AI.
 
-Version 1.7 installs the complete diagram layer for the category, including regulated boundaries, retention boundaries, supervised persistence contract, API surface, continuity layer, enterprise controls, and continuity failure modes.
+Version 1.7 installs the complete diagram layer for the category, including governed boundaries, retention boundaries, supervised persistence contract, API surface, continuity layer, enterprise controls, and continuity failure modes.
 
 Version  
 1.0
@@ -83,7 +83,7 @@ white-paper/release-notesv1.3.md — Modular corpus, routing, attribution, and s
 Introduces the modular corpus structure, relocates release notes into the white-paper directory, aligns attribution, and finalizes internal routing for the category.
 
 white-paper/release-notesv1.4.md — Glossary, References, Publication Layer, Continuity Test Suite, Regulated Boundaries, Enterprise Controls, Failure Modes  
-Introduces the glossary and references sections, completes the publication layer, aligns routing, strengthens continuity terminology, updates regulatory alignment, and adds the continuity test suite, regulated boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy.
+Introduces the glossary and references sections, completes the publication layer, aligns routing, strengthens continuity terminology, updates regulatory alignment, and adds the continuity test suite, governed boundaries specification, enterprise controls checklist, and continuity failure‑mode taxonomy.
 
 white-paper/release-notesv1.5.md — Navigation Spine, Cross-Links Standardization, Diagram Placement, Routing Stability  
 Defines the navigation spine for the white-paper corpus, standardizes cross-links across all major artifacts, and verifies external-facing pages routing. Adds diagram placeholders, harmonizes conceptual models, and prepares corpus for future visual integration.
