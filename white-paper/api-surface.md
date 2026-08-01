@@ -68,13 +68,13 @@ All API calls must:
 
 - operate within non‑advisory domains  
 - avoid generating advisory‑state or advisory‑activity outputs  
-- preserve continuity without forming regulated guidance  
+- preserve continuity without forming advisory-adjacent guidance  
 - surface guardrail‑activation telemetry  
 - maintain complete audit logging  
 - enforce supervisory‑gate constraints  
 - behave deterministically across sessions  
 
-The API surface is the first standardized interface for safe continuity. It ensures that retained structures cannot be used to generate regulated outputs and that computational memory remains a governed foundation layer supporting decision systems, not a decision system itself.  
+The API surface is the first standardized interface for safe continuity. It ensures that retained structures cannot be used to generate advisory outputs and that computational memory remains a governed foundation layer supporting decision systems, not a decision system itself.  
 
 ## Cross‑Links
 
