@@ -1,4 +1,4 @@
-**AI Structural Shortfalls: Canonical List of 20 Enterprise‑Grade Failures
+# AI Structural Shortfalls: Canonical List of 20 Enterprise‑Grade Failures
 
 **1. Structural Blindness to Real‑World Time** – AI systems cannot perceive actual time, date, or day‑of‑week and rely entirely on user‑provided cues. When none are given, they default to incorrect assumptions, breaking continuity and forcing repeated correction. Multi‑hour workflows destabilize because the model cannot anchor reasoning to real temporal context, causing drift, resets, and misaligned execution.
 
