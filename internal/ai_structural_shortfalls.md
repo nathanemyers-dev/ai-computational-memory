@@ -58,7 +58,7 @@ The user requests a revised email draft on a mobile app and explicitly states th
 **12. Structural Markup Override on Multifaceted Prompts** – AI imposes segmentation, scaffolding, and meta‑structure even when the user requests a unified output.
 
 **Example:**  
-The user requests a three‑sentence paragraph with each sentence meeting a specific criterion, and the model responds with separated sentences, scaffolding, and bolded headers instead of producing the unified paragraph requested.
+The user requests a three‑sentence paragraph with each sentence meeting a specific criterion, and the model responds with separated sentences, each set apart by bolded headers and logic scaffolding, instead of producing the unified paragraph requested. User must cycle again to consolidate for usable text.
 
 **13. Inability to Maintain User‑Selected Communication Altitude** – AI cannot reliably adhere to senior‑operator tone or suppress model‑specific artifacts such as informal greetings, soft cadence, or em‑dash overuse.
 
